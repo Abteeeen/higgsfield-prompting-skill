@@ -2,7 +2,7 @@
 
 Welcome to the official HIGGY Wiki, a structured knowledge base compiled for advanced AI content creation using ByteDance's **Seedance 2.0** multimodal video generation model.
 
-This wiki is organized into three primary sub-topics:
+This wiki is organized into five primary sub-topics:
 
 1. **[Text Prompting Guide](./text_prompting.md)**
    - Covers the fundamentals of writing natural language prompts, the 4-part prompt structure, camera language, and weak vs. strong prompting comparisons.
@@ -10,6 +10,10 @@ This wiki is organized into three primary sub-topics:
    - Explores the `@` reference system, multimodal input limits, video-to-video VFX, and first/last frame controls.
 3. **[Advanced Prompting Techniques](./advanced_techniques.md)**
    - Detailed guide on the production-grade JSON prompt format, character consistency pipelines, the Omni Reference "Ingredient" System, and speed ramping.
+4. **[Elements System & Character Consistency Master Guide](./elements_and_consistency.md)**
+   - The Higgsfield Elements reusable-asset library (exact name matching, `@` element lists, schematic maps), Soul ID persistent identity training, the full 3-stage production workflow with verbatim asset prompts, the 2026 consistency-tool comparison (Soul ID vs Flux.2 vs LoRA vs Runway etc.), Canvas, Cinema Studio, and a consistency failure→fix cheat sheet.
+5. **[Format Playbooks](./format_playbooks.md)**
+   - Official per-format prompt modes (Transformations, Orbs, POVs, Fights, Animation), the 3 video-to-video VFX difficulty levels, lock-header language, inline `[VFX: ...]` brackets, the NON-IP directive, positive locks / negative blocks, and the film-stock & FOV lexicon.
 
 ---
 ## External Resources & Platforms
