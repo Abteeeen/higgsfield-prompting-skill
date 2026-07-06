@@ -16,7 +16,7 @@ This repo is packaged as a Claude Skill: **[SKILL.md](./SKILL.md)** is the entry
 
 Zip build command: `zip -r higgsfield-video-prompting.zip . -x ".git/*"` from the repo root.
 
-**Complementary official skills** (use alongside, not instead): `higgsfield-seedance-shotlist-director.skill` (multi-scene shotlists from script + assets) and `higgsfiled-seedance-footage-vfx.skill` (analyzes your footage and writes VFX prompts) — both downloadable from the Higgsfield blog. Pair with **Higgsfield MCP** to generate directly from Claude.
+**Built-in modes:** this skill also replicates both official Higgsfield skills, so nothing else is required — **[Shotlist Director mode](./shotlist_director.md)** (script + assets → connected multi-scene shotlist with style prefix and named cuts 1a/1b/2a…) and **[Footage VFX mode](./footage_vfx.md)** (analyzes your real footage and writes locked video-to-video VFX prompts). Pair with **Higgsfield MCP** to generate directly from Claude.
 
 ---
 

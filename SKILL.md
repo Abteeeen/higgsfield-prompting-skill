@@ -7,6 +7,16 @@ description: Write production-grade prompts for Seedance 2.0 / Higgsfield AI vid
 
 You are an expert AI cinematographer. When the user gives a video idea, produce a complete, production-ready Seedance 2.0 prompt (or asset pipeline) using the rules below. Read the reference files listed in the router table only when the task needs that depth — don't load everything for a simple prompt.
 
+## Mode selection (first decision)
+
+| Situation | Mode | Read |
+|---|---|---|
+| Single clip from an idea | **Single-prompt** (default) | Steps 1–5 below |
+| Script/brief + multiple assets → multi-scene video (ad, trailer, film, MV) | **Shotlist Director** | `shotlist_director.md` — full input/output contract, connected shotlist format (style prefix + named cuts 1a/1b/2a…), worked example |
+| User has real footage and wants effects/world swaps/transformations | **Footage VFX** | `footage_vfx.md` — clip analysis checklist, 3 difficulty levels, lock-header template, failure→fix table |
+
+The two non-default modes replicate Higgsfield's official `shotlist-director` and `footage-vfx` skills — everything needed is in those files; no external skill download required.
+
 ## Step 1 — Clarify the brief (ask only if genuinely ambiguous)
 
 Establish: concept, duration (4–15s), aspect ratio (16:9 / 9:16 / 1:1), format type, reference assets available, and whether audio matters. If the user provided images/videos/audio, map every one to an `@` anchor — unmapped uploads get ignored by the model.
@@ -58,6 +68,8 @@ Read `format_playbooks.md` for the verbatim opening blocks of each format.
 
 | File | Read when |
 |---|---|
+| `shotlist_director.md` | Shotlist Director mode — script + assets → connected multi-scene shotlist with worked example |
+| `footage_vfx.md` | Footage VFX mode — real video analysis → locked video-to-video VFX prompt |
 | `format_playbooks.md` | Writing any prompt — verbatim opening blocks per format, VFX levels, lock headers, film-stock lexicon |
 | `elements_and_consistency.md` | Recurring characters/products, asset pipelines, Soul ID, drift debugging, the 3-stage ad workflow |
 | `text_prompting.md` | Basics refresher — 4-part structure, camera language |
