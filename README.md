@@ -2,6 +2,24 @@
 
 Welcome to the official HIGGY Wiki, a structured knowledge base compiled for advanced AI content creation using ByteDance's **Seedance 2.0** multimodal video generation model.
 
+## 🎬 Use This Repo as a Claude Skill
+
+This repo is packaged as a Claude Skill: **[SKILL.md](./SKILL.md)** is the entry point, and the wiki files below are its on-demand references. Once installed, Claude automatically applies the full prompting methodology whenever you ask for a video prompt — no need to paste anything.
+
+**Install options:**
+
+| Where | How |
+|---|---|
+| **claude.ai / Claude Desktop** | Zip this folder (or download the release zip) → Settings → Capabilities (Customize) → Skills → Upload. Then just ask for video prompts in any chat. |
+| **Claude Code (per project)** | Clone into `.claude/skills/higgsfield-video-prompting/` inside your project. |
+| **Claude Code (global)** | Clone into `~/.claude/skills/higgsfield-video-prompting/` — available in every project. |
+
+Zip build command: `zip -r higgsfield-video-prompting.zip . -x ".git/*"` from the repo root.
+
+**Complementary official skills** (use alongside, not instead): `higgsfield-seedance-shotlist-director.skill` (multi-scene shotlists from script + assets) and `higgsfiled-seedance-footage-vfx.skill` (analyzes your footage and writes VFX prompts) — both downloadable from the Higgsfield blog. Pair with **Higgsfield MCP** to generate directly from Claude.
+
+---
+
 This wiki is organized into five primary sub-topics:
 
 1. **[Text Prompting Guide](./text_prompting.md)**
