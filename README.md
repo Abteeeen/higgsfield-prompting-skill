@@ -1,0 +1,19 @@
+# HIGGY — Seedance 2.0 Prompting Wiki
+
+Welcome to the official HIGGY Wiki, a structured knowledge base compiled for advanced AI content creation using ByteDance's **Seedance 2.0** multimodal video generation model.
+
+This wiki is organized into three primary sub-topics:
+
+1. **[Text Prompting Guide](./text_prompting.md)**
+   - Covers the fundamentals of writing natural language prompts, the 4-part prompt structure, camera language, and weak vs. strong prompting comparisons.
+2. **[Multimedia Prompting Guide](./multimedia_prompting.md)**
+   - Explores the `@` reference system, multimodal input limits, video-to-video VFX, and first/last frame controls.
+3. **[Advanced Prompting Techniques](./advanced_techniques.md)**
+   - Detailed guide on the production-grade JSON prompt format, character consistency pipelines, the Omni Reference "Ingredient" System, and speed ramping.
+
+---
+## External Resources & Platforms
+For more tools, community tips, and official repositories, refer to:
+- **GitHub**: [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)
+- **Hugging Face**: [ByteDance Model Space](https://huggingface.co/ByteDance)
+- **Twitter/X**: [@higgsfield_ai](https://x.com/higgsfield_ai)
