@@ -21,3 +21,4 @@ For more tools, community tips, and official repositories, refer to:
 - **GitHub**: [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)
 - **Hugging Face**: [ByteDance Model Space](https://huggingface.co/ByteDance)
 - **Twitter/X**: [@higgsfield_ai](https://x.com/higgsfield_ai)
+USE WITH CAUTION
