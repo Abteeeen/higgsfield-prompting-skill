@@ -1,0 +1,31 @@
+# YouTube transcript analysis
+
+Observed 2026-11-21. Ten complete transcript exports were read. This meets the transcript quantity, **not yet the requirement that all ten be demonstrably popular**. Metrics below are public rounded display values, not audited organic reach. Transcript analysis does not mean every demonstration frame was watched. Auto-captions frequently misrecognize Seedance, Higgsfield and model numbers; confirm specifications against official documentation and the live interface.
+
+| # | Source | Observed reach | Analysis and practical use |
+| --- | --- | --- | --- |
+| 1 | [Sebastien Jefferies: Seedance 2.5 in Dreamina](https://www.youtube.com/watch?v=lEInQchMDgc) | 129k views; 617 likes | Assign reference roles instead of redescribing every asset. Build a short sequence with time budgets; repair localized defects. Demonstrates blockouts and longer-video workflows. Launch exclusivity, pricing and availability are time-sensitive promotional claims. |
+| 2 | [Graphics LAB: AI film in three steps](https://www.youtube.com/watch?v=963d7IGXcrU) | 2.2k views; 36 likes | Italian transcript. Asset preparation precedes animation; a color-script reference can separate the moods of three scenes. Uses seven takes for a roughly 90-second short and selects good portions. Shows backward-motion failure. Exact-cut and near-perfection claims do not establish reliable timing. Low reach: supplemental, not a popular-source qualifier. |
+| 3 | [Teacher's Tech: prompting technique](https://www.youtube.com/watch?v=AvB-dfxTMgE) | 11k views; 200 likes | Sponsored Higgsfield tutorial. Compares vague fishing prompt with subject/action/camera/light/style/audio specification. Splitting an overloaded beat improves staging; puts shark at a defined distance and side of boat. A face and voice reference replace vague identity prose. Useful full 30-second prompt construction; old 720p ceiling is not current model documentation. |
+| 4 | [Digital Art Creation: Dreamina control tutorial](https://www.youtube.com/watch?v=UTw23USpXzE) | 25k views; 18 likes | Character, scene, motion and music references each have separate roles. Pit-stop example uses arrival, tire change and exit beats; edit example changes car livery. Explicitly acknowledges stochastic takes. Drafting with another model tests the idea, not identical final-model behavior. Promotional rankings and prices are not adopted. |
+| 5 | [Higgsfield: VFX on real footage](https://www.youtube.com/watch?v=Yte-UGhYkPQ) | 450k views; 10,356 likes | Preserve identity/performance/camera, define the changed region and trigger. Progresses from world replacement to one-element effects to complex scenes. Capture source performance with the final effect in mind. Relighting can be necessary for integration. Claims of perfect preservation and universal 4K superiority are showcase marketing, not controlled evidence. |
+| 6 | [Kaye: six steps to reduce wasted credits](https://www.youtube.com/watch?v=USPWGH5YcIU) | 155k views; 4,135 likes | Prepare character and environment references, relight the character to the scene, approve keyframes before animation. Compares separate clips, reference-driven sequence and text-directed sequence. Soul ID is shown with Soul, not universal automatic video identity. Advice about negatives differs across sections; test constraints rather than adopt a blanket rule. |
+| 7 | [Higgsfield: five-step short-film workflow](https://www.youtube.com/watch?v=HSON-SoFz7s) | 426k views; 8,601 likes | 33-minute walkthrough includes rejected assets and revised takes. Inspect props for volume and locations for impossible objects. Add an annotated reference for precise interaction with a button; diversify reference characters to avoid cloned crowds. Scene-on-TV example needs explicit screen geometry. Several changes happen together, so individual causal effects are not isolated. |
+| 8 | [Jack Vs. AI: storyboard to video](https://www.youtube.com/watch?v=Is4wgEpPMJQ) | 289k views in suggested-video display | Character sheet → storyboard → correction of an inconsistent panel → video. Strong caveat: storyboard frames are interpreted as key beats, not copied frame for frame. Missing facial reference beneath goggles causes drift. Use this for rapid prototypes; generate critical shots separately when precision matters. |
+| 9 | [AI Shot Studio: 42 camera movements](https://www.youtube.com/watch?v=HOjCT6TxlHM) | 271k views in suggested-video display | Full transcript is primarily labels over demonstrations. Separates dolly/zoom, truck/pan, orbit, crane/pedestal, rack focus and tracking vocabulary. Useful vocabulary supplement; transcript alone cannot establish the model's compliance. Not specifically a Dreamina/Higgsfield workflow. |
+| 10 | [Dan Kieft: cinematic AI ads](https://www.youtube.com/watch?v=sMNjQ2Gks_4) | 77k views in suggested-video display | Story → age-specific character references → moodboard → locations → organized asset bank. Distinguishes first-frame control from general reference input and storyboard guidance. Uses edits to select useful moments. Celebrity/brand examples are demonstrations; our original variations should not imply endorsements or copy the ad's assets. |
+
+## Synthesis
+
+References reduce ambiguity only when their roles are clear. Planning shot progression before spending on animation recurs across tutorials. Full-sequence prompting is fast but sacrifices exact control; separate-shot generation and editing remain useful. Creator demonstrations provide testable hypotheses, not universal success rates. Several tutorials promote Higgsfield or paid communities, so popularity should not be confused with independent validation.
+
+## Next experiments
+
+Proposed for after explicit production authorization. Do not run them while the current research-only instruction is in effect.
+
+1. Same scene, same model/settings: minimal text versus explicit reference roles.
+2. Same sequence: one overloaded beat versus two paced beats.
+3. Same character: reference lighting carried through versus an explicit scene-relighting instruction.
+4. Storyboard sequence versus individually generated shots, judged for continuity and usable seconds per attempt.
+
+Use repeated trials and record failures as well as keepers. Do not infer success from one cherry-picked result.

@@ -1,35 +1,36 @@
 ---
-name: Seedance 2.0 Prompting
-description: Expert system for writing production-grade cinematic prompts for the Seedance 2.0 multimodal model, handling text, video-to-video, and omni-references.
+name: ai-video-prompting-lab
+description: Research current short-form AI video trends, prepare platform-specific Higgsfield and Dreamina prompts, and evaluate generation experiments using attributable evidence.
 ---
 
-# Seedance AI Director Skill
+# AI video prompting lab
 
-You are an expert AI Cinematographer and Prompt Engineer for Seedance 2.0. 
+Read [CURRENT_WORKFLOW.md](CURRENT_WORKFLOW.md) first. Check [research status](research/2026-11-21/STATUS.md) before claiming the research is complete. Historical July files are idea libraries, not authoritative model specifications.
 
-You have access to a comprehensive knowledge base in this repository. **Do not guess or hallucinate Seedance syntax.** Instead, use your file reading tools to pull the exact syntax from the reference files listed below based on what the user needs.
+## Working priorities
 
-## Progressive Disclosure Routing
+Current user direction (2026-11-21): research and agree the strategy first. Do not submit image or video generations until the user explicitly instructs production to begin. A prepared prompt is a draft only.
 
-Whenever the user asks you to write a Seedance prompt, determine what features they need and READ the corresponding file(s) before answering:
+The user has no fixed niche. Select current, demonstrably growing formats by dated evidence. Higgsfield is the first test platform; Dreamina is the intended platform for eligible Spotlight entries. Do not silently replace unlimited generation with paid credit generation.
 
-1. **If the user asks for a standard text prompt or camera movement:**
-   👉 READ: `text_prompting.md`
-   *(Contains the 4-Part Structure, camera vocabulary, and weak vs. strong examples).*
+## Research
 
-2. **If the user provides reference images/videos, asks for Video-to-Video VFX, or wants to lock a character's face/identity:**
-   👉 READ: `multimedia_prompting.md`
-   *(Contains the `@` syntax, timeline segmenting, and the critical Source Lock Header).*
+For each source record the URL, creator, publication date if exposed, observation date, visible engagement, access depth, actionable lesson and limitation. Distinguish full article/transcript reading from video inspection, and distinguish views from proof of technical accuracy. Keep low-engagement, sponsored, gated and outdated material labeled. Do not count duplicate cross-posts twice or claim platform-wide rankings from a small sample.
 
-3. **If the user asks for speed ramping, complex lighting (chiaroscuro/volumetric), JSON formatting, or Omni-References:**
-   👉 READ: `advanced_techniques.md`
-   *(Contains production-grade structures, speed curves, and ingredient blending).*
+For trends, inspect the opening, sequence of events, emotional or visual payoff, ending and repeatability. Develop an original variation with its own characters and assets. Do not promise a view count or prize.
 
-## Universal QA Checklist
-Before outputting any prompt to the user, ensure:
-- [ ] Is the action and subject highly specific?
-- [ ] Is there a defined camera movement (e.g., dolly in, whip pan)?
-- [ ] Are the lighting and atmospheric effects explicitly stated?
-- [ ] If reference assets are used, did you include the exact `@Image1` or `@Video1` anchors?
+## Prompt and generation
 
-Always deliver your final prompts in a clean, copyable code block so the user can easily paste it into Seedance 2.0.
+1. Verify the selected platform, model version and mode. Read current controls for supported duration, resolution, aspect ratio, audio and references. Verify the displayed cost and unlimited status before submission.
+2. Define the visible subject, location, action and final state. Add only relevant identity, environment, product, motion or voice references.
+3. Assign each reference its role using the real interface. Never invent token names or assume that syntax from another host is valid here.
+4. Describe observable actions and a coherent camera plan. For multishot sequences, use contiguous approximate beats and explicit cuts. A static shot is valid; every prompt does not need camera motion.
+5. Specify sound and speaker intent when relevant. Treat timestamps, identity preservation and negative instructions as goals to test, not guarantees.
+6. Deliver a copyable prompt and a separate settings list. JSON can organize planning; it is not automatically an engine-control schema.
+7. Log the exact submitted prompt, settings, reference versions, job ID, cost and result. A click rejected by a queue limit is not a submitted generation.
+
+## Review
+
+Inspect the entire generated clip for identity, contact, anatomy, object permanence, continuity, action completion, audio and ending. Verify actual export dimensions and duration. Compare variants with one controlled change; record failures as well as successes. Do not infer recovered source detail from sharpening or upscaling.
+
+Before a Dreamina entry, read the [Spotlight evidence](research/2026-11-21/DREAMINA_SPOTLIGHT.md) and resolve eligibility, deadline, provenance and submission requirements in the current official terms. A Higgsfield experiment does not automatically qualify as a Dreamina production.

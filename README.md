@@ -1,24 +1,34 @@
-# HIGGY — Seedance 2.0 Prompting Wiki
+# AI video research and prompting lab
 
-Welcome to the official HIGGY Wiki, a structured knowledge base compiled for advanced AI content creation using ByteDance's **Seedance 2.0** multimodal video generation model.
+Working knowledge base for original short-form AI videos using Higgsfield and Dreamina. Updated 2026-11-21. We follow promising formats across niches, test in Higgsfield, and prepare eligible Dreamina productions after checking program requirements. Audience reach and prize payments are targets, not promises.
 
-This wiki is organized into five primary sub-topics:
+**The research is in progress.** Ten article bodies, 21 Reddit post bodies and ten YouTube transcripts have been read, but the requested popularity standard and complete Instagram tutorial coverage are not yet met. See the evidence ledger rather than treating discovery counts as completed research.
 
-1. **[Text Prompting Guide](./text_prompting.md)**
-   - Covers the fundamentals of writing natural language prompts, the 4-part prompt structure, camera language, and weak vs. strong prompting comparisons.
-2. **[Multimedia Prompting Guide](./multimedia_prompting.md)**
-   - Explores the `@` reference system, multimodal input limits, video-to-video VFX, and first/last frame controls.
-3. **[Advanced Prompting Techniques](./advanced_techniques.md)**
-   - Detailed guide on the production-grade JSON prompt format, character consistency pipelines, the Omni Reference "Ingredient" System, and speed ramping.
-4. **[Elements System & Character Consistency Master Guide](./elements_and_consistency.md)**
-   - The Higgsfield Elements reusable-asset library (exact name matching, `@` element lists, schematic maps), Soul ID persistent identity training, the full 3-stage production workflow with verbatim asset prompts, the 2026 consistency-tool comparison (Soul ID vs Flux.2 vs LoRA vs Runway etc.), Canvas, Cinema Studio, and a consistency failure→fix cheat sheet.
-5. **[Format Playbooks](./format_playbooks.md)**
-   - Official per-format prompt modes (Transformations, Orbs, POVs, Fights, Animation), the 3 video-to-video VFX difficulty levels, lock-header language, inline `[VFX: ...]` brackets, the NON-IP directive, positive locks / negative blocks, and the film-stock & FOV lexicon.
+**Current scope: research and strategy only. Production is on hold until the user explicitly asks to begin.**
 
----
-## External Resources & Platforms
-For more tools, community tips, and official repositories, refer to:
-- **GitHub**: [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)
-- **Hugging Face**: [ByteDance Model Space](https://huggingface.co/ByteDance)
-- **Twitter/X**: [@higgsfield_ai](https://x.com/higgsfield_ai)
-USE WITH CAUTION
+## Start here
+
+- [Strategy proposal for discussion](STRATEGY.md)
+- [Current production and prompting workflow](CURRENT_WORKFLOW.md)
+- [Agent instructions](SKILL.md)
+- [Research status and remaining work](research/2026-11-21/STATUS.md)
+- [Repository audit and corrected claims](research/2026-11-21/REPO_AUDIT.md)
+- [Blog reading ledger](research/2026-11-21/BLOGS.md)
+- [Reddit reading ledger](research/2026-11-21/REDDIT.md)
+- [YouTube transcript analysis](research/2026-11-21/YOUTUBE.md)
+- [Instagram review ledger](research/2026-11-21/INSTAGRAM.md)
+- [Recent viral candidates and original adaptation](research/2026-11-21/VIRAL_CANDIDATES.md)
+- [Dreamina Spotlight evidence and unresolved terms](research/2026-11-21/DREAMINA_SPOTLIGHT.md)
+- [Unapproved concept and attempt log: The Last Light](experiments/2026-11-21-last-light/README.md)
+
+## How this lab works
+
+Record the actual platform, model, controls, references and cost. Use clear scene actions and deliberate shot planning. Change one variable per experiment; inspect the complete output before declaring success. Learn from a trend's hook, pacing and payoff while creating new characters, scenes and assets.
+
+Keep the original source URL, observation date, engagement snapshot and access depth beside every research claim. A caption, search snippet or gated prompt is not a fully inspected tutorial. Official documentation can also become stale; current account controls decide what can actually be submitted.
+
+## Historical notes
+
+The previous README and skill are preserved in [archive/2026-07](archive/2026-07). Existing topic files remain available with historical notices. They contain useful ideas alongside unsupported syntax, benchmarks and stale specifications. They no longer define the current workflow.
+
+This is an independent working repository, not an official Higgsfield, Dreamina or ByteDance specification.

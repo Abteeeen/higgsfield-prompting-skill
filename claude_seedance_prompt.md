@@ -1,3 +1,5 @@
+> Historical July 2026 research notes. Preserved for reference, not current platform specifications. Some claims are unsupported or superseded. Start with [CURRENT_WORKFLOW.md](CURRENT_WORKFLOW.md) and the [audit](research/2026-11-21/REPO_AUDIT.md).
+
 # Claude System Prompt: Seedance 2.0 Master Prompt Generator
 
 Copy and paste the entire block of text below into Claude (either as a System Prompt in a Project, or as the very first message in a new conversation) to teach it how to write perfect Seedance 2.0 prompts for you.
