@@ -43,6 +43,8 @@ Treat an assistant's script-retention score and estimated narration clock as pla
 
 For acting, connect a visible trigger or spoken line to a restrained physical response, then describe how blocking and framing support it. The [reviewed mother–daughter scene](https://www.reddit.com/r/Seedance_AI/comments/1vrjlk3/seedance_25_acting_prompt_tutorial_how_i_built_a/) builds tension but develops pronounced facial redness and an exaggerated expression near the climax. Treat subtle reactions as a test target, not a guaranteed prompt fix. Inspect the strongest emotional beat as closely as the opening, and keep dialogue timing separate from automatic transcript timestamps, which can overrun the actual file. The published example does not include its full production inputs.
 
+Compare the published prompt’s event and duration with the actual demonstration before borrowing it. A [classroom example](https://www.reddit.com/r/Seedance_AI/comments/1x6t7ph/an_8second_classroom_drama_made_with_seedance_25/) pairs an eight-second gesture prompt with a roughly thirty-second fight. Missing inputs prevent attributing that result to the displayed text. For multi-character action, inspect close-ups and transitions for transferred wardrobe as well as facial identity: the [rooftop example](https://www.reddit.com/r/Seedance_AI/comments/1x97lk3/seedance_25_anime_fight_prompt_a_fourshot_rooftop/) briefly combines the two characters’ assigned clothing details. These are observed failure cases, not evidence for a universal prompt-length limit.
+
 ## Platform adaptation
 
 | Task | Higgsfield | Dreamina |
