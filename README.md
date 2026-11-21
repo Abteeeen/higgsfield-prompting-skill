@@ -28,6 +28,7 @@ Working knowledge base for original short-form AI videos using Higgsfield and Dr
 - [Recent viral candidates and original adaptation](research/2026-11-21/VIRAL_CANDIDATES.md)
 - [Dreamina Spotlight evidence and unresolved terms](research/2026-11-21/DREAMINA_SPOTLIGHT.md)
 - [Unapproved concept and attempt log: The Last Light](experiments/2026-11-21-last-light/README.md)
+- [Paper-only guiding interaction test](experiments/2026-11-22-guiding-light/PAPER_TEST.md)
 
 ## How this lab works
 

@@ -14,7 +14,7 @@ A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.
 
 ## Decision brief
 
-For the next story discussion, put **E1 — The Last Light** and **T1 — The Last Ticket Booth** first. They adapt the emotional-story and progressive-transformation mechanisms of the two highest-view examples we inspected. Keep surreal companionship and physical comedy as alternatives, without fixing the account's niche. These priorities come from a four-post sample, not a proven ranking of formats or a forecast of our results.
+For the next story discussion, put **E1 — The Last Light** first on the current evidence. **T1 — The Last Ticket Booth** remains a historical format option, but its supporting November 14 post has aged out of the current week; obtain a fresh qualifying example before treating it as a current trend choice. Compare surreal companionship and physical comedy as alternatives, without fixing the account's niche. These judgments come from a four-post sample, not a proven ranking of formats or a forecast of our results.
 
 | Direction | Proposed original concept | First technical question, only after authorization | What success would establish |
 |---|---|---|---|

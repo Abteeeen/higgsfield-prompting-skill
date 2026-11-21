@@ -2,6 +2,8 @@
 
 Prepared 2026-11-21. These are original paper concepts, not approved productions or proven viral formats. No images, videos or generation jobs were created for this document. The user will provide Dreamina account access later; account-dependent program checks remain open.
 
+Updated November 22: the dinosaur reel now has a related public recipe reviewed in [KAYE_GUIDES.md](research/2026-11-22/KAYE_GUIDES.md). The November 14 transformation is outside the current trailing week. Its concept options remain historical format exploration, not evidence that this format is currently breaking out.
+
 ## What the evidence supports
 
 The [recent-candidate ledger](research/2026-11-21/VIRAL_CANDIDATES.md) contains four inspected examples from the trailing week at their November 21 observation times. It supports comparing four different creative directions. It does not prove that any direction is broadly trending across independent creators or that our account can reproduce the reach.
@@ -9,11 +11,11 @@ The [recent-candidate ledger](research/2026-11-21/VIRAL_CANDIDATES.md) contains 
 | Direction and source | Observed evidence | Useful story mechanism | Main uncertainty |
 |---|---|---|---|
 | [Hidden-worker emotional story](https://www.instagram.com/reel/Df9p5sCxV2Z/) | November 20; 72.5M displayed views; about 114 seconds | An ordinary object hides an unexpected life; effort has a concrete purpose and a visible consequence | One exceptional result; shortening it may remove the relationship-building that makes the ending work |
-| [Impossible everyday companion](https://www.instagram.com/reel/Df6Ho3VSBXy/) | November 19; 2.2M displayed views; about 30 seconds | An impossible creature behaves like a familiar companion in recognizable situations | Large existing audience; no accessible production recipe or evidence that spectacle alone explains reach |
+| [Impossible everyday companion](https://www.instagram.com/reel/Df6Ho3VSBXy/) | November 19; 2.2M displayed views; 29.929 seconds | An impossible creature behaves like a familiar companion in recognizable situations | Large existing audience; a related public recipe has been reviewed, but exact original run provenance and the cause of reach remain unknown |
 | [Football reaction comedy](https://www.instagram.com/reel/Df0eWO5x9i4/) | November 17 UTC; 11M displayed views; about 21 seconds | An easy task fails, reactions escalate, and the consequences become the joke | Celebrity/team recognition may matter; an original fictional version loses that recognition advantage |
-| [Concealed-home transformation](https://www.instagram.com/reel/DfvVinmSEN-/) | November 14, 23:00 UTC; 25.4M displayed views; about 82.5 seconds | Conflict creates a reason for change; successive improvements build toward a concealed-space reveal | Near the weekly boundary; comments dispute plausibility; one creator's breakout is not independent replication |
+| [Concealed-home transformation](https://www.instagram.com/reel/DfvVinmSEN-/) | November 14, 23:00 UTC; 25.4M displayed views; about 82.5 seconds | Conflict creates a reason for change; successive improvements build toward a concealed-space reveal | Outside the trailing week at the November 22 checkpoint; comments dispute plausibility; one creator's breakout is not independent replication |
 
-All view counts are November 21 snapshots recorded in the ledger, not current counters or audited organic views. The latter two source runtimes do not independently satisfy Spotlight's 30-second minimum. Suggested lengths below serve the new stories; they are not claims of eligibility.
+All view counts are November 21 snapshots recorded in the ledger, not current counters or audited organic views. The 29.929-second dinosaur reel and roughly 21-second football reel are below Spotlight's stated 30-second minimum. The roughly 114-second hidden-worker story and 82.5-second transformation exceed that duration minimum, but runtime alone does not establish program eligibility. Suggested lengths below serve the new stories; they are not claims of eligibility.
 
 ## Twelve original options
 
@@ -60,7 +62,7 @@ These judgments concern clarity and production complexity, not predicted views.
 | **K2 — The Overprepared Goalie** | Clear visual irony and an ending that remains understandable without celebrity recognition | Equipment changes break continuity, the ball path cannot be read, or the comedy depends on dialogue rather than action |
 | **T1 — The Last Ticket Booth** | A fixed location, visible stages and a human reason for the finished space; covers the fourth observed format | The booth grows between shots, the shelves block the door, intermediate stages repeat, or the ending is only a room tour |
 
-For story discussion, prioritize E1 and T1: they adapt the two highest-view examples in this small sample and have explicit causal payoffs. This is a planning choice, not a forecast of reach. C1 is a simpler alternative and K2 supplies a different comedic direction. Choose the story before choosing a technical test: if E1 is selected, test its guiding-light interaction rather than spending on an unrelated cloud scene. The user has not selected a concept, and no generation is authorized.
+For story discussion, E1 and T1 adapt the two highest-view examples in the November 21 sample and have explicit causal payoffs. For a current-week trend decision on November 22, E1 retains recent source support while T1 requires a fresh qualifying example; keep C1 and K2 in the comparison. This is a planning choice, not a forecast of reach. Choose the story before choosing a technical test: if E1 is selected, test its guiding-light interaction rather than spending on an unrelated cloud scene. The user has not selected a concept, and no generation is authorized.
 
 ## Paper review before any production
 
@@ -89,6 +91,8 @@ Minimum assets: one person/outfit reference, one cloud silhouette reference, hal
 6. The child places a small cloth beside the sheltered doorstep. The firefly settles; a final gentle glow illuminates the child's relieved face.
 
 Minimum assets: firefly appearance/scale reference, child/outfit reference, streetlamp, lane layout and doorstep. Hardest interaction: a tiny moving light guiding a consistently sized child through darkness. A later test could compare a broad instruction to follow the firefly with explicit lead/follower positions. Check scale, screen direction, visibility and whether the light source remains the same creature. The test would not establish whether the whole story is emotionally effective.
+
+The [paper interaction-test brief](experiments/2026-11-22-guiding-light/PAPER_TEST.md) provides the proposed settings, two prompt variants and whole-output review criteria. It is conditional on selecting E1 and authorizing production; no reference assets or runs have been created.
 
 ### K2 paper outline
 

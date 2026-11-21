@@ -2,7 +2,7 @@
 
 [Adil: How to Create AI Love Stories](https://higgsfield.ai/@adilinthewild/blogs/youtube-guide-ai-lovestory-video). Observed November 22, 2026: **21.2K views, 51 likes, nine comments**. Header displays August 21, 01:20, without timezone. Selected from the recorded Higgsfield Most liked queue; not a Medium article or independently established viral result.
 
-The complete exposed body was read, including five asset prompts, ten scene prompts across six eras, the closing editing instructions and all nine comments. That earlier read increased article-body coverage to 30; the subsequent realism guide brought the corpus to 31. A later visual pass inspected 55 of the 56 unique article image URLs excluding the avatar, including the cover and repeated/variant reference images. The remaining queen-sheet download is pending. The embedded audio received a whole-file automatic speech check, with the limits below. The optional downloadable prompt-builder specification remains unread. No finished film was present in the inspected article video elements. This is a complete body read, not proof of reproduction.
+The complete exposed body was read, including five asset prompts, ten scene prompts across six eras, the closing editing instructions and all nine comments. That earlier read increased article-body coverage to 30; the subsequent realism guide brought the corpus to 31. A later visual pass inspected all 56 unique article image URLs excluding the avatar, including the cover and repeated/variant reference images. The embedded audio received a whole-file automatic speech check, with the limits below. The optional downloadable prompt-builder specification remains unread. No finished film was present in the inspected article video elements. This is a complete body read, not proof of reproduction.
 
 ## Useful structure
 
@@ -19,7 +19,7 @@ Useful conventions include giving each character an immediate goal, letting reac
 | Giant costume | Preparation describes two chains over the shoulders; the fight specifies one chain routed under the arms. |
 | Queen scene | Advertised as eight cuts, but the exposed prompt stops during the seventh. Its text field and recreation-link payload end at the same unfinished background description. This is missing published content, not merely a truncated reading result. |
 | Train | Sixteen listed shots conflict with seventeen hard cuts. Storyboard descriptions use stale shot numbers; the detailed sequence references the sketches later. The heroine looks back in both shots 2 and 13 despite an only-once rule; the vocal cue moves between shots 1 and 2 in different sections. |
-| Carnival continuity | The couple has gloves in preceding scenes but bare hands in the touch scene without a stated transition. A rule allowing only the woman to move conflicts with the man's later approach. |
+| Carnival continuity | The preceding scene prompts give the couple gloves, then request bare hands for the touch without a stated transition; the female reference sheet itself shows bare hands. A rule allowing only the woman to move conflicts with the man's later approach. |
 | Reverse views | The parade is required to travel left-to-right in frontal views from opposite banks. A consistent physical procession normally reverses screen direction when viewed from the other side; reconcile the staging. |
 | Elevator performance | A fourteen-second conversation contains multiple spoken turns, humming, laughter, pauses and a handshake. Its unhurried delivery is a timing target that requires a real performance check. |
 
@@ -27,7 +27,7 @@ The same shot plan should settle these issues before more descriptive detail is 
 
 ## Reference-image and audio review
 
-The article's 223 image elements include many repeated references. Excluding the avatar yields 56 unique URLs, not 56 independent demonstrations. The 55 downloaded images reviewed so far contain 48 distinct byte hashes and 39 distinct decoded RGB images at their native dimensions. Even that pixel count includes close variants of the same reference. Raw files and the comparison record stay outside this repository.
+The article's 223 image elements include many repeated references. Excluding the avatar yields 56 unique URLs, not 56 independent demonstrations. The 56 downloaded images contain 49 distinct byte hashes and 39 distinct decoded RGB images at their native dimensions. Even that pixel count includes close variants of the same reference. Raw files and the comparison record stay outside this repository.
 
 | Reference group | What the images establish |
 |---|---|

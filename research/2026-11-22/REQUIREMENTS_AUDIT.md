@@ -14,6 +14,7 @@ This checkpoint audits the saved source records, rather than adding discovery UR
 | Recent Instagram AI formats across niches | Four dated candidates in the November 21 snapshot; three remain within the trailing week at the November 22 checkpoint. | Useful shortlist, not Instagram-wide top-view ranking or evidence of reliably repeatable virality. The November 14 transformation is historical for this checkpoint. |
 | Dreamina Spotlight strategy | Public carousel and submission form reviewed; account-specific terms unresolved. | Public reward tiers are recorded. Country/payment eligibility, view aggregation and other account-dependent terms await later access. |
 | Repository refresh and strategy | Historical claims archived/labeled; current workflow, strategy, twelve paper concepts and source ledgers on draft PR 2. | Reviewable research deliverable. Draft status and production hold remain appropriate while required research gaps are open. |
+| Prepare a first Higgsfield test within the revised scope | [Paper-only guiding interaction brief](../../experiments/2026-11-22-guiding-light/PAPER_TEST.md): proposed controls, reference composition, two prompt variants and review criteria. | Prepared for discussion if E1 is selected. No assets or runs exist; actual mode/control support and Unlimited allowance must be rechecked after authorization. The user expressly prohibited generation, so execution is not a current requirement. |
 
 ## Exact instructional subsets
 
@@ -35,7 +36,7 @@ Whole-file ASR and timeline samples cover the duration but do not establish cont
 
 ## Next work that actually closes gaps
 
-1. Finish the strongest selected blog bodies and their instructional figures/media. Prioritize the already identified cinematic-film guide and remaining love-story media; keep optional downloads separate from the public article review. Do not substitute more low-engagement bodies for popular full guides.
+1. Finish the strongest selected blog bodies and their instructional figures/media. Prioritize the already identified cinematic-film guide; the love-story image pass is complete, with audio-analysis limits recorded; keep optional downloads separate from the public article review. Do not substitute more low-engagement bodies for popular full guides.
 2. Resolve instruction-bearing media/text gaps in the identified Reddit and Instagram subsets. Preserve each post's popularity evidence and affiliation; replace a weak or inaccessible qualifying candidate only when necessary.
 3. Refresh the recent Instagram shortlist and obtain comparison evidence before calling a format repeatable. Historical technique research need not be repeated just because a weekly trend window changes.
 4. Keep account-dependent Spotlight verification deferred. Discuss the strategy and paper concepts before any future generation authorization.

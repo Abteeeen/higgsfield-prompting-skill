@@ -4,6 +4,8 @@
 
 Status: **production on hold by explicit user direction**. The earlier submission attempt was rejected because another existing unlimited job was processing; it created no new job. Do not retry. The material below is an unapproved concept draft and historical record, not a production instruction.
 
+The November 22 [paper interaction-test brief](../2026-11-22-guiding-light/PAPER_TEST.md) follows the newer strategy of testing the child's following action in one shot. It supersedes the four-shot proposal below for future test discussion, while preserving this rejected attempt unchanged as history. Neither document authorizes generation.
+
 ## Account and settings verified in the web UI
 
 Seedance 2.5, General, 9:16, 720p, high bitrate, audio on. The signed-in account exposed unlimited mode for 480p/720p. Selecting 30 seconds changed the button to a 210-credit generation and displayed “Change to 20s for Unlimited.” At 20 seconds with the unlimited switch enabled, the button explicitly read “Generate Unlimited.”
