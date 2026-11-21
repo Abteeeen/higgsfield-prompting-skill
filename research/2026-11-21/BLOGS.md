@@ -1,6 +1,6 @@
 # Blog and long-form reading ledger
 
-Observed 2026-11-21. Eleven complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: most Medium clap counts were unavailable, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
+Observed 2026-11-21. Twelve complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: most Medium clap counts were unavailable, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
 
 | Source / publication | Access and popularity evidence | What survives scrutiny / limitation |
 |---|---|---|
@@ -23,12 +23,17 @@ The author describes script review, timed beats, a narration plan, captions, an 
 
 Three claims need qualification. A script's predicted retention score is a planning heuristic, not measured audience retention. Estimated speech duration cannot guarantee every clip precisely fits the eventual performance. And the final step explicitly requires importing footage, captions and voiceover into an editor despite the opening claim about avoiding editing skills. After production is authorized, verify timing against the actual recorded/generated audio and inspect the final edit. No generation was performed while reading this article. Its figures and linked product were not individually reviewed.
 
+## Additional full article: Dreamina/CapCut pipeline
+
+[Sebastian Buzdugan's Dreamina/CapCut pipeline article](https://medium.com/@sebuzdugan/how-to-build-real-video-pipelines-with-bytedances-dreamina-seedance-2-0-in-capcut-d39aa3875138?sk=9760846fe054067900498880592307ef), March 27, 2026. **41 claps** verified in the article header. The author's official friend link opened the full body in Chrome, explicitly displaying free-access confirmation. Read through all sections, references and closing contact links. The web reader had returned a preview; that earlier access gap is resolved. No third-party paywall bypass was used.
+
+Retain its practical advice to version prompts, define observable objects/actions/camera movement, and treat generation as one stage of editing. Do not adopt its speculative descriptions of internal diffusion architecture, batching, quantization, training-data reuse or future APIs as verified ByteDance facts. The article frequently uses inference language and does not supply a controlled test, current interface walkthrough or complete shot recipe. Its generic comparison of other systems does not prove Seedance's architecture. It is a full-text research source with modest visible engagement, not evidence that the ten-popular-guides requirement is met. The cover figure and linked resources were not separately inspected.
+
 ## Excluded from the completed count
 
 - Paywalled Devenko viral-video and animation-factory articles: preview only.
 - A byDira article returned Gone.
 - Additional discovered Medium guides by 0xmega, Gautam Soni and no-time were not fully read in this pass.
-- [Sebastian Buzdugan's Dreamina/CapCut pipeline article](https://medium.com/@sebuzdugan/how-to-build-real-video-pipelines-with-bytedances-dreamina-seedance-2-0-in-capcut-d39aa3875138), March 27: Medium search displayed 41 claps and a member-only label. The author provides an [official free-reading link](https://medium.com/@sebuzdugan/how-to-build-real-video-pipelines-with-bytedances-dreamina-seedance-2-0-in-capcut-d39aa3875138?sk=9760846fe054067900498880592307ef). Search exposed substantial text, but opening that link in the web reader still returned only the preview. Full accessible article verification remains pending; excluded from completed and popularity-qualified totals. No third-party paywall bypass was used.
 
 ## Discovery limits checked directly
 

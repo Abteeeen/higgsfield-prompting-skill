@@ -12,6 +12,8 @@ A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.
 
 ## 1. Select trends by evidence
 
+A third current option is [football mishap and reaction comedy](https://www.instagram.com/reel/Df0eWO5x9i4/), observed at 11M views. Instagram's post timestamp is November 17 UTC, displayed locally as November 18; the metadata disagreement is recorded in the ledger. Its escalating player/coach reactions offer a different format from the two narrative examples. The 21-second Higgsfield-credited clip is a research reference, not evidence of Spotlight eligibility. An original fictional-team variation would need its own concept, source material and payoff before production approval.
+
 For each research session, collect a dated sample from Instagram across emotional animation, visual transformations, comedy, surreal everyday scenes and other emerging formats. These are search categories, not a permanent content niche.
 
 Each candidate record should include:

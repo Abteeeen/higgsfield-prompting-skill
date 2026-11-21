@@ -35,7 +35,17 @@ This changes the world, central action, relationship, stakes and ending. Do not 
 - The caption offers prompts through the comment keyword DINO. We did not comment or message the creator and have not read that gated guide. Do not count this showcase as one of the 20 instructional Instagram posts. Its exact generation platform/model is not established by the visible caption.
 - Eligibility concern: the downloaded file measures **29.929 seconds**, slightly under 30 seconds. This reel is a creative reference, not evidence of compliance with the Spotlight duration requirement. Any eventual submission must independently meet the program's full rules.
 
-Both candidates have a current publication date, but they do not establish a cross-creator trend. Before choosing one, compare more independent recent examples and separate routine keyword comments from spontaneous audience responses.
+## Recent candidate 3: football mishap and reaction comedy
+
+- Source: [@be.shyn's Ferran comedy reel](https://www.instagram.com/reel/Df0eWO5x9i4/). Observed November 21 at approximately 13:30 UTC.
+- Instagram's rendered post date is **2026-11-17 23:02:35 UTC**, displayed locally as November 18. Public download metadata instead reported November 16. Preserve the disagreement; use the directly observed Instagram date for the shortlist. Both fall inside the current trailing week.
+- The creator's reels grid displayed **11M views** and 9,715 profile followers. The detail displayed 106K likes; public metadata separately reported 106,867 likes and 747 comments. These are snapshots, not audited organic reach or synchronized counts.
+- Full caption read; it credits **Higgsfield Genjutsu**. Full-file Arabic speech transcription and one-second visual sampling across the 21.042-second video were inspected. The automatic transcript is noisy and has not been validated by a fluent transcription pass; no exact spoken lines or translations are adopted. This is not continuous playback or every-frame inspection.
+- Visible sequence: an apparent easy scoring chance, exaggerated player reactions, an angry coach at the bench, substitution/bench interaction, then thrown cans and crowd-facing gestures. Analysis: a familiar football frustration becomes escalating physical comedy. Recognition of the player/team and an existing sporting joke may contribute to reach; the cause of virality is not established.
+- No prompt, source performance or shot-by-shot construction is supplied. It is a **format reference, not a tutorial**. A controlled original variation could stage a fictional team's overconfident mascot and a different failure/payoff using footage we create or are authorized to edit. This remains a discussion direction, not an approved production.
+- The runtime is below 30 seconds and the caption credits Higgsfield. It is not evidence of a qualifying Dreamina Spotlight entry. Do not assume a longer concatenation or platform relabeling would qualify.
+
+These three recent candidates span emotional storytelling, surreal companionship and sports comedy. They do not establish cross-creator replication of any one format. Before choosing a production slate, compare more independent examples and separate routine keyword comments from spontaneous audience responses.
 
 ## Other observations, with exclusions
 

@@ -2,7 +2,7 @@
 
 Working knowledge base for original short-form AI videos using Higgsfield and Dreamina. Updated 2026-11-21. We follow promising formats across niches, test in Higgsfield, and prepare eligible Dreamina productions after checking program requirements. Audience reach and prize payments are targets, not promises.
 
-**The research is in progress.** Eleven article bodies, 21 Reddit post bodies and twelve YouTube transcripts have been read, but the overall popularity standard and complete Instagram tutorial coverage are not yet met. Ten of the YouTube tutorials are platform-specific with observed audience uptake; two remain supplements. See the evidence ledger rather than treating discovery counts as completed research.
+**The research is in progress.** Twelve article bodies, 21 Reddit post bodies and twelve YouTube transcripts have been read, but the overall popularity standard and complete Instagram tutorial coverage are not yet met. Ten of the YouTube tutorials are platform-specific with observed audience uptake; two remain supplements. See the evidence ledger rather than treating discovery counts as completed research.
 
 **Current scope: research and strategy only. Production is on hold until the user explicitly asks to begin.**
 
@@ -17,6 +17,7 @@ Working knowledge base for original short-form AI videos using Higgsfield and Dr
 - [Reddit reading ledger](research/2026-11-21/REDDIT.md)
 - [YouTube transcript analysis](research/2026-11-21/YOUTUBE.md)
 - [Instagram review ledger](research/2026-11-21/INSTAGRAM.md)
+- [Supplemental creator guides](research/2026-11-21/SUPPLEMENTAL_GUIDES.md)
 - [Recent viral candidates and original adaptation](research/2026-11-21/VIRAL_CANDIDATES.md)
 - [Dreamina Spotlight evidence and unresolved terms](research/2026-11-21/DREAMINA_SPOTLIGHT.md)
 - [Unapproved concept and attempt log: The Last Light](experiments/2026-11-21-last-light/README.md)
