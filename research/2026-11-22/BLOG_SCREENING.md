@@ -17,7 +17,7 @@ The following is a selected instructional queue from that feed, not its uninterr
 | [Adil: Realistic AI Short Drama](https://higgsfield.ai/@adilinthewildtempo/blogs/how-to-make-ai-short-drama) | 68 | 19K | Complete body/all exposed prompts, seventeen images and nine sampled/speech-checked files; two optional downloads unread |
 | [Kaye: Redbull](https://higgsfield.ai/@kaye_creatives/blogs/redbull) | 64 | 12.8K | Complete body/all nine prompts, ten images and thirteen comments; no finished film inspected |
 | [Adil: Blender + Higgsfield workflow](https://higgsfield.ai/@adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video) | 53 | 39.5K | Complete body/five use cases/four car variants and seventeen comments; media depth in linked audit |
-| [Adil: AI Love Stories](https://higgsfield.ai/@adilinthewild/blogs/youtube-guide-ai-lovestory-video) | 51 | 21.2K | Complete body/fifteen exposed prompts and nine comments; images, audio and optional attachment unread |
+| [Adil: AI Love Stories](https://higgsfield.ai/@adilinthewild/blogs/youtube-guide-ai-lovestory-video) | 51 | 21.2K | Complete body/fifteen prompts/nine comments; 55 of 56 non-avatar image URLs reviewed, including repeated/variant assets and cover; whole-file audio ASR is unreliable. One image download pending; optional attachment unread. |
 | [Adil: Cinematic Sports Ad with Seedance 2.5](https://higgsfield.ai/@adilinthewildtempo/blogs/how-to-create-a-cinematic-sports-ad-with-seedance-2-5-full-tutorial-youtube-guide) | 50 | 13.6K | Partial body: opening asset/goalkeeper instructions, closing tournament/editing/cost sections and exposed comments; not counted complete |
 | [Adil: 3-Step Workflow to Master AI Realism](https://higgsfield.ai/@adilinthewildtempo/blogs/3-step-workflow-to-master-ai-realism-full-workflow) | 43 | 26.6K | Complete body/seventeen prompts, fourteen images and twenty-seven comments; four files sampled/speech-checked, with detailed transition checks. Adapted prompts differ from original project media. |
 
@@ -27,7 +27,7 @@ See [drama and editing details](DRAMA_AND_EDITING.md) for actual versus planned 
 
 See [advertising and Blender details](AD_WORKFLOW_AUDITS.md) for conflicting reference bindings, recreation defaults and the limits of exact-motion claims.
 
-The Blender audit now includes all eight embedded files with timeline sampling; the [love-story audit](LOVE_STORY_AUDIT.md) adds a complete fifteen-prompt body review while preserving its unreviewed media/attachment limits.
+The Blender audit includes all eight embedded files with timeline sampling. The [love-story audit](LOVE_STORY_AUDIT.md) now adds reference-image review to its complete fifteen-prompt body read, identifying image/prose scale and reference-version conflicts; its remaining image, audio-verification and attachment limits are explicit.
 
 The [realism audit](REALISM_GUIDE_AUDIT.md) separates original project media from explicitly adapted public prompts and records the three scene-duration versions, prop continuity and overhead-framing differences. It does not increase YouTube or Instagram counts.
 

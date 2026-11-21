@@ -2,7 +2,7 @@
 
 [Adil: How to Create AI Love Stories](https://higgsfield.ai/@adilinthewild/blogs/youtube-guide-ai-lovestory-video). Observed November 22, 2026: **21.2K views, 51 likes, nine comments**. Header displays August 21, 01:20, without timezone. Selected from the recorded Higgsfield Most liked queue; not a Medium article or independently established viral result.
 
-The complete exposed body was read, including five asset prompts, ten scene prompts across six eras, the closing editing instructions and all nine comments. This increases complete article-body coverage to **30**. The image assets, embedded audio reference and optional downloadable prompt-builder specification remain unreviewed. No finished film was present in the inspected main article video elements. This is a complete body read, not complete linked-media coverage or proof of reproduction.
+The complete exposed body was read, including five asset prompts, ten scene prompts across six eras, the closing editing instructions and all nine comments. That earlier read increased article-body coverage to 30; the subsequent realism guide brought the corpus to 31. A later visual pass inspected 55 of the 56 unique article image URLs excluding the avatar, including the cover and repeated/variant reference images. The remaining queen-sheet download is pending. The embedded audio received a whole-file automatic speech check, with the limits below. The optional downloadable prompt-builder specification remains unread. No finished film was present in the inspected article video elements. This is a complete body read, not proof of reproduction.
 
 ## Useful structure
 
@@ -24,6 +24,22 @@ Useful conventions include giving each character an immediate goal, letting reac
 | Elevator performance | A fourteen-second conversation contains multiple spoken turns, humming, laughter, pauses and a handshake. Its unhurried delivery is a timing target that requires a real performance check. |
 
 The same shot plan should settle these issues before more descriptive detail is added. A long prompt does not resolve incompatible instructions.
+
+## Reference-image and audio review
+
+The article's 223 image elements include many repeated references. Excluding the avatar yields 56 unique URLs, not 56 independent demonstrations. The 55 downloaded images reviewed so far contain 48 distinct byte hashes and 39 distinct decoded RGB images at their native dimensions. Even that pixel count includes close variants of the same reference. Raw files and the comparison record stay outside this repository.
+
+| Reference group | What the images establish |
+|---|---|
+| Recurring people | Face portraits are paired with era-specific front/back outfits. Several front-view faces are blanked; others remain present. The public inline and prompt-linked versions sometimes differ in that masking. These are reference variants, not measured identity consistency across generated scenes. |
+| Giant and arena | The giant's sheet and scale sketch show crossed chains over the shoulders. The sketch places him on approximately the same baseline as the hero but visibly below twice the hero's drawn height, conflicting with both numeric ratios in the prose. The arena and throne images describe location and props; they do not resolve that scale conflict. |
+| Train chase | Sketches separate a frontal pursuit beside the train, standing on the horse and a leap toward the carriage. A linked standing-rider sketch uses a simpler drawing and an explicit direction arrow than the inline version. Record which version controls staging instead of treating the images as interchangeable. Neither sketch proves that the result follows the intended path. |
+| Pirate sequence | Separate references cover the couple's costumes, opposing swordsman, ship, telescope, ship-deck view, crew and damaged wooden doors. Distinct files make role assignment possible, but the previously recorded repeated ship handle still requires correction in the text. |
+| Carnival and elevator | The male carnival sheet shows black gloves; the female sheet shows bare hands. The modern sheets, empty elevator and wired-earphone image establish a different wardrobe/prop state. Use those actual states when planning the hand-contact transition. |
+
+The audio reference is a **7.168-second, 48kHz mono MP3**. Whole-file Whisper transcription produces an implausibly long repetition of a sung syllable, not a reliable spoken transcript. It is consistent with the article's humming-reference role, but does not verify the exact tune, tempo or performance. Do not turn that ASR output into scripted dialogue or claim that audio timing has been validated against a finished film. No finished film is exposed in the article's video elements.
+
+For our workflow, approve one asset version and one intended state per scene before prompting: costume, prop ownership, scale and movement direction. A reference image can conflict with a numerical instruction just as two prose instructions can conflict with each other. The review improves coverage of this existing article; it does not add another blog, Instagram post or YouTube transcript to the counts.
 
 ## Exposed recreation defaults
 
