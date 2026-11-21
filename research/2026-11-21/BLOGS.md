@@ -1,6 +1,6 @@
 # Blog and long-form reading ledger
 
-Observed November 21–22, 2026. Twenty-one complete in-scope article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: many Medium clap counts were unavailable or modest, and some authors had very small audiences. Paywall previews and out-of-scope body reads are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
+Observed November 21–22, 2026. Twenty-five complete in-scope article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: many Medium clap counts were unavailable or modest, and some authors had very small audiences. Paywall previews and out-of-scope body reads are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
 
 | Source / publication | Access and popularity evidence | What survives scrutiny / limitation |
 |---|---|---|
@@ -84,6 +84,10 @@ Shotcaller v2 supplies sixteen prompt sections covering assets, staging, opening
 Do not adopt its 900–1,400-word preference, model-slot limits, frame-rate requests, compulsory audio-as-video workflow, or exact timing claims as verified current specifications. Its focal-length/field-of-view table lacks a sensor/aspect definition. “8K,” shutter settings and lens words do not select output controls. A physics example requests a sliding mug while also prohibiting sliding. A nominally locked camera category permits a slow push. The repair tables attribute failures to missing sections without controlled evidence, and the article itself acknowledges unwanted music despite instructions. Treat these as hypotheses, not diagnoses or guaranteed fixes. Multi-panel identity sheets also need case-specific evaluation against current official reference guidance. No generation was submitted.
 
 See [ranked screening](../2026-11-22/BLOG_SCREENING.md) for the remaining high-engagement discovery queue. Twenty-one full bodies do not yet establish ten popular, fully inspected guides.
+
+## Four additional complete creator-guide bodies
+
+The November 22 [four-guide creator audit](../2026-11-22/KAYE_GUIDES.md) adds complete bodies for Kaye's Zombie dog prompts, LEGO, How to save your credits, and A Day With The Dinosaurs, bringing the current total to **25**. Their engagement, every exposed prompt, reference imagery, two embedded video checks, optional Cinedance attachment, internal conflicts and exact limits are recorded there. The first three have 94, 76 and 75 observed likes in the ranked native-blog feed. The dinosaur article has only five likes but strongly corresponds to the previously reviewed recent reel. It is not popularity-qualified by inheriting the reel's reach. These additions do not establish ten fully inspected popular guides.
 
 ## Excluded sources
 

@@ -4,15 +4,15 @@ The public [Higgsfield Blogs feed sorted by Most liked](https://higgsfield.ai/co
 
 ## Prioritized sources
 
-The following is a selected instructional queue from that feed, not its uninterrupted top twelve. Higher-ranked income articles and unrelated game/code demonstrations were omitted. Except for Joey's article, entries are discovery leads or partial reads and do not increase completed counts.
+The following is a selected instructional queue from that feed, not its uninterrupted top twelve. Higher-ranked income articles and unrelated game/code demonstrations were omitted. Joey and three Kaye articles now have complete body reads; remaining entries are discovery leads or partial reads. Detailed visual and attachment limits remain explicit.
 
 | Guide | Likes | Views | Review depth |
 |---|---:|---:|---|
 | [Joey: All My Claude Skills for Better Prompting](https://higgsfield.ai/@joeysnoisygroup/blogs/all-my-claude-skills-for-better-prompting) | 274 | 38.4K | Complete body, six section graphics and complete Shotcaller v2 specification; five other attachments and linked video unread |
 | [Adil: Cinematic AI Short Film](https://higgsfield.ai/@adilinthewildtempo/blogs/make-a-cinematic-ai-short-film-with-higgsfield-the-workflow) | 206 | 38K | Partial body; media and attachments unread |
-| [Kaye: Zombie dog prompts](https://higgsfield.ai/@kaye_creatives/blogs/zombie-dog-prompts) | 94 | 19K | Listed only |
-| [Kaye: LEGO](https://higgsfield.ai/@kaye_creatives/blogs/lego) | 76 | 15.5K | Listed only |
-| [Kaye: How to save your credits](https://higgsfield.ai/@kaye_creatives/blogs/how-to-save-your-credits) | 75 | 13.3K | Listed only |
+| [Kaye: Zombie dog prompts](https://higgsfield.ai/@kaye_creatives/blogs/zombie-dog-prompts) | 94 | 19K | Complete body, seven figures and optional Cinedance attachment read; no completed film reviewed |
+| [Kaye: LEGO](https://higgsfield.ai/@kaye_creatives/blogs/lego) | 76 | 15.5K | Complete body, sixteen reference images plus cover read; logo-reference video sampled and speech-checked |
+| [Kaye: How to save your credits](https://higgsfield.ai/@kaye_creatives/blogs/how-to-save-your-credits) | 75 | 13.3K | Complete body and thirteen figures read; one embedded video sampled and speech-checked |
 | [Kaye: Claude motion tutorial](https://higgsfield.ai/@kaye_creatives/blogs/claude-motion-tutorial) | 74 | 34K | Listed only |
 | [Adil: Realistic AI Short Drama](https://higgsfield.ai/@adilinthewildtempo/blogs/how-to-make-ai-short-drama) | 68 | 19K | Listed only |
 | [Kaye: Redbull](https://higgsfield.ai/@kaye_creatives/blogs/redbull) | 64 | 12.8K | Listed only |
@@ -31,7 +31,7 @@ One concrete inconsistency already needs checking before reuse: the texture-prep
 
 ## Other leads and exclusions
 
-- [Kaye: A Day With The Dinosaurs](https://higgsfield.ai/@kaye_creatives/blogs/a-day-with-the-dinosaurs), **5 likes / 582 views**, listed only. Potential process link for the existing recent Instagram candidate; the low-engagement blog must not inherit the reel's popularity or be assumed to document the same production before reading.
+- [Kaye: A Day With The Dinosaurs](https://higgsfield.ai/@kaye_creatives/blogs/a-day-with-the-dinosaurs), **5 likes / 583 views** on full review. Complete body, all seven scene recipes and all sixteen reference figures read. Strong visual correspondence with the previously reviewed Instagram reel is documented in [the detailed audit](KAYE_GUIDES.md); exact run provenance remains unknown. The blog does not inherit the reel's popularity.
 - [Valics Lehel: Romanian fairy-tale animated short](https://medium.com/@lvalics_37568/how-i-turned-a-romanian-fairy-tale-into-a-3d-style-animated-short-full-workflow-4603b7d8f94f), May 6, 2026, **2 claps / 20 author followers**. Member-only preview; excluded. Search-indexed excerpts are not a full read. No paywall bypass was used.
 
 The complete current [Higgsfield Community explanation](https://higgsfield.ai/creator-hub/help-center/community/what-is-higgsfield-community), updated November 12, distinguishes creator achievement ratings from direct post likes/views. Do not conflate those measures. The [Projects explanation](https://higgsfield.ai/creator-hub/help-center/community/how-do-projects-work), updated November 16, says creators can expose or hide prompts. Public project availability therefore does not establish access to its complete recipe.

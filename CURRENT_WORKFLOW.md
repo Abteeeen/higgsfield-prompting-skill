@@ -27,6 +27,8 @@ Higgsfield and Dreamina are platforms; Seedance is a model family. Their interfa
 
 There is no universal best word count. JSON may organize a planning document; it is not a documented private rendering-engine schema. Keep real API parameters separate from prose.
 
+Audit a shared recipe before using its recreation button: check uploaded-reference numbering, repeated or conflicting prompt blocks, duration, framing and scene continuity against the actual selected controls. The [reviewed Kaye guides](research/2026-11-22/KAYE_GUIDES.md) include 16:9 prose linked to 4:3 settings, different written/link durations and a duplicated shot prompt. A public recipe's default link is not an original run record. A proposed cheaper method also needs comparable outputs and retry costs before calling it a saving.
+
 A full-looking prompt can still omit the scene. The [301-vote cinematic post](https://www.reddit.com/r/seedance2pro/comments/1xl173h/how_to_create_cinematic_ai_videos_with_seedance/) supplies style preferences but none of its demonstrated chase, obstacles or rescue. Before adopting a recipe, identify where the actual event and geography are specified—in text, reference media or a preset. If that input is absent, record the gap rather than crediting generic quality words with producing the story.
 
 For Seedance 2.0, the same official guide recommends separate face and body references over multi-view character composites, which can cause duplicate subjects. It also distinguishes editing an existing video from borrowing its motion or style. Match the wording to that task; verify the platform's supported mode separately.
