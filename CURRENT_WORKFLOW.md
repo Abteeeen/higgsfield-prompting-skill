@@ -27,7 +27,11 @@ There is no universal best word count. JSON may organize a planning document; it
 
 A short motion prompt may depend on substantial image preparation. The [reviewed falling montage](https://www.instagram.com/reel/DT2N8DJCIrq/) first creates consistent scene variants, uses two endpoints for its main move and single images for detail shots, then edits the clips together. Record that full setup when learning from a successful short prompt.
 
+A short preset command can also stand for a larger predefined workflow. The [floating-fall catalog check](research/2026-11-21/INSTAGRAM.md#preset-cross-check) identifies separate character, location and product inputs. Treat the command as recipe selection; do not infer that the words alone describe or control every shot.
+
 Before using a multi-stage prompt pack, compare every stage against one continuity record: subject appearance, left/right accessories, location geometry, source-reference roles and camera position. A reviewed [photorealism pack](https://www.reddit.com/r/Seedance_AI/comments/1wop0ju/full_breakdown_how_i_used_claude_opus_seedance_25/) changes car and wardrobe details between stages despite repeated identity-lock instructions. Resolve contradictions before adding more adjectives. Distinguish a fixed viewpoint with slight handheld sway from an absolutely immobile frame.
+
+Check the tutorial's own chain of evidence as well. The [drama demonstration](https://www.instagram.com/reel/Dfu7JNqhC7J/) switches stories between its planning screen and generation screen. The [hologram lesson](https://www.instagram.com/reel/DcAtwfGCqYx/) shows a reference order that differs from its narration. Neither discrepancy proves the technique cannot work, but both prevent treating the displayed sequence as an exact reproducible recipe. Confirm asset roles from actual bindings rather than copying numbered references mechanically.
 
 Treat an assistant's script-retention score and estimated narration clock as planning aids. They do not measure viewer retention or guarantee the duration of a delivered performance. After production is authorized, time shots and captions against the actual audio, then inspect the edited result. A workflow that ends with importing clips into an editor still requires editing and review, even if its promotion describes a one-command process.
 
