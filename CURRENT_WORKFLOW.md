@@ -40,6 +40,8 @@ Live Higgsfield catalog observed on 2026-11-21: Seedance 2.0 offers 4–15 secon
 
 ## Test and review
 
+For complex spatial relationships, consider a numbered storyboard before video generation. In the [reviewed Dreamina demonstration](https://www.instagram.com/reel/De1nVnoBMsp/), simple Blender geometry establishes scale, while panels describe composition and action and separate references define appearance. This trades exact motion-reference copying for more freedom between key poses. Treat improved motion and reduced cost as hypotheses to test; the creator supplied no controlled success rate. Blender is an optional planning tool, not a requirement for every short video, and the full automation prompt was gated.
+
 Keep an experiment log: hypothesis, exact prompt, reference versions, settings, cost, output/job ID, observed defect, next change. Compare variants with one controlled change, and repeat promising variants before declaring a rule. A selected showcase video does not establish a success rate.
 
 Watch every generated second, including transitions. Check identity, hands, object permanence, contact, direction of motion, camera intent, audio and the ending. Inspect the exported file's actual duration and dimensions. Upscaling, a new high-resolution generation, and native high-resolution rendering are different operations; none recovers unknown original detail with certainty.
