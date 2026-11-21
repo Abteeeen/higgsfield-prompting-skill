@@ -45,7 +45,19 @@ This changes the world, central action, relationship, stakes and ending. Do not 
 - No prompt, source performance or shot-by-shot construction is supplied. It is a **format reference, not a tutorial**. A controlled original variation could stage a fictional team's overconfident mascot and a different failure/payoff using footage we create or are authorized to edit. This remains a discussion direction, not an approved production.
 - The runtime is below 30 seconds and the caption credits Higgsfield. It is not evidence of a qualifying Dreamina Spotlight entry. Do not assume a longer concatenation or platform relabeling would qualify.
 
-These three recent candidates span emotional storytelling, surreal companionship and sports comedy. They do not establish cross-creator replication of any one format. Before choosing a production slate, compare more independent examples and separate routine keyword comments from spontaneous audience responses.
+## Recent candidate 4: concealed-home transformation
+
+- Source: [@ai_work_flows_ underground container house](https://www.instagram.com/reel/DfvVinmSEN-/). Observed November 21 around 16:30 UTC.
+- Instagram's rendered timestamp: **2026-11-14 23:00:06 UTC**, within the trailing seven days at this observation, near its boundary. Public metadata agrees on November 14.
+- Live reels grid: **25.4M views**; profile: **1,163,135 followers**. Reel detail: **249K likes, 817 comments, 5,511 reposts, 9,361 shares**. Download metadata separately reports 249,660 likes. Rounded/asynchronous snapshots; organic reach is unverified.
+- Caption tags Dreamina and Dreamina Creators; Instagram labels it AI content. Exact model, prompts and references are undisclosed. This is a showcase, not a prompting tutorial or proof of Spotlight acceptance.
+- **82.533 seconds**; full-file English ASR read and all 83 one-second timeline samples inspected. No continuous playback or every-frame inspection is claimed. Raw media/transcript remain outside the repository.
+- Sequence: neighbor conflict, yard clearance, buried containers, concealed access, successive interior finishes and furnished-room reveals. Narration frames the project as retaliation and eventual privacy. Analysis: conflict supplies a reason to watch; repeated visible improvements delay the final payoff. These are hypotheses, not measured retention effects.
+- Visible comments question ventilation, drainage and furniture access. The sequence is fictional entertainment, not verified construction instruction. A future original variation should change the conflict, space and payoff, and check layout/prop continuity across transformations.
+
+The same profile displayed other reels between 379K and 30.7M views; their dates and full content were not audited here. Multiple successes on one account are not independent cross-creator replication. The index's older 23.5M count has no synchronized observation time, so it cannot establish growth velocity.
+
+These four recent candidates span emotional storytelling, surreal companionship, sports comedy and construction transformations. They do not establish cross-creator replication of any one format. Before choosing a production slate, compare more independent examples and separate routine keyword comments from spontaneous audience responses.
 
 ## Other observations, with exclusions
 
@@ -72,4 +84,4 @@ The [Vosscore Dreamina index](https://vosscore.com/tag/dreamina) supplied useful
 
 The Previz Stories grid also showed several much lower-view reels beside its pinned breakout; their publication dates and content were not fully audited. This is context about uneven account performance, not a controlled format comparison. Do not calculate growth velocity from an older index count and a current Instagram count unless both observation times are known.
 
-Vosscore's separate [weekly Instagram list](https://vosscore.com/trends/instagram/weekly) mixes gaming, food, live action and other subjects. It is a discovery sample, not an exhaustive ranking of AI videos. Every candidate still needs an exact date, AI provenance and complete media review. No additional recent breakout has been qualified by this audit.
+Vosscore's separate [weekly Instagram list](https://vosscore.com/trends/instagram/weekly) mixes gaming, food, live action and other subjects. It is a discovery sample, not an exhaustive ranking of AI videos. Every candidate still needs an exact date, AI provenance and media review. A later Dreamina-index lead produced the verified container-house candidate above; the index alone did not establish its date or current reach.

@@ -16,6 +16,8 @@ A third current option is [football mishap and reaction comedy](https://www.inst
 
 For each research session, collect a dated sample from Instagram across emotional animation, visual transformations, comedy, surreal everyday scenes and other emerging formats. These are search categories, not a permanent content niche.
 
+A fourth observed option is [a concealed-home transformation](https://www.instagram.com/reel/DfvVinmSEN-/), with 25.4M live grid views and a November 14 23:00 UTC timestamp, near this week's boundary. Its 82.5-second sequence combines neighbor conflict with successive construction reveals. Audience comments also question physical plausibility, so engagement cannot be equated with admiration or instructional accuracy. It adds a format to compare; the existing nine paper concepts still cover only the earlier three directions. Exact prompts/model and independent replication remain unverified.
+
 Each candidate record should include:
 
 - Original URL and creator; exact publication date if available.
