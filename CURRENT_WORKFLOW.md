@@ -82,6 +82,8 @@ Record audio post-production as well. A [reviewed historical tutorial](https://w
 
 Watch every generated second, including transitions. Check identity, hands, object permanence, contact, direction of motion, camera intent, audio and the ending. Inspect the exported file's actual duration and dimensions. Upscaling, a new high-resolution generation, and native high-resolution rendering are different operations; none recovers unknown original detail with certainty.
 
+For depth-guided regeneration, inspect what the depth map omits before relying on it. A [reviewed comparison](https://higgsfield.ai/@alpius/blogs/draft-mode-without-draft-mode-finish-your-480p-seedance-take-at-4k) shows thin arrows missing from the depth reference and changed props/crowds in the regenerated crops. Evaluate detail, identity, staging and timing separately. A similarity percentage without a defined metric and alignment method is not a quality score or success rate; a still comparison cannot establish moving continuity. Treat these observations as reasons for later tests, not validated settings for our account.
+
 ## Sources
 
 - [Official Seedance prompt guide](https://higgsfield.ai/enterprise-help-center/platform/seedance-prompt-guides): reference roles, staging and approximate timing.
