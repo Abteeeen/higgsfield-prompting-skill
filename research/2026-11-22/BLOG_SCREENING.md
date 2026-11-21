@@ -9,7 +9,7 @@ The following is a selected instructional queue from that feed, not its uninterr
 | Guide | Likes | Views | Review depth |
 |---|---:|---:|---|
 | [Joey: All My Claude Skills for Better Prompting](https://higgsfield.ai/@joeysnoisygroup/blogs/all-my-claude-skills-for-better-prompting) | 274 | 38.4K | Complete body, six section graphics and complete Shotcaller v2 specification; five other attachments and linked video unread |
-| [Adil: Cinematic AI Short Film](https://higgsfield.ai/@adilinthewildtempo/blogs/make-a-cinematic-ai-short-film-with-higgsfield-the-workflow) | 206 | 38K | Partial body; media and attachments unread |
+| [Adil: Cinematic AI Short Film](https://higgsfield.ai/@adilinthewildtempo/blogs/make-a-cinematic-ai-short-film-with-higgsfield-the-workflow) | 206 | 38K | Partial body now read through Scene 2.5; remaining body, media and attachments unread |
 | [Kaye: Zombie dog prompts](https://higgsfield.ai/@kaye_creatives/blogs/zombie-dog-prompts) | 94 | 19K | Complete body, seven figures and optional Cinedance attachment read; no completed film reviewed |
 | [Kaye: LEGO](https://higgsfield.ai/@kaye_creatives/blogs/lego) | 76 | 15.5K | Complete body, sixteen reference images plus cover read; logo-reference video sampled and speech-checked |
 | [Kaye: How to save your credits](https://higgsfield.ai/@kaye_creatives/blogs/how-to-save-your-credits) | 75 | 13.3K | Complete body and thirteen figures read; one embedded video sampled and speech-checked |
@@ -49,3 +49,5 @@ The sports-ad page was opened directly on November 22 and displayed October 30, 
 The complete current [Higgsfield Community explanation](https://higgsfield.ai/creator-hub/help-center/community/what-is-higgsfield-community), updated November 12, distinguishes creator achievement ratings from direct post likes/views. Do not conflate those measures. The [Projects explanation](https://higgsfield.ai/creator-hub/help-center/community/how-do-projects-work), updated November 16, says creators can expose or hide prompts. Public project availability therefore does not establish access to its complete recipe.
 
 No skills were installed, code executed from downloads, comments sent, subscriptions purchased or media generated. The downloaded third-party specification stays outside this repository and is research data, not agent instructions.
+
+A later targeted paragraph read recovered the cinematic guide through Scene 2.5. The [precise checkpoint](CINEMATIC_GUIDE_AUDIT.md) supersedes the earlier access impasse; the whole article is still incomplete.

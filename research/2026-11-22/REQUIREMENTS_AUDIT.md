@@ -36,7 +36,7 @@ Whole-file ASR and timeline samples cover the duration but do not establish cont
 
 ## Next work that actually closes gaps
 
-1. Finish the strongest selected blog bodies and their instructional figures/media. Prioritize the already identified cinematic-film guide; the love-story image pass is complete, with audio-analysis limits recorded; keep optional downloads separate from the public article review. Do not substitute more low-engagement bodies for popular full guides.
+1. Finish the strongest selected blog bodies and their instructional figures/media. Continue the cinematic-film guide at Scene 2.6, following the [saved reading checkpoint](CINEMATIC_GUIDE_AUDIT.md); the love-story image pass is complete, with audio-analysis limits recorded; keep optional downloads separate from the public article review. Do not substitute more low-engagement bodies for popular full guides.
 2. Resolve instruction-bearing media/text gaps in the identified Reddit and Instagram subsets. Preserve each post's popularity evidence and affiliation; replace a weak or inaccessible qualifying candidate only when necessary.
 3. Refresh the recent Instagram shortlist and obtain comparison evidence before calling a format repeatable. Historical technique research need not be repeated just because a weekly trend window changes.
 4. Keep account-dependent Spotlight verification deferred. Discuss the strategy and paper concepts before any future generation authorization.
