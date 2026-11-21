@@ -4,17 +4,18 @@ Prepared 2026-11-21. These are original paper concepts, not approved productions
 
 ## What the evidence supports
 
-The [recent-candidate ledger](research/2026-11-21/VIRAL_CANDIDATES.md) contains three inspected examples from the trailing week. It supports comparing three different creative directions. It does not prove that any direction is broadly trending across independent creators or that our account can reproduce the reach.
+The [recent-candidate ledger](research/2026-11-21/VIRAL_CANDIDATES.md) contains four inspected examples from the trailing week at their November 21 observation times. It supports comparing four different creative directions. It does not prove that any direction is broadly trending across independent creators or that our account can reproduce the reach.
 
 | Direction and source | Observed evidence | Useful story mechanism | Main uncertainty |
 |---|---|---|---|
 | [Hidden-worker emotional story](https://www.instagram.com/reel/Df9p5sCxV2Z/) | November 20; 72.5M displayed views; about 114 seconds | An ordinary object hides an unexpected life; effort has a concrete purpose and a visible consequence | One exceptional result; shortening it may remove the relationship-building that makes the ending work |
 | [Impossible everyday companion](https://www.instagram.com/reel/Df6Ho3VSBXy/) | November 19; 2.2M displayed views; about 30 seconds | An impossible creature behaves like a familiar companion in recognizable situations | Large existing audience; no accessible production recipe or evidence that spectacle alone explains reach |
 | [Football reaction comedy](https://www.instagram.com/reel/Df0eWO5x9i4/) | November 17 UTC; 11M displayed views; about 21 seconds | An easy task fails, reactions escalate, and the consequences become the joke | Celebrity/team recognition may matter; an original fictional version loses that recognition advantage |
+| [Concealed-home transformation](https://www.instagram.com/reel/DfvVinmSEN-/) | November 14, 23:00 UTC; 25.4M displayed views; about 82.5 seconds | Conflict creates a reason for change; successive improvements build toward a concealed-space reveal | Near the weekly boundary; comments dispute plausibility; one creator's breakout is not independent replication |
 
 All view counts are November 21 snapshots recorded in the ledger, not current counters or audited organic views. The latter two source runtimes do not independently satisfy Spotlight's 30-second minimum. Suggested lengths below serve the new stories; they are not claims of eligibility.
 
-## Nine original options
+## Twelve original options
 
 ### Emotional storytelling
 
@@ -40,6 +41,14 @@ All view counts are November 21 snapshots recorded in the ledger, not current co
 
 **K3 — The Celebration Rehearsal.** An amateur player rehearses a complicated goal celebration before taking a shot. A dog wanders through, nudges the ball into the net and copies one simple celebratory movement. Everyone cheers the dog while the player is still rehearsing. Working length: 35–40 seconds. Opening image: a player practicing a back-to-camera victory pose beside an untouched ball. Challenge: animal motion and readable eyelines; the dog should perform one plausible movement, not a long human dance.
 
+### Progressive space transformations
+
+**T1 — The Last Ticket Booth.** An abandoned ticket booth is about to be covered by an advertising panel. Its former attendant clears it, repairs the window and adds shelves that fold out into a tiny nighttime library. The reveal is not simply a prettier interior: a waiting child opens a book as neighbors gather beneath the booth's warm light. Working length: 40–50 seconds. Opening image: a weathered booth dwarfed by a blank advertising panel, with one old book inside. Challenge: keep the footprint, doorway and window fixed while the furnishings change. Each stage must add a readable improvement; use editing to join distinct states instead of implying a single generation completed the whole transformation.
+
+**T2 — The Bus That Became a Cinema.** A retired minibus is full of dusty seats and forgotten objects. A projectionist restores it, replaces selected seats with a small audience layout and turns the rear window into a screen. At night it projects a silent cartoon for people sheltering from the rain. Working length: 40–50 seconds. Opening image: rain runs down a broken destination sign while a small projector lights up inside. Challenge: preserve window count, aisle direction and seat positions across stages; the final audience must visibly fit the established space.
+
+**T3 — The Window Garden.** A bleak apartment window faces a blank wall. Its resident transforms the narrow interior recess with unfolding shelves, pots and a small reading seat. The final reveal shows that the plants cast an enormous forest-like shadow across the formerly blank wall when the lamp comes on. Working length: 35–45 seconds. Opening image: a tiny plant casts an unexpectedly large leaf shadow. Challenge: plant/prop continuity and a coherent final lighting direction. The payoff is a new use of a small space, not an unbounded room appearing behind a door.
+
 ## Recommended discussion order
 
 These judgments concern clarity and production complexity, not predicted views.
@@ -49,8 +58,9 @@ These judgments concern clarity and production complexity, not predicted views.
 | **C1 — The Loyal Raincloud** | A recognizable errand, one main person and a simple companion silhouette; useful for evaluating whether the surreal-companion direction suits the account | The opening requires text to explain it, the leash/cloud relation is unreadable, or the payoff feels like a disconnected extra scene |
 | **E1 — The Last Light** | Strong visual contrast and a clear relationship; the closest match to the strongest observed narrative mechanism without copying its plot | The firefly's exhaustion is unreadable, the child appears abruptly, or the ending needs narration to explain the kindness |
 | **K2 — The Overprepared Goalie** | Clear visual irony and an ending that remains understandable without celebrity recognition | Equipment changes break continuity, the ball path cannot be read, or the comedy depends on dialogue rather than action |
+| **T1 — The Last Ticket Booth** | A fixed location, visible stages and a human reason for the finished space; covers the fourth observed format | The booth grows between shots, the shelves block the door, intermediate stages repeat, or the ending is only a room tour |
 
-My provisional preference for a first **technical test after authorization** is C1 because it has fewer interacting limbs and props than the other finalists. My preference for deeper story development is E1. Neither preference selects the account's niche or predicts a higher payout. The user has not selected a concept.
+For story discussion, prioritize E1 and T1: they adapt the two highest-view examples in this small sample and have explicit causal payoffs. This is a planning choice, not a forecast of reach. C1 is a simpler alternative and K2 supplies a different comedic direction. Choose the story before choosing a technical test: if E1 is selected, test its guiding-light interaction rather than spending on an unrelated cloud scene. The user has not selected a concept, and no generation is authorized.
 
 ## Paper review before any production
 
@@ -90,6 +100,17 @@ Minimum assets: firefly appearance/scale reference, child/outfit reference, stre
 6. The child places a cheerful sticker on the motionless shield. The robot lowers its head toward the sticker rather than reacting angrily.
 
 Minimum assets: robot with three clearly specified equipment states, child/outfit, ball and fixed goal layout. Hardest interaction: ball passage through the gap between stationary boots. A later test could compare an ambiguous scoring instruction with explicit start position, path and end position. Keep camera and geometry fixed, and reject clips where the ball passes through a boot, duplicates or disappears.
+
+### T1 paper outline
+
+1. At dusk, a large blank advertising panel leans against a weathered ticket booth; a single book rests behind the dusty window.
+2. The former attendant notices a child trying to read under a failing streetlight and looks back at the booth.
+3. From a fixed exterior view, clutter disappears and the same window is repaired; the doorway remains in place.
+4. In two distinct edited stages, compact shelves and a reading ledge fill the booth without changing its outer dimensions.
+5. The attendant opens the window and unfolds the ledge; warm light reveals the books and a place to read.
+6. The child reads at the ledge while two neighbors share a book nearby; the discarded advertising panel becomes a simple rain cover in the final fictional scene.
+
+Minimum assets: one exterior geometry reference, a matching interior layout, the attendant and child appearances, and three furnishing-state images. Hardest interaction: changing the furnishing state while preserving the booth's footprint, door, window and camera position. After authorization, compare a baseline transition against the same transition with explicit unchanged architectural landmarks. Inspect the entire move for walls expanding, objects appearing through surfaces and a blocked doorway. Endpoint agreement alone is not a pass. This tests scene continuity, not real construction feasibility or audience appeal.
 
 For an intended Dreamina entry, build and document the qualifying Dreamina workflow after the relevant rules are resolved. Do not treat a successful Higgsfield experiment, a 30-second edit or a hashtag as sufficient eligibility evidence.
 

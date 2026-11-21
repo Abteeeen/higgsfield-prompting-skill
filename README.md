@@ -9,7 +9,7 @@ Working knowledge base for original short-form AI videos using Higgsfield and Dr
 ## Start here
 
 - [Strategy proposal for discussion](STRATEGY.md)
-- [Nine original concepts and three paper finalists](CONCEPT_OPTIONS.md)
+- [Twelve original concepts and four paper finalists](CONCEPT_OPTIONS.md)
 - [Current production and prompting workflow](CURRENT_WORKFLOW.md)
 - [Agent instructions](SKILL.md)
 - [Research status and remaining work](research/2026-11-21/STATUS.md)

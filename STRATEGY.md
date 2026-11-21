@@ -10,13 +10,28 @@ Our strongest verified recent candidate is [Rezai Studio's hidden-worker story](
 
 A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.com/kaye.creatives/reel/Df6Ho3VSBXy/), published November 19 and observed at 2.2M views. It suggests a lighter format built on familiar routines with an impossible companion. It comes from a much larger account, and the prompt guide is comment-gated, so neither its production recipe nor the reason for its reach is established. Compare these directions before choosing a concept; neither is approved for production.
 
+## Decision brief
+
+For the next story discussion, put **E1 — The Last Light** and **T1 — The Last Ticket Booth** first. They adapt the emotional-story and progressive-transformation mechanisms of the two highest-view examples we inspected. Keep surreal companionship and physical comedy as alternatives, without fixing the account's niche. These priorities come from a four-post sample, not a proven ranking of formats or a forecast of our results.
+
+| Direction | Proposed original concept | First technical question, only after authorization | What success would establish |
+|---|---|---|---|
+| Emotional story | E1: firefly leaves its lamp to guide a lost child | Can one tiny moving light remain the same creature while the child follows in readable geography? | Feasibility of the story's hardest interaction; not emotional impact or likely views |
+| Progressive transformation | T1: abandoned ticket booth becomes a nighttime library | Can the furnishings change while the booth's dimensions, doorway and window stay fixed? | Feasibility of matching transformation stages; not a complete film or physical construction plan |
+| Surreal companion | C1: a pet raincloud learns to water a flower | Can rain stay over the pot without drifting onto the nearby person? | Localized action control with the chosen references |
+| Physical comedy | K2: overequipped robot goalkeeper misses a small ball | Can the ball pass visibly between two stationary boots without intersecting or disappearing? | Readability of the gag's decisive action |
+
+The sequence is **story choice → text storyboard → test of that story's hardest interaction → complete story production → release review**. A technically easy test in a different format does not validate the chosen film. Keep the first test small, preserve its exact inputs and inspect the whole output before expanding. Current authorization stops at text planning.
+
+After publishing is separately authorized, judge technical and audience results separately. A clean render can still have a weak hook; a high-view reference does not supply our account's retention data. Compare openings at equal elapsed ages, use account analytics where available, and decide on another iteration from observed audience behavior. Dreamina reward eligibility is a third independent check, not a consequence of either technical quality or reach.
+
 ## 1. Select trends by evidence
 
 A third current option is [football mishap and reaction comedy](https://www.instagram.com/reel/Df0eWO5x9i4/), observed at 11M views. Instagram's post timestamp is November 17 UTC, displayed locally as November 18; the metadata disagreement is recorded in the ledger. Its escalating player/coach reactions offer a different format from the two narrative examples. The 21-second Higgsfield-credited clip is a research reference, not evidence of Spotlight eligibility. An original fictional-team variation would need its own concept, source material and payoff before production approval.
 
 For each research session, collect a dated sample from Instagram across emotional animation, visual transformations, comedy, surreal everyday scenes and other emerging formats. These are search categories, not a permanent content niche.
 
-A fourth observed option is [a concealed-home transformation](https://www.instagram.com/reel/DfvVinmSEN-/), with 25.4M live grid views and a November 14 23:00 UTC timestamp, near this week's boundary. Its 82.5-second sequence combines neighbor conflict with successive construction reveals. Audience comments also question physical plausibility, so engagement cannot be equated with admiration or instructional accuracy. It adds a format to compare; the existing nine paper concepts still cover only the earlier three directions. Exact prompts/model and independent replication remain unverified.
+A fourth observed option is [a concealed-home transformation](https://www.instagram.com/reel/DfvVinmSEN-/), with 25.4M live grid views and a November 14 23:00 UTC timestamp, near this week's boundary. Its 82.5-second sequence combines neighbor conflict with successive construction reveals. Audience comments also question physical plausibility, so engagement cannot be equated with admiration or instructional accuracy. Three transformation concepts now cover this fourth direction in the concept comparison. Exact prompts/model and independent replication remain unverified.
 
 Each candidate record should include:
 
@@ -48,7 +63,7 @@ After production is explicitly authorized, improve through a small test log: one
 
 For each shortlisted format, prepare three concise concept variations on paper. Change the central situation, characters, causal sequence and payoff—not just names or colors. Select one by hook clarity, emotional or visual payoff, feasibility and originality.
 
-The [concept comparison](CONCEPT_OPTIONS.md) now provides nine original options, three per observed direction, and three provisional paper finalists. It separates a simpler future technical test from a more ambitious emotional story. These are creative judgments for discussion, not performance forecasts or a production selection.
+The [concept comparison](CONCEPT_OPTIONS.md) now provides twelve original options, three per observed direction, and four provisional paper finalists with six-beat outlines. Each finalist has an asset list and a test tied to its hardest interaction. These are creative judgments for discussion, not performance forecasts or a production selection.
 
 Current discussion candidate: **The Last Light**. An exhausted firefly powers a village streetlamp, leaves it to guide a lost child home, and receives kindness in return. This is an untested concept inspired by a broad narrative mechanism. It has not been selected by the user, and no successful generation exists. The earlier draft prompt is retained only as a draft.
 
