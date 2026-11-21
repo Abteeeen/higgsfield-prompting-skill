@@ -40,3 +40,9 @@ The three full bodies in this screening table are additional reading, explicitly
 
 
 A subsequent direct access check located Divad's own [Substack version](https://lettersfromthe404.substack.com/p/how-to-turn-cheap-ai-into-a-2500mo), dated August 8. Its free-post button opens a form requiring a free subscription and an unlock in the Substack app, limited to one post per account. No email was entered and no subscription/account was created. The Medium page still directly exposes only a preview; a search result returned much more text, which is kept separate from verified full-page access. Neither version is added to the completed total from this check.
+
+## Bounded follow-up search
+
+Four further searches combined Higgsfield/Dreamina/Seedance prompting terms with engagement terms. Direct opens of [Gul Jabeen's image/video setup guide](https://medium.com/@techwithgul.ai/gpt-image-2-0-seedance-2-0-the-full-setup-guide-baby-steps-8403977d57a0) and [Devenko's faceless-video workflow](https://devenkoai.medium.com/how-to-build-a-faceless-ai-video-business-that-generates-monthly-income-full-guide-41bb383c2a21) exposed member-only previews, despite longer indexed excerpts. Neither supplied a usable post-level engagement number in the reader. No full-read or popularity-qualified count is added. Author follower counts and income headlines were not substituted for article engagement.
+
+The search also resurfaced Valics Lehel's already-excluded fairy-tale article; its direct page still stops near the stack introduction. It is a duplicate lead, not another source. These results leave the Medium requirement unresolved; they do not prove that stronger accessible articles do not exist.

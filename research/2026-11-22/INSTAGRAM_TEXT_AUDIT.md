@@ -1,6 +1,6 @@
 # Instagram instruction-text check — November 22, 2026
 
-This follow-up checks source-resolution frames carrying instructions in Instagram ledger rows 5, 11, 13 and 17. Their complete available speech transcripts were reread. Earlier whole-timeline sampling remains the visual-review method; this is not continuous playback or a replication test. Engagement below is the saved November 21 observation, not a fresh count. These are historical techniques, not new weekly trends.
+This follow-up checks source-resolution frames carrying instructions in Instagram ledger rows 5, 6, 8, 9, 11, 13 and 17. Their complete available speech transcripts were reread. Earlier whole-timeline sampling remains the visual-review method; this is not continuous playback or a replication test. Engagement below is the saved November 21 observation, not a fresh count. These are historical techniques, not new weekly trends.
 
 ## Row 5: moving landscape-to-portrait reframe
 
@@ -40,8 +40,30 @@ At 75.5 seconds, the short style example requests a cinematic anamorphic widescr
 
 The practical lesson is to preserve reference roles, spatial counts and the final state when simplifying wording. A short style instruction does not replace that context or establish persistent voice identity. This closes the displayed text gap, without claiming that the edited film exactly reproduces the shown input.
 
+## Row 6: assembly settings and preservation scope
+
+[Assembly tutorial](https://www.instagram.com/reel/DTUtlnHiC-v/), January 10; saved **52,870 likes / 40,267 comments**. Frames at 21, 22.5, 24, 28, 37, 37.7 and 38 seconds distinguish transient defaults from subsequent selections. The image workflow changes from 1:1/1K to 9:16/4K. Batch size increases during the demonstration; its historical credit display does not establish this account's Unlimited allowance.
+
+The exposed image text separates camera components while preserving the hand and scene. The motion text moves parts inward along their existing axes, prohibits rotation and duplicate parts, preserves grip/background/light and targets the supplied assembled endpoint. Kling 2.5 Turbo, five seconds and 1080p are visible before the paste. This supports endpoint planning with explicit preservation scope; it does not establish mechanically accurate disassembly. Some image wording is obscured by menus, and the opening motion line is partly clipped. The previously recorded caption/Hailuo versus walkthrough/Kling conflict remains.
+
+## Row 8: elastic morph before camera movement
+
+[Dynamic morph tutorial](https://www.instagram.com/reel/Dfb1M3LCyxm/), November 7; saved **922 likes / 216 comments**. Source frames at 15, 16, 16.5, 25 and 26 seconds plus 22 prompt-panel samples at 0.125-second intervals over 15.75–17.25 and 25.25–26.25 seconds reveal instructions missed by the coarse contact sheet.
+
+The first pass attaches the performance video and six object pictures. Its visible text requests a locked tripod shot, elastic deformation with a readable intermediate shape, a connected object, natural spacing without fixed timestamps, and a resolved final object. It also addresses transparency/refraction and unwanted hand changes. These are desired behaviors, not measured compliance.
+
+The second pass retains the existing six-object sequence while adding a sweeping camera move; the displayed controls are Seedance 2.5, eight seconds, 16:9, 1080p, High bitrate and audio on. Only the prompt's ending is exposed in that pass. The source lesson therefore supports separating morph and camera tasks. It does not establish that combining both prompts would work. Complete wording and the separate typography workflow remain unavailable in the public reel.
+
+## Row 9: preserve eyeline when adding a second camera
+
+[Hybrid workflow tutorial](https://www.instagram.com/reel/DfJ3fP1iOD5/), October 31; saved **1,475 likes / 1,968 comments**. Source frames at 30, 30.5, 31, 32, 46, 47, 49 and 50.5 seconds supplement the earlier transcript and timeline review.
+
+The exposed camera-guide ending keeps the subject looking toward the original camera while a secondary viewpoint moves. It asks for similar camera height/distance, parallax and controlled motion while retaining dialogue and performance. The start of the guide remains above the displayed area; the full camera path cannot be reconstructed from that ending.
+
+The outfit prompt assigns the supplied picture to clothing design, fit and texture while preserving the person's identity, motion and scene. The customization field becomes a red sweater. The settings sequence shows 720p, one video and a switch from Motion Transfer to Object Swap, as previously observed in the timeline. These controls and reference roles matter as much as wording. Neither the preservation request nor the selected example proves exact motion/identity preservation across attempts.
+
 ## Reusable lesson and completion boundary
 
 Assign each reference a role and record the actual mode, background-source choice and final controls. A detailed lighting prompt cannot substitute for the correct input configuration. Keep visible settings separate from spoken shorthand, earlier defaults and any current account controls.
 
-This closes the targeted small-text check for these four public walkthroughs. Their cropped or gated wording remains unavailable reproduction material, rather than an outstanding obligation to guess it. No new sources, generation jobs, messages or credit charges were added.
+This closes the targeted small-text check for these seven public walkthroughs. Their cropped or gated wording remains unavailable reproduction material, rather than an outstanding obligation to guess it. No new sources, generation jobs, messages or credit charges were added.

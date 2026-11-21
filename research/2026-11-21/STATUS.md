@@ -14,6 +14,8 @@ November 22 media/access correction: [MEDIUM_MEDIA_AUDIT.md](../2026-11-22/MEDIU
 
 November 22 audit follow-up: the README now correctly states 14 YouTube transcripts / 12 platform-specific. Instagram row 17 has a [source-resolution scene-text review](../2026-11-22/INSTAGRAM_TEXT_AUDIT.md), resolving named elements, spatial counts and reveal order behind the short style advice. Divad’s own Substack version was found, but its free unlock requires subscription/account steps that were not performed. No completed-source counts increase.
 
+November 22 targeted follow-up: Instagram rows 6, 8 and 9 now have source-resolution instruction checks, including rapid prompt-panel scrolling. The analysis distinguishes assembly endpoints, a locked-camera morph pass followed by a camera pass, and preserving the original eyeline during an angle change. Two new Medium leads remain previews; a third is an existing exclusion. No source totals increase. The ten-popular-Medium requirement and account-dependent Spotlight terms remain open.
+
 ## Scope
 
 - Audit `Abteeeen/higgsfield-prompting-skill`; its starting commit is `a9dcbde`, dated 2026-07-09.
