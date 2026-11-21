@@ -34,7 +34,7 @@ Full-reading status and popularity qualification are separate. Low-engagement us
 - Trends: three recent candidates inspected: 72.5M-view emotional storytelling, 2.2M-view surreal companionship and 11M-view sports comedy. Broader weekly ranking and cross-creator replication remain unproven; exact observation depth and a date disagreement are recorded.
 - Additional guides: one complete eight-page creator PDF read and visually inspected; affiliate context, outdated pricing and version differences recorded in SUPPLEMENTAL_GUIDES.md. It does not replace any required platform count.
 - Distribution supplement: a complete 55-second Trial Reels demonstration and Meta's full announcement inspected. Creator analytics screenshots, gated automation, current account eligibility and Dreamina treatment are distinguished in TRIAL_REELS.md. This does not increase prompting-guide counts.
-- Program: all six official Spotlight slides and caption read; full eligibility/submission terms still unresolved.
+- Program: all six official Spotlight slides and caption read. The final slide's QR codes were decoded and the official submission form read in full: November/December publication window, one response per creative work with all cross-post URLs, four supported platforms and payment coordination instructions. Cross-platform view aggregation, full eligibility and submission deadlines remain unresolved; no form was submitted.
 - Repository: current entry points rewritten; historical material retained; strategy draft added.
 - Production: prohibited until the user explicitly authorizes it after strategy discussion. Earlier unlimited submission was rejected, with no new job created.
 

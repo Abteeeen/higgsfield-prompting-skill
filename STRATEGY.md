@@ -62,7 +62,7 @@ Trial Reels are a possible way to compare openings after publishing is authorize
 
 ## 5. Treat the reward as conditional
 
-The official [Spotlight carousel](https://www.instagram.com/p/DfPZDsyI6mO/) lists $10,000 at 5M views and $20,000 at 10M, with other conditions. Its announcement requires videos of at least 30 seconds, specified tags and review. Full eligibility and submission terms remain unresolved; see [program evidence](research/2026-11-21/DREAMINA_SPOTLIGHT.md).
+The official [Spotlight carousel](https://www.instagram.com/p/DfPZDsyI6mO/) lists $10,000 at 5M views and $20,000 at 10M, with other conditions. Its announcement requires videos of at least 30 seconds, specified tags and review. The official submission form restricts publication to November/December 2026 and groups cross-post URLs in one response per creative work. It does not confirm view aggregation. Full eligibility and submission deadlines remain unresolved; see [program evidence](research/2026-11-21/DREAMINA_SPOTLIGHT.md).
 
 Before committing a production slate to the reward, confirm country/payment eligibility, submission timing, reuse rules, Dreamina provenance and how platform views are counted. Reconcile participant-specific tags and payout timing against the latest official creator notices; the public carousel alone is not the account's complete checklist. Keep private correspondence outside this public repository, and keep cash earnings separate from non-cash credits. A popular Higgsfield-only video cannot simply be relabeled as a Dreamina entry.
 
