@@ -4,7 +4,7 @@ The public [Higgsfield Blogs feed sorted by Most liked](https://higgsfield.ai/co
 
 ## Prioritized sources
 
-The following is a selected instructional queue from that feed, not its uninterrupted top twelve. Higher-ranked income articles and unrelated game/code demonstrations were omitted. Joey, five Kaye articles and Adil's drama, Blender and love-story articles now have complete body reads; remaining entries are discovery leads or partial reads. Detailed visual and attachment limits remain explicit.
+The following is a selected instructional queue from that feed, not its uninterrupted top twelve. Higher-ranked income articles and unrelated game/code demonstrations were omitted. Joey, five Kaye articles and Adil's drama, Blender, love-story and realism articles now have complete body reads: ten in this queue, including one editing article. The cinematic-film and sports articles remain partial reads. Detailed visual and attachment limits remain explicit.
 
 | Guide | Likes | Views | Review depth |
 |---|---:|---:|---|
@@ -19,7 +19,7 @@ The following is a selected instructional queue from that feed, not its uninterr
 | [Adil: Blender + Higgsfield workflow](https://higgsfield.ai/@adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video) | 53 | 39.5K | Complete body/five use cases/four car variants and seventeen comments; media depth in linked audit |
 | [Adil: AI Love Stories](https://higgsfield.ai/@adilinthewild/blogs/youtube-guide-ai-lovestory-video) | 51 | 21.2K | Complete body/fifteen exposed prompts and nine comments; images, audio and optional attachment unread |
 | [Adil: Cinematic Sports Ad with Seedance 2.5](https://higgsfield.ai/@adilinthewildtempo/blogs/how-to-create-a-cinematic-sports-ad-with-seedance-2-5-full-tutorial-youtube-guide) | 50 | 13.6K | Partial body: opening asset/goalkeeper instructions, closing tournament/editing/cost sections and exposed comments; not counted complete |
-| [Adil: 3-Step Workflow to Master AI Realism](https://higgsfield.ai/@adilinthewildtempo/blogs/3-step-workflow-to-master-ai-realism-full-workflow) | 43 | 26.5K | Listed only |
+| [Adil: 3-Step Workflow to Master AI Realism](https://higgsfield.ai/@adilinthewildtempo/blogs/3-step-workflow-to-master-ai-realism-full-workflow) | 43 | 26.6K | Complete body/seventeen prompts, fourteen images and twenty-seven comments; four files sampled/speech-checked, with detailed transition checks. Adapted prompts differ from original project media. |
 
 These sources cluster around a few authors. They cannot be treated as twelve independent confirmations of a technique. Likes measure response to a post, not experimental reliability. No numeric popularity cutoff has been substituted for the user's requirement.
 
@@ -28,6 +28,8 @@ See [drama and editing details](DRAMA_AND_EDITING.md) for actual versus planned 
 See [advertising and Blender details](AD_WORKFLOW_AUDITS.md) for conflicting reference bindings, recreation defaults and the limits of exact-motion claims.
 
 The Blender audit now includes all eight embedded files with timeline sampling; the [love-story audit](LOVE_STORY_AUDIT.md) adds a complete fifteen-prompt body review while preserving its unreviewed media/attachment limits.
+
+The [realism audit](REALISM_GUIDE_AUDIT.md) separates original project media from explicitly adapted public prompts and records the three scene-duration versions, prop continuity and overhead-framing differences. It does not increase YouTube or Instagram counts.
 
 ## Partial read: cinematic short film
 

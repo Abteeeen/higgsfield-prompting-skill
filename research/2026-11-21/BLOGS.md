@@ -113,4 +113,6 @@ A further check of [Seedance 2](https://medium.com/tag/seedance-2) found a singl
 
 ## Interpretation
 
+The November 22 [realism-guide audit](../2026-11-22/REALISM_GUIDE_AUDIT.md) brings the complete in-scope body total to **31**. It adds seventeen public prompt reads, fourteen instructional-image reviews, twenty-seven comments and four embedded-file checks, while explicitly separating adapted text-only prompts from the original project media. The selected native Most liked queue now has ten complete bodies, including one editing article. This does not resolve outstanding media gaps in the other guides or establish a ten-article popular Medium set.
+
 The requested popularity condition remains unmet. Premium branding does not prove a guide is accurate, and a read counter or clap count would not validate technical claims. Use official current controls for supported inputs and output settings, creator demonstrations for test ideas, and our own experiments for reliability.
