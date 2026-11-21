@@ -76,6 +76,8 @@ A blocking diagram can also state the ground level, raised surfaces, relative su
 
 Keep an experiment log: hypothesis, exact prompt, reference versions, settings, cost, output/job ID, observed defect, next change. Compare variants with one controlled change, and repeat promising variants before declaring a rule. A selected showcase video does not establish a success rate.
 
+Record audio post-production as well. A [reviewed historical tutorial](https://www.youtube.com/watch?v=5cdzvOua-_g) separates vocals, enhances speech and adds music before publishing. Its final soundtrack cannot demonstrate the generator's unprocessed voice quality. Preserve raw and finished audio separately for later comparisons.
+
 Watch every generated second, including transitions. Check identity, hands, object permanence, contact, direction of motion, camera intent, audio and the ending. Inspect the exported file's actual duration and dimensions. Upscaling, a new high-resolution generation, and native high-resolution rendering are different operations; none recovers unknown original detail with certainty.
 
 ## Sources

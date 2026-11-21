@@ -1,6 +1,6 @@
 # Reddit reading ledger
 
-Observed 2026-11-21. The 36 distinct main-ledger post bodies below were read in full. Visible comments were also reviewed; collapsed replies and embedded videos were not automatically included. Thirteen main-ledger demonstrations, all seven AMA-summary images, and the cinema guide's three charts plus two comment screenshots have now been inspected as detailed below. A separately reviewed car recreation is supplemental, not another tutorial. Some threads are troubleshooting rather than instructional guides. **This does not satisfy a claim of 20 popular, fully inspected tutorial posts.** Scores are included only where actually exposed; relative dates from cached pages are not treated as exact publication timestamps.
+Observed 2026-11-21. The 37 distinct main-ledger post bodies below were read in full. Visible comments were also reviewed; collapsed replies and embedded videos were not automatically included. Fourteen main-ledger videos, all seven AMA-summary images, the cinema guide's three charts plus two comment screenshots, and three film-staging diagrams have now been inspected as detailed below. A separately reviewed car recreation is supplemental, not another tutorial. Some threads are troubleshooting rather than instructional guides; row 37 is a showcase with a linked lesson. **This does not satisfy a claim of 20 popular, fully inspected tutorial posts.** Scores are included only where actually exposed; relative dates from cached pages are not treated as exact publication timestamps.
 
 | # | Source | Evidence, takeaway and limit |
 |---|---|---|
@@ -61,7 +61,13 @@ Rows 22–27 appeared among the first ordinary entries on the web reader's [Seed
 
 The direct browser previously returned a network-security block. Normal browser access subsequently worked on November 21 without any bypass. It exposed live scores for rows 22–27 and enabled their media reviews plus the row 30 gallery review. Some browser media exports timed out; downloads from the same observed public media URLs succeeded without cookies. Row 8 was subsequently reviewed at 1080p with full-file ASR and whole-timeline sampling. Other embedded-video gaps remain. No authenticated cookies were extracted.
 
-## Not counted
+## Additional linked-lesson review
+
+| # | Source | Evidence, takeaway and limit |
+|---|---|---|
+| 37 | [AI is getting crazier every passing day](https://www.reddit.com/r/HiggsfieldAI/comments/1pxix1j/ai_is_getting_crazier_every_passing_day/) — Wealth_Wise007 | December 28, 2025, 05:07 UTC. Live subreddit search for tutorial, sorted Top / Past year, placed it first with **236 points / 39 comments**. Full short body and exposed comments read. Public showcase: 2,320 frames, 30fps, 1920×1080, 77.33 seconds; whole-file speech transcription and 39 two-second visual samples inspected. Alternating dialogue/reaction shots lead to a dance and credit card. Sampling does not establish continuous motion or lip-sync quality. The linked 9:15 YouTube lesson's complete transcript and linked prompt-document text were read; see YOUTUBE.md. The lesson identifies Seedance 1.5 Pro and substantial audio finishing, correcting a commenter's Veo guess. No native Reddit prompting steps; linked teaching is counted once as a YouTube source. Historical community engagement, not current-week viral evidence. |
+
+## Excluded sources and remaining gaps
 
 The formerly pending battlefield and rescue videos are now reviewed in rows 35–36. Both came from the third page of the sampled annual Top listing. Their public media downloads succeeded after browser access recovered, without cookie extraction. Promotional comment attachments were not reviewed and are not evidence for the main videos' generation provenance.
 
