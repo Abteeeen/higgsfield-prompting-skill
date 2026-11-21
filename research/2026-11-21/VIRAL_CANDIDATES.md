@@ -46,5 +46,6 @@ Both candidates have a current publication date, but they do not establish a cro
 | [pjacefilms voice workflow](https://www.instagram.com/reel/DfubOqjBOlB/) | 20K grid views; 498–504 likes across observations | Metadata Nov 14 | Useful Dreamina instruction, limited reach; boundary of trailing week. |
 | [pjacefilms subscription video](https://www.instagram.com/reel/Dfhfu1-hqZn/) | 3.7M grid views | Nov 9 | Reject from recent AI-video shortlist: outside window and not an AI-video prompting tutorial. |
 | [Justin Valentin product assembly](https://www.instagram.com/reel/DTwKrV3kXl-/) | 1.75M indexed views; 108,615 likes in current public metadata | Jan 21 | Historical technique, not this week's trend. Index snapshot differs from live metadata. |
+| [david_j_design emotional embrace](https://www.instagram.com/reel/DfNUDcwMwm2/) | 1.2M displayed likes; 1,243,821 likes and 6,911 comments in public metadata; views unverified | Nov 1, confirmed by public metadata | Outside the trailing week. Full caption attributes the video to Dreamina; media not fully inspected. Historical candidate only, not an analyzed current trend or prompting guide. |
 
 Do not treat sponsored model launches, comment-to-receive-guide campaigns, or a single high-view example as evidence that remaking a format will guarantee the same result.

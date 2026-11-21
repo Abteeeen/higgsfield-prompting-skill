@@ -2,6 +2,8 @@
 
 Source: [Dreamina's official pinned Instagram carousel](https://www.instagram.com/p/DfPZDsyI6mO/), published 2026-11-02, inspected 2026-11-21. All six slides and the caption were read. Visible at inspection: 1,666 likes and 214 comments. This is a summary of the announcement, not a substitute for full entry terms.
 
+**Public announcement record only.** Before using it as a publishing checklist or payment forecast, reconcile it with the participant's latest official creator notices. Participant-specific tags and updated payout schedules can differ from this general carousel. Keep private account correspondence and payment information outside this public repository.
+
 | Public views | Listed cash award | Listed credits |
 | --- | ---: | ---: |
 | 50,000 | $100 | — |

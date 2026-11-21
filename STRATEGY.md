@@ -60,7 +60,7 @@ Do not set universal retention or view thresholds before we have account data. D
 
 The official [Spotlight carousel](https://www.instagram.com/p/DfPZDsyI6mO/) lists $10,000 at 5M views and $20,000 at 10M, with other conditions. Its announcement requires videos of at least 30 seconds, specified tags and review. Full eligibility and submission terms remain unresolved; see [program evidence](research/2026-11-21/DREAMINA_SPOTLIGHT.md).
 
-Before committing a production slate to the reward, confirm country/payment eligibility, submission timing, reuse rules, Dreamina provenance and how platform views are counted. Keep cash earnings separate from non-cash credits. A popular Higgsfield-only video cannot simply be relabeled as a Dreamina entry.
+Before committing a production slate to the reward, confirm country/payment eligibility, submission timing, reuse rules, Dreamina provenance and how platform views are counted. Reconcile participant-specific tags and payout timing against the latest official creator notices; the public carousel alone is not the account's complete checklist. Keep private correspondence outside this public repository, and keep cash earnings separate from non-cash credits. A popular Higgsfield-only video cannot simply be relabeled as a Dreamina entry.
 
 ## Research still required
 

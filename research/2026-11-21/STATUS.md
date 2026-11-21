@@ -30,7 +30,7 @@ Full-reading status and popularity qualification are separate. Low-engagement us
 - Blogs: 10 complete article bodies; high-rating/popularity condition unproven. Weak or sponsored sources are labeled.
 - Reddit: 21 distinct complete post bodies; some are troubleshooting rather than guides. Embedded media and collapsed replies are not automatically included. Most popularity metrics are low or unavailable.
 - YouTube: 12 complete transcripts read. Excluding two supplements leaves ten platform-specific tutorials with observed audience uptake (11k–450k views); not an exhaustive highest-rated ranking. See YOUTUBE.md for exact limits and promotional context.
-- Instagram: 18 complete captions/transcripts with whole-timeline visual sampling; two are showcases/trailers excluded as complete tutorials. Exact gated or tiny on-screen prompts remain unresolved in several others. This is not 20 popular, fully inspected guides.
+- Instagram: 19 complete captions/transcripts with whole-timeline visual sampling; two are showcases/trailers excluded as complete tutorials. Exact gated or tiny on-screen prompts remain unresolved in several others. A further complete creator interview was inspected but excluded because it does not teach a reproducible prompting workflow. This is not 20 popular, fully inspected guides.
 - Trends: one strong recent breakout and a second recent 2.2M-view format inspected; broader weekly ranking and cross-creator replication not established.
 - Program: all six official Spotlight slides and caption read; full eligibility/submission terms still unresolved.
 - Repository: current entry points rewritten; historical material retained; strategy draft added.
