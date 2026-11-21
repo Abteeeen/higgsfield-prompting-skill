@@ -2,6 +2,8 @@
 
 Date: 2026-11-21. **Draft for discussion, not approval to generate or publish.** The user explicitly asked to agree the strategy before making videos. All production is on hold.
 
+November 22 evidence update: the four candidate metrics below retain their November 21 observation dates. The November 14 transformation has aged out of the current trailing week. [Further screening](research/2026-11-22/TREND_SCREENING.md) found that newly published template pages can describe months-old formats, and a creator's pinned breakout can greatly exceed recent uploads. Neither is sufficient evidence of a currently repeatable trend.
+
 ## Recommendation
 
 Build around timely **formats**, without committing to a subject niche. Separate learning how a tool works from deciding what audiences currently want. Use current engagement to select a small number of formats, analyze their story mechanics, then develop original variations. Treat prompting as a repeatable testing discipline rather than a collection of magic phrases.
