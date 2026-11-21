@@ -44,6 +44,8 @@ Each candidate record should include:
 
 Use the trailing seven days for the current shortlist. Older examples remain technique references. Revisit promising posts for a second count before claiming growth speed: a single snapshot cannot measure acceleration. Compare several independent creators before calling something a repeatable trend. A repost of the same original does not count as independent success.
 
+Apply that rule to the actual media, not just different usernames. Our [historical camcorder audit](research/2026-11-21/REDDIT.md#camcorder-example-source-tracing-and-adaptation) traced a highly voted Reddit clip to matching footage in an earlier 12.9M-view X post. A separate rendition changed several story beats, but its prompt and video view count were unavailable. Record the earliest located source, distinguish reposts from adaptations, and compare the same engagement measure before claiming repeatable reach.
+
 Prioritize candidates with all three: recent reach, a clearly understood mechanism, and an achievable original adaptation. Raw views alone do not decide. Public metrics cannot establish organic reach or guarantee Dreamina approval.
 
 ## 2. Learn prompting in distinct workflows
