@@ -12,6 +12,8 @@ November 22 Medium checkpoint: [MEDIUM_SHORTLIST.md](../2026-11-22/MEDIUM_SHORTL
 
 November 22 media/access correction: [MEDIUM_MEDIA_AUDIT.md](../2026-11-22/MEDIUM_MEDIA_AUDIT.md) completes Pop’s three article figures and recovers Lanham’s five-second courier GIF. The latter changes the prompt’s behind-subject pursuit into oncoming traffic. Loaded-page checks recover four clap counts from earlier placeholders; Divad has 257 claps but remains preview-only. Counts are corrected without adding completed sources.
 
+November 22 audit follow-up: the README now correctly states 14 YouTube transcripts / 12 platform-specific. Instagram row 17 has a [source-resolution scene-text review](../2026-11-22/INSTAGRAM_TEXT_AUDIT.md), resolving named elements, spatial counts and reveal order behind the short style advice. Divad’s own Substack version was found, but its free unlock requires subscription/account steps that were not performed. No completed-source counts increase.
+
 ## Scope
 
 - Audit `Abteeeen/higgsfield-prompting-skill`; its starting commit is `a9dcbde`, dated 2026-07-09.

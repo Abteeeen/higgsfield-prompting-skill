@@ -1,6 +1,6 @@
 # Instagram instruction-text check — November 22, 2026
 
-This follow-up checks source-resolution frames carrying instructions in Instagram ledger rows 5, 11 and 13. Their complete available speech transcripts were reread. Earlier whole-timeline sampling remains the visual-review method; this is not continuous playback or a replication test. Engagement below is the saved November 21 observation, not a fresh count. These are historical techniques, not new weekly trends.
+This follow-up checks source-resolution frames carrying instructions in Instagram ledger rows 5, 11, 13 and 17. Their complete available speech transcripts were reread. Earlier whole-timeline sampling remains the visual-review method; this is not continuous playback or a replication test. Engagement below is the saved November 21 observation, not a fresh count. These are historical techniques, not new weekly trends.
 
 ## Row 5: moving landscape-to-portrait reframe
 
@@ -30,8 +30,18 @@ The visible opening assigns Image 1 and Image 2 as endpoints and uses a bee to m
 
 The closing sentence continues below the shown text box, and the creator offers the exact prompt by comment. Most visible instructions are now read; a verbatim complete prompt is not established. Endpoint equality and precise timing remain requests, not measured results. The transferable idea is an attention target that motivates the bridge between two planned edit points.
 
+## Row 17: five filmmaking tips and the missing scene context
+
+[pjacefilms tutorial](https://www.instagram.com/reel/DZ8ed6YhLoP/), June 23; saved observation **8,930 likes / 163 comments**. The original film's 20M-view claim is separate and remains unverified here. The complete available transcript was reread. Source-resolution frames at 36, 37.2, 38.5, 51.5, 54 and 75.5 seconds now resolve the displayed scene block and later style example.
+
+The block maps five named elements: baby dragon, butcher, Annika, guard and cleaver. Annika's reference is assigned appearance only; delivery is separately described in prose. Staging establishes three creatures in a cage and one held, four guards in explicit positions, a closed parasol, an opening cleaver position, offscreen speech before a face reveal, and an ending that reunites all four creatures. This is substantial scene direction behind the later short style phrase. The displayed block does not provide the actual dialogue lines or full original production inputs.
+
+At 75.5 seconds, the short style example requests a cinematic anamorphic widescreen look. Omni reference is visible, but the model label is cropped after Dreamina Seedance 2; it does not prove the suffix or the final run settings. The earlier block includes both 2.39:1 and 21:9, which are close but not identical ratios. Select one actual output control when preparing a future authorized run.
+
+The practical lesson is to preserve reference roles, spatial counts and the final state when simplifying wording. A short style instruction does not replace that context or establish persistent voice identity. This closes the displayed text gap, without claiming that the edited film exactly reproduces the shown input.
+
 ## Reusable lesson and completion boundary
 
 Assign each reference a role and record the actual mode, background-source choice and final controls. A detailed lighting prompt cannot substitute for the correct input configuration. Keep visible settings separate from spoken shorthand, earlier defaults and any current account controls.
 
-This closes the targeted small-text check for these three public walkthroughs. Their cropped or gated wording remains unavailable reproduction material, rather than an outstanding obligation to guess it. No new sources, generation jobs, messages or credit charges were added.
+This closes the targeted small-text check for these four public walkthroughs. Their cropped or gated wording remains unavailable reproduction material, rather than an outstanding obligation to guess it. No new sources, generation jobs, messages or credit charges were added.
