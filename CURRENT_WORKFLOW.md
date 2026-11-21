@@ -45,6 +45,8 @@ For acting, connect a visible trigger or spoken line to a restrained physical re
 
 Compare the published prompt’s event and duration with the actual demonstration before borrowing it. A [classroom example](https://www.reddit.com/r/Seedance_AI/comments/1x6t7ph/an_8second_classroom_drama_made_with_seedance_25/) pairs an eight-second gesture prompt with a roughly thirty-second fight. Missing inputs prevent attributing that result to the displayed text. For multi-character action, inspect close-ups and transitions for transferred wardrobe as well as facial identity: the [rooftop example](https://www.reddit.com/r/Seedance_AI/comments/1x97lk3/seedance_25_anime_fight_prompt_a_fourshot_rooftop/) briefly combines the two characters’ assigned clothing details. These are observed failure cases, not evidence for a universal prompt-length limit.
 
+For relighting a recorded performance, separate appearance from motion. The [public relighting tutorial](https://www.instagram.com/reel/DcuzFYappi6/) first prepares a styled still, then supplies that image alongside the original performance video. Its prompts explicitly restrict what should transfer from the style reference. Treat preservation wording as a review target: compare expressions, movement, objects and framing against the source. The public comment and demonstrated prompt box use different endings, so save the exact version used in any later authorized test.
+
 ## Platform adaptation
 
 | Task | Higgsfield | Dreamina |
