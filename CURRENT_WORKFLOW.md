@@ -19,11 +19,13 @@ Higgsfield and Dreamina are platforms; Seedance is a model family. Their interfa
 1. State the visible event: subject, action, location and payoff.
 2. Prepare only the references needed: identity, wardrobe, environment, product, motion or voice. Assign each file its role using the platform's actual reference selector. State what must *not* transfer, such as the neutral background of a character sheet.
 3. Describe motion, framing and lighting that the references do not settle. Use an observable camera instruction, such as a slow push toward the face. Keep the number of subjects and simultaneous actions manageable.
-4. For a sequence, use contiguous time ranges with one achievable story beat per range. These are approximate pacing instructions, not frame-accurate editing commands. Finish timing in an editor when precision matters.
+4. For a sequence, describe ordered shots with manageable story beats. Seedance 2.0's [official guide, updated November 19](https://ai.byteplus.com/ark/region:ap-southeast-1/docs/seedance-2-0-prompt-guide), warns against strict timestamps. Keep timing targets in the editing plan; use model-specific pacing instructions where supported. Finish precise timing in an editor.
 5. Specify dialogue, speaker, performance and allowed sound where needed. A physical trigger can motivate an expression better than a list of abstract emotions.
 6. End with the intended final state and the few continuity constraints that matter. Long negative lists and extra cinema terminology are not a substitute for clear staging.
 
 There is no universal best word count. JSON may organize a planning document; it is not a documented private rendering-engine schema. Keep real API parameters separate from prose.
+
+For Seedance 2.0, the same official guide recommends separate face and body references over multi-view character composites, which can cause duplicate subjects. It also distinguishes editing an existing video from borrowing its motion or style. Match the wording to that task; verify the platform's supported mode separately.
 
 A short motion prompt may depend on substantial image preparation. The [reviewed falling montage](https://www.instagram.com/reel/DT2N8DJCIrq/) first creates consistent scene variants, uses two endpoints for its main move and single images for detail shots, then edits the clips together. Record that full setup when learning from a successful short prompt.
 
