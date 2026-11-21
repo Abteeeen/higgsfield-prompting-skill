@@ -13,6 +13,7 @@ Working knowledge base for original short-form AI videos using Higgsfield and Dr
 - [Current production and prompting workflow](CURRENT_WORKFLOW.md)
 - [Agent instructions](SKILL.md)
 - [Research status and remaining work](research/2026-11-21/STATUS.md)
+- [Requirements audit and exact instructional subsets](research/2026-11-22/REQUIREMENTS_AUDIT.md)
 - [Repository audit and corrected claims](research/2026-11-21/REPO_AUDIT.md)
 - [Blog reading ledger](research/2026-11-21/BLOGS.md)
 - [Ranked creator-blog screening](research/2026-11-22/BLOG_SCREENING.md)

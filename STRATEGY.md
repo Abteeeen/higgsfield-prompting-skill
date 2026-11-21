@@ -10,7 +10,7 @@ Build around timely **formats**, without committing to a subject niche. Separate
 
 Our strongest verified recent candidate is [Rezai Studio's hidden-worker story](https://www.instagram.com/reel/Df9p5sCxV2Z/), published November 20 and observed at 72.5M views on November 21. That is evidence of one breakout, not evidence that the whole category or a remake will perform similarly. Its useful mechanism is an immediately surprising situation, a sympathetic character, a concrete need, costly effort and a visible payoff. See the [full analysis](research/2026-11-21/VIRAL_CANDIDATES.md).
 
-A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.com/kaye.creatives/reel/Df6Ho3VSBXy/), published November 19 and observed at 2.2M views. It suggests a lighter format built on familiar routines with an impossible companion. It comes from a much larger account, and the prompt guide is comment-gated, so neither its production recipe nor the reason for its reach is established. Compare these directions before choosing a concept; neither is approved for production.
+A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.com/kaye.creatives/reel/Df6Ho3VSBXy/), published November 19 and observed at 2.2M views. It suggests a lighter format built on familiar routines with an impossible companion. Although the reel offers a guide through comments, a [public creator-blog recipe has since been reviewed](research/2026-11-22/KAYE_GUIDES.md), including all seven scene recipes and sixteen reference figures. Its correspondence with the reel is strong, but exact original run provenance and the reason for its reach remain unknown. It also comes from a much larger account. Compare these directions before choosing a concept; neither is approved for production.
 
 ## Decision brief
 
@@ -93,6 +93,6 @@ The user will provide Dreamina account access later. Leave account-dependent che
 
 ## Research still required
 
-The requested source quantities and popularity requirement remain the standard. Current article, Reddit and YouTube reading is useful, but many sources are low-engagement or have unavailable ratings. Instagram coverage also includes gated or incomplete tutorials. Those limitations are recorded explicitly in [STATUS.md](research/2026-11-21/STATUS.md); they must not be hidden by a total source count.
+The requested source quantities and popularity requirement remain the standard. The [requirements audit](research/2026-11-22/REQUIREMENTS_AUDIT.md) identifies the actual instructional subsets and remaining gaps. The YouTube transcript minimum is met; the overall research requirement is still open. Full public-post review, unavailable reproduction inputs and untested performance claims are separate issues. Those limitations are recorded explicitly in [STATUS.md](research/2026-11-21/STATUS.md); they must not be hidden by a total source count.
 
 The next decision is the strategy itself: approve or adjust the trend-selection and learning process before authorizing any production. No video generation, paid upgrade, prize enrollment or social publishing is authorized by this document.
