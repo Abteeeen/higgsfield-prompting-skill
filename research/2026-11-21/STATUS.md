@@ -10,6 +10,8 @@ November 22 trend supplement: a 714K-view, 90.4K-like character-dance showcase n
 
 November 22 Medium checkpoint: [MEDIUM_SHORTLIST.md](../2026-11-22/MEDIUM_SHORTLIST.md) compares the ten existing article bodies with numeric clap evidence, from 11 to 244, with per-article media limits. Six new leads yielded three member previews and three public bodies with unverified popularity/platform fit; none increases qualifying or retained core totals. The ten-popular-Medium requirement remains unresolved.
 
+November 22 media/access correction: [MEDIUM_MEDIA_AUDIT.md](../2026-11-22/MEDIUM_MEDIA_AUDIT.md) completes Pop’s three article figures and recovers Lanham’s five-second courier GIF. The latter changes the prompt’s behind-subject pursuit into oncoming traffic. Loaded-page checks recover four clap counts from earlier placeholders; Divad has 257 claps but remains preview-only. Counts are corrected without adding completed sources.
+
 ## Scope
 
 - Audit `Abteeeen/higgsfield-prompting-skill`; its starting commit is `a9dcbde`, dated 2026-07-09.

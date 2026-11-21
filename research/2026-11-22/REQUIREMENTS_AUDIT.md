@@ -18,6 +18,8 @@ This checkpoint audits the saved source records, rather than adding discovery UR
 
 The [Medium shortlist](MEDIUM_SHORTLIST.md) now ranks the ten already-read relevant articles with recorded numeric claps (11–244) and makes their specific review limits visible. This is an observed-sample ranking, not proof of ten popular guides. Six further leads were screened without adding a qualifying source or inflating core totals.
 
+The [targeted Medium media pass](MEDIUM_MEDIA_AUDIT.md) closes Pop’s three-figure gap and recovers Lanham’s courier GIF for timeline review. It also corrects four initially unloaded engagement counters, including 257 claps on Divad’s still-inaccessible article. No source totals increase, and a stronger preview count does not establish full access.
+
 ## Exact instructional subsets
 
 The [Reddit ledger](../2026-11-21/REDDIT.md) has twenty-one sampled main videos attached to posts that expose instructions or claim to teach a workflow: **8, 13, 17, 22–27, 31–33, 35–36, 38–44**. Row **37** is the additional sampled showcase and is excluded from this instructional subset: its native post is a showcase and its linked lesson is counted in YouTube. Text-only discussions and inspected diagrams are additional research, not a way to inflate this video subset.
