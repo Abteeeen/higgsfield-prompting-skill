@@ -25,6 +25,8 @@ Higgsfield and Dreamina are platforms; Seedance is a model family. Their interfa
 
 There is no universal best word count. JSON may organize a planning document; it is not a documented private rendering-engine schema. Keep real API parameters separate from prose.
 
+Treat an assistant's script-retention score and estimated narration clock as planning aids. They do not measure viewer retention or guarantee the duration of a delivered performance. After production is authorized, time shots and captions against the actual audio, then inspect the edited result. A workflow that ends with importing clips into an editor still requires editing and review, even if its promotion describes a one-command process.
+
 ## Platform adaptation
 
 | Task | Higgsfield | Dreamina |

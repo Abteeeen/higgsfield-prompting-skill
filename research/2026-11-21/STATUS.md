@@ -27,7 +27,7 @@ Full-reading status and popularity qualification are separate. Low-engagement us
 
 ## Coverage checkpoint
 
-- Blogs: 10 complete article bodies; high-rating/popularity condition unproven. Weak or sponsored sources are labeled.
+- Blogs: 11 complete article bodies; high-rating/popularity condition unproven. One article was labeled popular this week within Medium's small Higgsfield AI topic and had 26 claps; another existing article showed 20 claps. These observations do not establish ten widely popular guides. Weak or sponsored sources are labeled.
 - Reddit: 21 distinct complete post bodies; some are troubleshooting rather than guides. Embedded media and collapsed replies are not automatically included. Most popularity metrics are low or unavailable.
 - YouTube: 12 complete transcripts read. Excluding two supplements leaves ten platform-specific tutorials with observed audience uptake (11k–450k views); not an exhaustive highest-rated ranking. See YOUTUBE.md for exact limits and promotional context.
 - Instagram: 19 complete captions/transcripts with whole-timeline visual sampling; two are showcases/trailers excluded as complete tutorials. Exact gated or tiny on-screen prompts remain unresolved in several others. A further complete creator interview was inspected but excluded because it does not teach a reproducible prompting workflow. This is not 20 popular, fully inspected guides.

@@ -1,12 +1,12 @@
 # Blog and long-form reading ledger
 
-Observed 2026-11-21. Ten complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: most Medium clap counts were unavailable, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
+Observed 2026-11-21. Eleven complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: most Medium clap counts were unavailable, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
 
 | Source / publication | Access and popularity evidence | What survives scrutiny / limitation |
 |---|---|---|
 | [EvoLink: five structures, eight control layers](https://medium.com/@evan-dong/how-to-write-seedance-2-5-prompts-5-structures-and-8-control-layers-c9a7fba4f8e4), Aug 7 | Full body; author had 1 follower, claps unavailable | Analysis of 181 public prompts favors timeline and narrative formats in that sample. It is an observational collection, not a controlled success-rate comparison. Role assignment and action order are useful; it does not establish a universal best format. |
 | [Mohamed Ben: consistent videos](https://medium.com/@yoou89h/how-to-build-consistent-ai-videos-on-higgsfield-without-wasting-credits-73796f3024df) | Full body; 1 follower, no verified rating | Thin promotional guide with placeholders. Do not count as high-quality evidence or as satisfying popularity. |
-| [Kevin Meneses: seven Higgsfield features](https://medium.com/coinmonks/higgsfield-ai-7-features-that-are-insane-pricing-452f7f5a42ba), Oct 14 | Full text; pricing images not inspected; popularity unknown | Useful inventory of workflow options. Web subscriptions and API billing must be distinguished. Old price screenshots are not current account entitlements. |
+| [Kevin Meneses: seven Higgsfield features](https://medium.com/coinmonks/higgsfield-ai-7-features-that-are-insane-pricing-452f7f5a42ba), Oct 14 | Full text; pricing images not inspected; **20 claps verified in Medium's article header** on Nov 21 | Useful inventory of workflow options. Web subscriptions and API billing must be distinguished. Old price screenshots are not current account entitlements. This modest clap total does not establish broad popularity or technical validity. |
 | [Kelvin Mathenge: building an AI influencer](https://medium.com/@kelvinmathenge9/how-to-create-an-ai-influencer-i-built-one-to-see-what-breaks-0c8437128607), Nov 19 | Full body; popularity unknown | Reports randomizer overriding specified age and generated interface artifacts. Lock a neutral identity reference and give explicit actions. A single creator's tests do not establish platform-wide behavior or business outcomes. |
 | [okyanusiltd9: nine-model comparison](https://medium.com/@okyanusiltd9/9-ai-video-models-one-prompt-grok-imagine-vs-seedance-vs-kling-4-0-real-test-2a1c0e6ea165), Oct 27 | Full body; popularity unknown | Rooftop dancer/lantern/dialogue example illustrates object permanence and audio checks. Actual reported runs use unequal settings and limited repetitions; the headline is not a rigorous model ranking. |
 | [Yousuf Rafi Ahmed: Canvas comparison](https://medium.com/write-a-catalyst/higgsfield-canvas-vs-topview-canvas-two-very-different-takes-on-ai-video-control-c556f57167d6), Jun 12 | Full body; 4 comments, claps unavailable | Node-based reuse and storyboard-led editing solve different coordination problems. Subjective workflow comparison, not measured output superiority. |
@@ -15,11 +15,24 @@ Observed 2026-11-21. Ten complete article bodies were read. This is **not a veri
 | [Saif Qureshi: consistent no-code videos](https://www.heyitsaif.com/blog/seedance-2-5-consistent-video-no-code), Nov 9 | Complete body; popularity unknown | Story bible, reference preparation, four prompt blocks, extension and QA form a practical sequence. Face restrictions are generalized from another provider, and Dreamina resolution advice is older than the current 4K announcement. Verify these separately. |
 | [Creative Bloq: Kevin Mendiboure filmmaking interview](https://www.creativebloq.com/ai/how-a-filmmaker-turned-a-10-year-old-unmakeable-movie-idea-into-reality-with-ai), Jun 9 | Complete text including final interview sections; 4 comments; galleries not individually reviewed | Creator reports thousands of generations and substantial production time. Update character sheets as injuries change; plan start frames and screen direction; use draft tests before costly finals. This is an individual production account, not proof that one prompt makes a finished film. |
 
+## Additional full article: planning before rendering
+
+[Pop Alexandru: Claude-to-Higgsfield faceless-video workflow](https://medium.com/@Pop123/i-turned-claude-into-a-faceless-video-studio-for-higgsfield-heres-the-exact-workflow-a14a29ed83ee), July 22, 2026. Complete article body read through the independent-tool disclosure. **26 claps** displayed in the article; it appeared in [Medium's Higgsfield AI topic](https://medium.com/tag/higgsfield-ai) under “Popular this week.” That topic displayed just 16 followers, 36 stories and 31 writers. Record the platform's label, but do not equate it with mass popularity, a quality rating or 26 independent endorsers.
+
+The author describes script review, timed beats, a narration plan, captions, an edit checklist, cost estimation and an image-first approval stage before video calls. The example is a three-shot, 20-second story. It is a useful planning sequence, not a complete current Seedance prompting specification. The article promotes the author's unofficial paid companion tool; the tool was not installed, its generated API calls were not inspected and its promised cost savings were not tested.
+
+Three claims need qualification. A script's predicted retention score is a planning heuristic, not measured audience retention. Estimated speech duration cannot guarantee every clip precisely fits the eventual performance. And the final step explicitly requires importing footage, captions and voiceover into an editor despite the opening claim about avoiding editing skills. After production is authorized, verify timing against the actual recorded/generated audio and inspect the final edit. No generation was performed while reading this article. Its figures and linked product were not individually reviewed.
+
 ## Excluded from the completed count
 
 - Paywalled Devenko viral-video and animation-factory articles: preview only.
 - A byDira article returned Gone.
 - Additional discovered Medium guides by 0xmega, Gautam Soni and no-time were not fully read in this pass.
+- [Sebastian Buzdugan's Dreamina/CapCut pipeline article](https://medium.com/@sebuzdugan/how-to-build-real-video-pipelines-with-bytedances-dreamina-seedance-2-0-in-capcut-d39aa3875138), March 27: Medium search displayed 41 claps and a member-only label. Search result inspected, article not read; excluded from full-reading and popularity-qualified totals.
+
+## Discovery limits checked directly
+
+Medium's `Dreaminaai` topic displayed one follower, seven stories and two writers; its latest displayed article was September 2, 2025. This narrow topic is not a useful standalone ranking of current Dreamina guides. It does not establish that newer articles elsewhere on Medium are absent. Do not use either topic's “popular” placement as a substitute for the user's broader high-quality/popularity requirement.
 
 ## Interpretation
 

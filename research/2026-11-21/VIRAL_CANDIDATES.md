@@ -49,3 +49,17 @@ Both candidates have a current publication date, but they do not establish a cro
 | [david_j_design emotional embrace](https://www.instagram.com/reel/DfNUDcwMwm2/) | 1.2M displayed likes; 1,243,821 likes and 6,911 comments in public metadata; views unverified | Nov 1, confirmed by public metadata | Outside the trailing week. Full caption attributes the video to Dreamina; media not fully inspected. Historical candidate only, not an analyzed current trend or prompting guide. |
 
 Do not treat sponsored model launches, comment-to-receive-guide campaigns, or a single high-view example as evidence that remaking a format will guarantee the same result.
+
+## Trend-index verification audit
+
+The [Vosscore Dreamina index](https://vosscore.com/tag/dreamina) supplied useful discovery links, but its cached relative ages were not current publication-date evidence. Direct metadata and Instagram inspection on November 21 produced these decisions:
+
+| Candidate | Primary observation | Decision |
+|---|---|---|
+| [Scale Fiction volcano chicken](https://www.instagram.com/reel/DfjtPkPTpVu/) | Published Nov 10; 593,131 likes and 2,511 comments in public metadata; creator's live reels grid displayed 33.7M views | Outside the trailing week. Caption attributes it to Dreamina Seedance 2.5. Media not fully inspected; do not promote to an analyzed recent trend. |
+| [Previz Stories Italy comedy](https://www.instagram.com/reel/Dfn7wfhSHNA/) | Published Nov 12; 411,825 likes and 6,075 comments in public metadata; live profile grid displayed 16.6M views | Outside the trailing week. Media not fully inspected. The indexed 14-second length is not independently measured and does not demonstrate Spotlight duration compliance. |
+| [Scale Fiction's latest visible unpinned reel](https://www.instagram.com/reel/Dfri9JoxmgE/) | Instagram showed Nov 13 and 837K grid views | Also outside the trailing week. The same account's large earlier breakout does not establish that later posts reliably reach 10M. Media not fully inspected. |
+
+The Previz Stories grid also showed several much lower-view reels beside its pinned breakout; their publication dates and content were not fully audited. This is context about uneven account performance, not a controlled format comparison. Do not calculate growth velocity from an older index count and a current Instagram count unless both observation times are known.
+
+Vosscore's separate [weekly Instagram list](https://vosscore.com/trends/instagram/weekly) mixes gaming, food, live action and other subjects. It is a discovery sample, not an exhaustive ranking of AI videos. Every candidate still needs an exact date, AI provenance and complete media review. No additional recent breakout has been qualified by this audit.
