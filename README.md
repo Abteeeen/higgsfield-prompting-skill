@@ -2,7 +2,7 @@
 
 Working knowledge base for original short-form AI videos using Higgsfield and Dreamina. Updated 2026-11-21. We follow promising formats across niches, test in Higgsfield, and prepare eligible Dreamina productions after checking program requirements. Audience reach and prize payments are targets, not promises.
 
-**The research is in progress.** Eighteen article bodies, 34 Reddit post bodies and twelve YouTube transcripts have been read, but the overall popularity standard and complete Instagram tutorial coverage are not yet met. Ten of the YouTube tutorials are platform-specific with observed audience uptake; two remain supplements. See the evidence ledger rather than treating discovery counts as completed research.
+**The research is in progress.** Eighteen article bodies, 36 Reddit post bodies and twelve YouTube transcripts have been read, but the overall popularity standard and complete Instagram tutorial coverage are not yet met. Ten of the YouTube tutorials are platform-specific with observed audience uptake; two remain supplements. See the evidence ledger rather than treating discovery counts as completed research.
 
 **Current scope: research and strategy only. Production is on hold until the user explicitly asks to begin.**
 
