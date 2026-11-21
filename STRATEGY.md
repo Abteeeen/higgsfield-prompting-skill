@@ -58,6 +58,8 @@ Review performance at consistent intervals such as 24 hours, 72 hours and seven 
 
 Do not set universal retention or view thresholds before we have account data. Do not delete a post merely because it starts slowly, and do not count purchased distribution toward an organic-view reward.
 
+Trial Reels are a possible way to compare openings after publishing is authorized and account availability is verified. Start with two materially different openings, compare at equal elapsed ages and keep other controllable factors constant. This is a proposed experiment, not a guaranteed growth technique. The inspected creator demonstration changes both hooks and captions and supplies no controlled comparison; its automation remains gated. See the [Trial Reels evidence and experiment](research/2026-11-21/TRIAL_REELS.md), including unresolved Dreamina treatment of trials and repeat variants.
+
 ## 5. Treat the reward as conditional
 
 The official [Spotlight carousel](https://www.instagram.com/p/DfPZDsyI6mO/) lists $10,000 at 5M views and $20,000 at 10M, with other conditions. Its announcement requires videos of at least 30 seconds, specified tags and review. Full eligibility and submission terms remain unresolved; see [program evidence](research/2026-11-21/DREAMINA_SPOTLIGHT.md).

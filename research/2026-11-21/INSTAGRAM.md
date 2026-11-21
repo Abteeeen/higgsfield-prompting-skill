@@ -29,6 +29,10 @@ For the 20 reels below, the complete caption and available full-length speech tr
 
 ## Other inspected posts
 
+- [Trial Reels workflow — pjacefilms / Dreamina](https://www.instagram.com/reel/DfPhljWh_aW/): complete caption, full-file speech transcript and two-second whole-timeline sampling inspected. Distribution experiment with gated automation, not a video-prompting recipe. Analysis and official-source cross-check in [TRIAL_REELS.md](TRIAL_REELS.md); excluded from the platform-prompting guide total.
+- [Music-lover effect — Kayo Daniel](https://www.instagram.com/reel/DWI-oadEv9_/): search indexed around 100K views, but the connected Instagram account encountered an under-25 viewing restriction and public media retrieval failed. No full-media review or bypass; excluded.
+- [Kaye growth advice](https://www.instagram.com/reel/Df5oNhxIj30/): complete caption read; 130K live grid views, 3,646 likes and 1,730 comments. Recommends saving successful examples and finding an enjoyable format, but the claimed reach multiplier is reserved for a future masterclass. Caption-only screening, not a complete prompting guide or independently verified growth method. No signup or comment sent.
+
 - Screening on November 21 excluded the newest Higgsfield contest, subscription, GPU, MCP and private-beta announcements: their complete captions supplied promotional claims rather than reproducible video-prompting instructions. Creator archives also mixed phone tips, conventional editing lessons and finished films with AI tutorials. These caption-only screening results do not increase the full-review count.
 
 - [be.shyn football comedy](https://www.instagram.com/reel/Df0eWO5x9i4/): 11M views on the live profile grid; full caption, automatic speech transcript and one-second whole-timeline sampling inspected. Recent format analysis, exact date disagreement and audio limits are recorded in [VIRAL_CANDIDATES.md](VIRAL_CANDIDATES.md). No instructional prompt is shared; excluded from tutorial count.
