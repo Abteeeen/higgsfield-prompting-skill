@@ -4,7 +4,7 @@
 
 **In progress. Strict source qualification remains open; raw counts are not the missing requirement.** See the [November 22 requirements audit](../2026-11-22/REQUIREMENTS_AUDIT.md) for current totals and exact subsets. A discovered URL, search excerpt, exported-but-unread transcript, or caption without its instructional video is not a fully analyzed source.
 
-Latest targeted check: Instagram rows 5 and 11 now have source-resolution instruction-text reviews. Final image/video settings and the relighting workflow's Image background-source selection are documented in [INSTAGRAM_TEXT_AUDIT.md](../2026-11-22/INSTAGRAM_TEXT_AUDIT.md). Some wording is genuinely cropped or gated, rather than merely too small in a contact sheet. No counts increased. The clarification about accepting popular native creator blogs toward the Medium/premium request remains pending; Dreamina account-specific checks stay deferred. Production remains prohibited.
+Latest targeted check: Instagram rows 5, 11 and 13 now have source-resolution instruction-text reviews, including the insect transition's rapidly scrolled five-phase prompt. Final image/video settings and the relighting workflow's Image background-source selection are documented in [INSTAGRAM_TEXT_AUDIT.md](../2026-11-22/INSTAGRAM_TEXT_AUDIT.md). Some wording is genuinely cropped or gated, rather than merely too small in a contact sheet. No counts increased. The clarification about accepting popular native creator blogs toward the Medium/premium request remains pending; Dreamina account-specific checks stay deferred. Production remains prohibited.
 
 ## Scope
 
