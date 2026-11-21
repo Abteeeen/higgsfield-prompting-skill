@@ -2,7 +2,7 @@
 
 Working knowledge base for original short-form AI videos using Higgsfield and Dreamina. Updated 2026-11-21. We follow promising formats across niches, test in Higgsfield, and prepare eligible Dreamina productions after checking program requirements. Audience reach and prize payments are targets, not promises.
 
-**The research is in progress.** Twenty-nine in-scope article bodies, 43 Reddit post bodies and thirteen YouTube transcripts have been read, but the overall popularity standard and complete Instagram tutorial coverage are not yet met. The article total includes a separately labeled editing workflow. Twenty-one Reddit main videos have speech checks and whole-timeline visual sampling. Eleven of the YouTube tutorials are platform-specific with observed audience uptake; two remain supplements. See the evidence ledger rather than treating discovery counts as completed research.
+**The research is in progress.** Thirty in-scope article bodies, 43 Reddit post bodies and thirteen YouTube transcripts have been read, but the overall popularity standard and complete Instagram tutorial coverage are not yet met. The article total includes a separately labeled editing workflow. Twenty-one Reddit main videos have speech checks and whole-timeline visual sampling. Eleven of the YouTube tutorials are platform-specific with observed audience uptake; two remain supplements. See the evidence ledger rather than treating discovery counts as completed research.
 
 **Current scope: research and strategy only. Production is on hold until the user explicitly asks to begin.**
 
@@ -18,6 +18,7 @@ Working knowledge base for original short-form AI videos using Higgsfield and Dr
 - [Ranked creator-blog screening](research/2026-11-22/BLOG_SCREENING.md)
 - [Drama prompts and editing-workflow audits](research/2026-11-22/DRAMA_AND_EDITING.md)
 - [Advertising and Blender workflow audits](research/2026-11-22/AD_WORKFLOW_AUDITS.md)
+- [Love-story prompt collection audit](research/2026-11-22/LOVE_STORY_AUDIT.md)
 - [Reddit reading ledger](research/2026-11-21/REDDIT.md)
 - [YouTube transcript analysis](research/2026-11-21/YOUTUBE.md)
 - [Instagram review ledger](research/2026-11-21/INSTAGRAM.md)
