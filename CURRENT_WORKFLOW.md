@@ -64,6 +64,8 @@ For references reused across scenes, record one explicit mapping per asset: subj
 
 Live Higgsfield catalog observed on 2026-11-21: Seedance 2.0 offers 4–15 seconds; 2.5 offers 4–30 seconds. The 2.5 catalog lists up to 30 image, 10 video and 10 audio references; these are ceilings, not targets. Some help pages show older resolution limits. Use the actual selected interface's validation before submission. Recheck these facts whenever models change.
 
+The [November 11–12 release notes](https://higgsfield.ai/creator-hub/changelog) now distinguish Seedance 2.5's 4K output from the separate Flash model's 480p/720p previews. The 4K announcement covers standard generation, extension and selected drafts, at 4–30 seconds; bitrate affects detail and cost. Both announcements exclude US availability at observation. These platform announcements do not prove this account's access or unlimited entitlement. Flash, Draft Mode and a lower resolution are distinct choices: record the actual choice, then inspect a new final render against the accepted preview rather than assuming exact preservation.
+
 Keep platform workflow limits separate from model limits. A historical [Dreamina Long Video demonstration](https://www.instagram.com/reel/DbqeDeROWkh/) shows a 180-second duration control, while its example prompt asks for a 30-second commercial. It does not demonstrate a completed three-minute result or establish current account access. Do not transfer that interface's duration or reference-count claims to Higgsfield because both use the Seedance name; align the written target and selected duration before any authorized test.
 
 ## Test and review

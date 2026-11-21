@@ -61,6 +61,7 @@ The result broadly retains the frontal subject, paper placement and retreat towa
 
 ## Excluded from the completed count
 
+- [Divad: Claude/Higgsfield real-estate video business](https://divadsanders.medium.com/claude-higgsfield-2500-month-airbnb-side-business-how-to-build-e2e691f933a7), July 29, 2026: member-only preview in both the web reader and Chrome on November 21. Hydrated article header shows **257 claps and four responses**; author profile shows 19.1K followers. No author-provided free link was found in the accessible preview or focused search. Indexed prompt excerpts are not a full read. The income headline and production-cost claims are unverified; no popularity-qualified completion is added.
 - Paywalled Devenko viral-video and animation-factory articles: preview only. The [animation-factory article](https://devenkoai.medium.com/how-to-build-an-ai-animation-factory-that-runs-24-7-ea498d5da19d) was rechecked on November 21: member-only preview, 391 author followers, no numeric clap count exposed. Search excerpts do not resolve full access or verify its income/automation claims.
 - A byDira article returned Gone.
 - Additional discovered guides by Gautam Soni and Alex P. (the separate product-photo tutorial) remain unread. The two articles above resolve the earlier No Time and 50-example-library gaps.

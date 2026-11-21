@@ -2,6 +2,10 @@
 
 These sources support workflow research; they do not replace the requested Instagram, Reddit, blog or YouTube counts. No instructions here authorize production.
 
+## Higgsfield: November output and preview updates
+
+The complete November 11 Seedance 2.5 4K and November 12 Flash entries in the [official changelog](https://higgsfield.ai/creator-hub/changelog) were read on November 21. The entire changelog and linked demonstrations were not audited. These entries resolve an older resolution ceiling and distinguish a preview model from Draft Mode; see CURRENT_WORKFLOW.md. No account entitlement or generation was tested. This primary documentation does not increase the popular-blog count.
+
 ## Mr. Nobody: reference-based character swaps
 
 [Creator's free eight-page PDF](https://mrnobodyirl.com/guide/Mr-Nobody-free-guide.pdf), linked from the [creator's guide page](https://mrnobodyirl.com/guide/). Inspected November 21: all eight pages read and visually reviewed after local rendering, including both complete prompt boxes and the interface image. No email submission, purchase, installation or generation occurred.
