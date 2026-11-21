@@ -1,6 +1,6 @@
 # Blog and long-form reading ledger
 
-Observed 2026-11-21. Twelve complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: most Medium clap counts were unavailable, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
+Observed 2026-11-21. Fourteen complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: most Medium clap counts were unavailable, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
 
 | Source / publication | Access and popularity evidence | What survives scrutiny / limitation |
 |---|---|---|
@@ -29,11 +29,24 @@ Three claims need qualification. A script's predicted retention score is a plann
 
 Retain its practical advice to version prompts, define observable objects/actions/camera movement, and treat generation as one stage of editing. Do not adopt its speculative descriptions of internal diffusion architecture, batching, quantization, training-data reuse or future APIs as verified ByteDance facts. The article frequently uses inference language and does not supply a controlled test, current interface walkthrough or complete shot recipe. Its generic comparison of other systems does not prove Seedance's architecture. It is a full-text research source with modest visible engagement, not evidence that the ten-popular-guides requirement is met. The cover figure and linked resources were not separately inspected.
 
+## Additional full article: reference-directed scenes
+
+[Czarif's Seedance 2.0 workflow](https://medium.com/@hexaleo/67acf3def3e4?source=friends_link&sk=aaa117b8dc201f8557d2d02e0735742c), February 12, 2026. The author's in-article free link opened the full six-minute body with Medium's explicit Friend Link confirmation. Read every section through the closing publication invitation. **244 claps and three responses** displayed; the author had 1K followers and the publication 14.5K. These are stronger audience signals than several earlier sources, not a quality rating or a count of unique endorsers. Cover art and linked publication material were not inspected.
+
+Useful planning ideas: assign separate identity, camera and audio references; keep the motion reference simple; describe concrete action. The four example scenes provide test ideas, not proven success rates. Architectural explanations about identity tokens and event-to-sound alignment lack supporting technical references. Do not treat custom reference names, motion-strength controls, exact waveform synchronization or a 20-second teaser as verified current interface capabilities. Writing 4K in a prompt does not establish the output setting. Confirm supported controls separately before any authorized production.
+
+## Additional full article: large prompt library
+
+[Alex P.'s 50-example Seedance 2.0 guide](https://medium.com/@0xmega/best-seedance-2-0-prompts-50-copy-paste-examples-for-professional-ai-video-creation-81bcf5840d0f), February 13, 2026. Full 31-minute article body read, including every numbered prompt, advanced workflows, troubleshooting, pricing, FAQ and conclusion. **170 claps and one response** displayed. All five instructional/comparison figures were opened and visually read; cover artwork was not separately inspected. The claimed 200-plus generations are self-reported, with no run log or controlled comparison.
+
+Retain explicit reference roles, label checking, observable actions and changing one variable between tests. Concrete contradictions limit confidence: the guide states nine-image/three-audio limits but includes ten-image and four-audio examples; a panoramic instruction mixes horizontal panning with vertical travel. Claims of perfect consistency, identical motion transfer, guaranteed negative-prompt fixes and a universally optimal word count are unsupported. Its slow-motion examples request 120 fps while its output FAQ lists different frame rates. Textual requests do not establish supported settings. The model-comparison and pricing tables are historical author claims, not current entitlements or benchmarks. Reusing a successful format is an experiment, not evidence that the remake will succeed.
+
 ## Excluded from the completed count
 
 - Paywalled Devenko viral-video and animation-factory articles: preview only.
 - A byDira article returned Gone.
-- Additional discovered Medium guides by 0xmega, Gautam Soni and no-time were not fully read in this pass.
+- Additional discovered guides by Gautam Soni and Alex P. (the separate product-photo tutorial) remain unread. The two articles above resolve the earlier No Time and 50-example-library gaps.
+- HalfJourney Lab's Seedance/Midjourney article exposed a paywall preview only; excluded.
 
 ## Discovery limits checked directly
 
