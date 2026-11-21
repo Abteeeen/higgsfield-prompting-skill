@@ -24,6 +24,8 @@ Some of those twenty-one have annual-Top placement and hundreds of votes; others
 
 The [Instagram ledger](../2026-11-21/INSTAGRAM.md) excludes showcase/trailer rows **2, 3, 12 and 16**. The twenty procedural posts with at least 500 observed likes are **1, 5–6, 8–9, 11, 13, 17–29**. Their instruction can be a reference workflow, preset invocation or endpoint demonstration; it is not always a complete production recipe. Rows **4, 7, 10, 14 and 15** add procedural research with low or anomalous observed engagement. The strongest engagement does not automatically make a gated promotion a tutorial.
 
+The [targeted source-resolution check](INSTAGRAM_TEXT_AUDIT.md) closes the small-text follow-up for Instagram rows 5 and 11. It resolves final settings and background-reference selection while confirming that some prompt wording is outside the published frame or comment-gated. That missing reproduction material is not recoverable by further enlargement and does not require repeated checks. Counts remain unchanged.
+
 The twelve platform-specific [YouTube transcripts](../2026-11-21/YOUTUBE.md) are **1, 3–8 and 10–14**. Rows **2 and 9** remain supplements. Keep their actual transcript scope separate from inspection of every displayed prompt or linked download.
 
 ## Avoid adding requirements the user did not ask for
