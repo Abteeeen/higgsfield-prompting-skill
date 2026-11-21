@@ -8,7 +8,7 @@ The following is a selected instructional queue from that feed, not its uninterr
 
 | Guide | Likes | Views | Review depth |
 |---|---:|---:|---|
-| [Joey: All My Claude Skills for Better Prompting](https://higgsfield.ai/@joeysnoisygroup/blogs/all-my-claude-skills-for-better-prompting) | 274 | 38.4K | Complete body, six section graphics and complete Shotcaller v2 specification; five other attachments and linked video unread |
+| [Joey: All My Claude Skills for Better Prompting](https://higgsfield.ai/@joeysnoisygroup/blogs/all-my-claude-skills-for-better-prompting) | 274 | 38.4K | Complete body, six section graphics, complete Shotcaller v2 and Motiondojo v1 specifications; linked lesson transcript read. Four archives, main cover and full linked-video visual review remain incomplete |
 | [Adil: Cinematic AI Short Film](https://higgsfield.ai/@adilinthewildtempo/blogs/make-a-cinematic-ai-short-film-with-higgsfield-the-workflow) | 206 | 38K | Partial body read through the club fight, corridor assets and complete first corridor dialogue/action prompt (distinct paragraphs 0–574); remaining body, media and attachments unread |
 | [Kaye: Zombie dog prompts](https://higgsfield.ai/@kaye_creatives/blogs/zombie-dog-prompts) | 94 | 19K | Complete body, seven figures and optional Cinedance attachment read; no completed film reviewed |
 | [Kaye: LEGO](https://higgsfield.ai/@kaye_creatives/blogs/lego) | 76 | 15.5K | Complete body, sixteen reference images plus cover read; logo-reference video sampled and speech-checked |
