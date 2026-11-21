@@ -8,6 +8,8 @@ Latest targeted check: Instagram rows 5, 11 and 13 now have source-resolution in
 
 November 22 trend supplement: a 714K-view, 90.4K-like character-dance showcase now has its full caption, whole-file ASR limitations and sixteen timeline samples recorded in [TREND_SCREENING.md](../2026-11-22/TREND_SCREENING.md). Its date-label conflict is preserved. Four of five analyzed candidates are inside the current trailing week; tutorial counts do not increase. Five other popular leads were screened out as historical, promotional or outside scope, with their caption-only review limits explicit.
 
+November 22 Medium checkpoint: [MEDIUM_SHORTLIST.md](../2026-11-22/MEDIUM_SHORTLIST.md) compares the ten existing article bodies with numeric clap evidence, from 11 to 244, with per-article media limits. Six new leads yielded three member previews and three public bodies with unverified popularity/platform fit; none increases qualifying or retained core totals. The ten-popular-Medium requirement remains unresolved.
+
 ## Scope
 
 - Audit `Abteeeen/higgsfield-prompting-skill`; its starting commit is `a9dcbde`, dated 2026-07-09.

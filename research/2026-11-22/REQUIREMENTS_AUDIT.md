@@ -16,6 +16,8 @@ This checkpoint audits the saved source records, rather than adding discovery UR
 | Repository refresh and strategy | Historical claims archived/labeled; current workflow, strategy, twelve paper concepts and source ledgers on draft PR 2. | Reviewable research deliverable. Draft status and production hold remain appropriate while required research gaps are open. |
 | Prepare a first Higgsfield test within the revised scope | [Paper-only guiding interaction brief](../../experiments/2026-11-22-guiding-light/PAPER_TEST.md): proposed controls, reference composition, two prompt variants and review criteria. | Prepared for discussion if E1 is selected. No assets or runs exist; actual mode/control support and Unlimited allowance must be rechecked after authorization. The user expressly prohibited generation, so execution is not a current requirement. |
 
+The [Medium shortlist](MEDIUM_SHORTLIST.md) now ranks the ten already-read relevant articles with recorded numeric claps (11–244) and makes their specific review limits visible. This is an observed-sample ranking, not proof of ten popular guides. Six further leads were screened without adding a qualifying source or inflating core totals.
+
 ## Exact instructional subsets
 
 The [Reddit ledger](../2026-11-21/REDDIT.md) has twenty-one sampled main videos attached to posts that expose instructions or claim to teach a workflow: **8, 13, 17, 22–27, 31–33, 35–36, 38–44**. Row **37** is the additional sampled showcase and is excluded from this instructional subset: its native post is a showcase and its linked lesson is counted in YouTube. Text-only discussions and inspected diagrams are additional research, not a way to inflate this video subset.

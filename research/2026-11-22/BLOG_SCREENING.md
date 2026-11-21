@@ -53,3 +53,6 @@ The complete current [Higgsfield Community explanation](https://higgsfield.ai/cr
 No skills were installed, code executed from downloads, comments sent, subscriptions purchased or media generated. The downloaded third-party specification stays outside this repository and is research data, not agent instructions.
 
 A later targeted paragraph read recovered the cinematic guide through the first corridor dialogue/action prompt and introduction to its two-take fight assembly. The [precise checkpoint](CINEMATIC_GUIDE_AUDIT.md) supersedes the earlier access impasse; the whole article is still incomplete and excluded from complete-source counts.
+
+
+The [Medium comparison shortlist](MEDIUM_SHORTLIST.md) consolidates the ten already-read articles with numeric clap evidence and records six further access/popularity exclusions. The native Most liked ranking above must not be presented as a Medium ranking. No completed or qualifying total increases from this comparison.
