@@ -1,6 +1,6 @@
 # Blog and long-form reading ledger
 
-Observed 2026-11-21. Fourteen complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: most Medium clap counts were unavailable, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
+Observed 2026-11-21. Seventeen complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: many Medium clap counts were unavailable or modest, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
 
 | Source / publication | Access and popularity evidence | What survives scrutiny / limitation |
 |---|---|---|
@@ -41,6 +41,14 @@ Useful planning ideas: assign separate identity, camera and audio references; ke
 
 Retain explicit reference roles, label checking, observable actions and changing one variable between tests. Concrete contradictions limit confidence: the guide states nine-image/three-audio limits but includes ten-image and four-audio examples; a panoramic instruction mixes horizontal panning with vertical travel. Claims of perfect consistency, identical motion transfer, guaranteed negative-prompt fixes and a universally optimal word count are unsupported. Its slow-motion examples request 120 fps while its output FAQ lists different frame rates. Textual requests do not establish supported settings. The model-comparison and pricing tables are historical author claims, not current entitlements or benchmarks. Reusing a successful format is an experiment, not evidence that the remake will succeed.
 
+## Additional body reads: popularity and claim audit
+
+[Pranit naik: action-series workflow](https://medium.com/no-time/how-to-create-an-action-series-using-higgsfield-ai-92f5993cff98?sk=1fbdba41d60a561aebae8669501d7cd8), March 20, 2026. Full seven-minute body read through the closing invitation using the author's official Friend Link. **97 claps**, 5.9K author followers and 14.5K publication followers displayed. Cover artwork was not inspected. Retain modular scene planning, prompt versioning, external editing and budgeting for unsuccessful attempts. Assemble shots in narrative order; generation order does not establish continuity. Universal duration/resolution limits, Soul ID support, prices, free credits and the attributed Arena Zero pipeline were not independently verified and must not become current platform specifications. Audience size does not establish that this guide is widely endorsed.
+
+[Micheal Lanham: six-part prompting formula](https://medium.com/@Micheal-Lanham/learn-ai-filmmaking-with-seedance-2-0-day-2-the-six-part-formula-937d16b3dfa1), April 28, 2026. Complete 16-minute body read; **14 claps, one response**, 1.5K author followers. Eight instructional figures, three animated examples and cover artwork remain visually unreviewed. Observable actions, reusable identity descriptions and small controlled comparisons are useful planning practices. Claims about token weighting, exact timing, negative-prompt reliability and Fast-to-Pro transfer lack controlled evidence. Example durations and aspect ratios disagree with their surrounding descriptions; the author also reports changes beyond the printed prompts. Treat those outputs as modified demonstrations, not exact reproductions. A single changed prompt and one output cannot isolate causality. This body read does not satisfy a full multimedia review or popularity requirement.
+
+[J4nt4nCrypto: complete Seedance prompting guide](https://j4nt4ncrypto.medium.com/mastering-seedance-2-0-the-complete-prompting-guide-for-cinematic-ai-videos-a630cc169b5c), March 31, 2026. Complete 14-minute body read through troubleshooting, conclusion and the final reference sheet; **89 claps** displayed. Instructional figures remain unreviewed. Explicit reference roles, shot purpose and concrete audio cues are useful briefing ideas. Mandatory quality suffixes, dependable physics, automatic identity preservation and optimal shot counts are asserted without run logs or comparisons. Writing a resolution in prose does not select output resolution. Confirm endpoint support and reference binding in the actual interface. The football examples introduce several interactions and cuts; their success claims should not replace inspection of generated results. Troubleshooting assigns single causes without ruling out alternatives. This is a modest-engagement text source, not evidence of a universally reliable formula.
+
 ## Excluded from the completed count
 
 - Paywalled Devenko viral-video and animation-factory articles: preview only.
@@ -51,6 +59,8 @@ Retain explicit reference roles, label checking, observable actions and changing
 ## Discovery limits checked directly
 
 Medium's `Dreaminaai` topic displayed one follower, seven stories and two writers; its latest displayed article was September 2, 2025. This narrow topic is not a useful standalone ranking of current Dreamina guides. It does not establish that newer articles elsewhere on Medium are absent. Do not use either topic's “popular” placement as a substitute for the user's broader high-quality/popularity requirement.
+
+A further check of [Seedance 2](https://medium.com/tag/seedance-2) found a single displayed weekly-popular entry; the broader [Seedance topic](https://medium.com/tag/seedance) displayed six followers, 28 stories and 28 writers. These small topic listings did not establish ten popular prompting guides. Listed but unopened articles are discovery leads, not completed reads.
 
 ## Interpretation
 
