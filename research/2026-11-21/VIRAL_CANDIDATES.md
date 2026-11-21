@@ -11,6 +11,8 @@ Scope: an account sample, not an exhaustive Instagram ranking. No fixed niche. D
 - Duration: approximately 114.27 seconds, measured from the downloaded public video.
 - Inspection: full caption and visible engagement; full-length local speech transcription; chronological contact sheet sampled every three seconds across the entire video. This is **not a claim of frame-by-frame viewing**. Raw third-party media and transcript remain outside the repository.
 
+**November 22 follow-up:** the same reel's live profile-grid tile now displays **89.3M views**. The reel view displays **6.5M likes, 92.7K comments, 407K reposts and 1.5M shares**; the profile displays **200,120 followers**. These remain rounded/asynchronous public counters, not an analytics export. The change from the November 21 grid snapshot is approximately **16.8M displayed views**. Exact observation times are not aligned, so do not convert that difference into a precise hourly/daily rate or claim acceleration. The latest reel-view caption preview only says to comment for more episodes; it does not independently reconfirm the earlier expanded-caption provenance. This is a metrics refresh, not another media review or another independent viral example.
+
 ### Narrative analysis
 
 The opening reinterprets a whack-a-mole arcade machine as a workplace for a living father. Injuries and coins reveal the personal cost of the game. Shared food establishes a relationship with an alley cat. The father's child struggles to read, turning his work into a concrete goal: buying glasses. He works past exhaustion. The cat offers its remaining life to save him. The father returns with the glasses and the child can finally read.

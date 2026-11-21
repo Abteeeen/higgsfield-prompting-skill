@@ -36,9 +36,9 @@ Whole-file ASR and timeline samples cover the duration but do not establish cont
 
 ## Next work that actually closes gaps
 
-1. Finish the strongest selected blog bodies and their instructional figures/media. Continue the cinematic-film guide at Scene 2.6, following the [saved reading checkpoint](CINEMATIC_GUIDE_AUDIT.md); the love-story image pass is complete, with audio-analysis limits recorded; keep optional downloads separate from the public article review. Do not substitute more low-engagement bodies for popular full guides.
+1. Resolve required instructional-media gaps in the ten complete popular-blog bodies before expanding the queue. The supplementary cinematic-film article remains partial at index 575, following the [saved reading checkpoint](CINEMATIC_GUIDE_AUDIT.md); it is not needed to increase the existing ten-body count. The love-story image pass is complete, with audio-analysis limits recorded. Keep optional downloads separate from the public article review and retain the explicit Medium/native-blog distinction.
 2. Resolve instruction-bearing media/text gaps in the identified Reddit and Instagram subsets. Preserve each post's popularity evidence and affiliation; replace a weak or inaccessible qualifying candidate only when necessary.
-3. Refresh the recent Instagram shortlist and obtain comparison evidence before calling a format repeatable. Historical technique research need not be repeated just because a weekly trend window changes.
+3. The leading reel has a second live grid observation: 72.5M views on November 21, 89.3M on November 22, with details in the candidate ledger. Obtain independent comparison evidence before calling a format repeatable; that stronger claim is not required merely to present a dated viral candidate. Historical technique research need not be repeated just because a weekly trend window changes.
 4. Keep account-dependent Spotlight verification deferred. Discuss the strategy and paper concepts before any future generation authorization.
 
 The public dinosaur guide has already been located and reviewed in [KAYE_GUIDES.md](KAYE_GUIDES.md). The strategy's earlier statement that its recipe was only gated is superseded; exact original run provenance and cause of reach are still unknown.
