@@ -2,7 +2,7 @@
 
 # Current AI video workflow
 
-Updated: 2026-11-21. Research is ongoing; see `research/2026-11-21/STATUS.md` for coverage. This guide supersedes conflicting claims in the historical July notes.
+Updated: 2026-11-22. Research is ongoing; see `research/2026-11-21/STATUS.md` for coverage. This guide supersedes conflicting claims in the historical July notes.
 
 ## Objective
 
@@ -26,6 +26,8 @@ Higgsfield and Dreamina are platforms; Seedance is a model family. Their interfa
 6. End with the intended final state and the few continuity constraints that matter. Long negative lists and extra cinema terminology are not a substitute for clear staging.
 
 There is no universal best word count. JSON may organize a planning document; it is not a documented private rendering-engine schema. Keep real API parameters separate from prose.
+
+A full-looking prompt can still omit the scene. The [301-vote cinematic post](https://www.reddit.com/r/seedance2pro/comments/1xl173h/how_to_create_cinematic_ai_videos_with_seedance/) supplies style preferences but none of its demonstrated chase, obstacles or rescue. Before adopting a recipe, identify where the actual event and geography are specified—in text, reference media or a preset. If that input is absent, record the gap rather than crediting generic quality words with producing the story.
 
 For Seedance 2.0, the same official guide recommends separate face and body references over multi-view character composites, which can cause duplicate subjects. It also distinguishes editing an existing video from borrowing its motion or style. Match the wording to that task; verify the platform's supported mode separately.
 
