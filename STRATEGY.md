@@ -46,6 +46,8 @@ After production is explicitly authorized, improve through a small test log: one
 
 For each shortlisted format, prepare three concise concept variations on paper. Change the central situation, characters, causal sequence and payoff—not just names or colors. Select one by hook clarity, emotional or visual payoff, feasibility and originality.
 
+The [concept comparison](CONCEPT_OPTIONS.md) now provides nine original options, three per observed direction, and three provisional paper finalists. It separates a simpler future technical test from a more ambitious emotional story. These are creative judgments for discussion, not performance forecasts or a production selection.
+
 Current discussion candidate: **The Last Light**. An exhausted firefly powers a village streetlamp, leaves it to guide a lost child home, and receives kindness in return. This is an untested concept inspired by a broad narrative mechanism. It has not been selected by the user, and no successful generation exists. The earlier draft prompt is retained only as a draft.
 
 Do not prematurely commit the account to this style. The next well-supported trend may belong to another category. The research shortlist currently needs more recent independent examples before a weekly production slate is defensible.
@@ -65,6 +67,8 @@ Trial Reels are a possible way to compare openings after publishing is authorize
 The official [Spotlight carousel](https://www.instagram.com/p/DfPZDsyI6mO/) lists $10,000 at 5M views and $20,000 at 10M, with other conditions. Its announcement requires videos of at least 30 seconds, specified tags and review. The official submission form restricts publication to November/December 2026 and groups cross-post URLs in one response per creative work. It does not confirm view aggregation. Full eligibility and submission deadlines remain unresolved; see [program evidence](research/2026-11-21/DREAMINA_SPOTLIGHT.md).
 
 Before committing a production slate to the reward, confirm country/payment eligibility, submission timing, reuse rules, Dreamina provenance and how platform views are counted. Reconcile participant-specific tags and payout timing against the latest official creator notices; the public carousel alone is not the account's complete checklist. Keep private correspondence outside this public repository, and keep cash earnings separate from non-cash credits. A popular Higgsfield-only video cannot simply be relabeled as a Dreamina entry.
+
+The user will provide Dreamina account access later. Leave account-dependent checks open and continue public-source research and concept planning in the meantime; do not repeatedly request the account or infer eligibility from the delay.
 
 ## Research still required
 
