@@ -28,7 +28,7 @@ Three claims need qualification. A script's predicted retention score is a plann
 - Paywalled Devenko viral-video and animation-factory articles: preview only.
 - A byDira article returned Gone.
 - Additional discovered Medium guides by 0xmega, Gautam Soni and no-time were not fully read in this pass.
-- [Sebastian Buzdugan's Dreamina/CapCut pipeline article](https://medium.com/@sebuzdugan/how-to-build-real-video-pipelines-with-bytedances-dreamina-seedance-2-0-in-capcut-d39aa3875138), March 27: Medium search displayed 41 claps and a member-only label. Search result inspected, article not read; excluded from full-reading and popularity-qualified totals.
+- [Sebastian Buzdugan's Dreamina/CapCut pipeline article](https://medium.com/@sebuzdugan/how-to-build-real-video-pipelines-with-bytedances-dreamina-seedance-2-0-in-capcut-d39aa3875138), March 27: Medium search displayed 41 claps and a member-only label. The author provides an [official free-reading link](https://medium.com/@sebuzdugan/how-to-build-real-video-pipelines-with-bytedances-dreamina-seedance-2-0-in-capcut-d39aa3875138?sk=9760846fe054067900498880592307ef). Search exposed substantial text, but opening that link in the web reader still returned only the preview. Full accessible article verification remains pending; excluded from completed and popularity-qualified totals. No third-party paywall bypass was used.
 
 ## Discovery limits checked directly
 
