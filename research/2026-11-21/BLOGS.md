@@ -1,6 +1,6 @@
 # Blog and long-form reading ledger
 
-Observed 2026-11-21. Seventeen complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: many Medium clap counts were unavailable or modest, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
+Observed 2026-11-21. Eighteen complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: many Medium clap counts were unavailable or modest, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
 
 | Source / publication | Access and popularity evidence | What survives scrutiny / limitation |
 |---|---|---|
@@ -53,9 +53,15 @@ Retain observable actions, separate enduring identity from temporary state, and 
 
 Retain explicit reference roles, shot purpose and concrete audio cues. Treat the charts as unsupported illustrations: no measurement method or run log substantiates their quality scores, 100% control bars or claimed exponential improvement with prompting time. The complexity chart uses a 25-second advanced example; the table lists 15–30 seconds, while the written advanced sequence totals 13 seconds. These do not establish supported model duration. Mandatory quality suffixes, dependable physics, automatic identity preservation and optimal shot counts remain unproven. Resolution words do not select output settings. The figures close an access-depth gap but do not satisfy the popularity requirement or establish reliability.
 
+## Additional full article: camera-reference comparison
+
+[Ian Adera's Blender mirror-shot walkthrough](https://ianodad.medium.com/i-made-this-mirror-shot-with-blender-and-ai-ea072eec2b0d), September 23, 2026: full body, both prompts and all seven unique static illustrations read, including cover art. **11 claps / 51 author followers**; not popularity-qualified. Its two linked MP4s were downloaded and sampled every second across their full timelines. Reference: 360 frames, 24fps, 960×540, 15 seconds. Result: 361 frames, 24fps, 1280×720, 15.0417 seconds. Full-result ASR found no speech; sound design remains unverified. Inline GIFs and editable project files were not separately audited.
+
+The result broadly retains the frontal subject, paper placement and retreat toward a framed-wall reveal. Source and result differ in staging/timing; the reference is visibly occluded at eight seconds while the result shows the approaching person. This supports guidance, not exact transfer or correct mirror physics. The supplied recipe separates appearance from camera motion and specifies their spatial relationship. The failed earlier take and generation records were not inspected, so the claimed improvement is not a controlled comparison. No project code was run or generation submitted.
+
 ## Excluded from the completed count
 
-- Paywalled Devenko viral-video and animation-factory articles: preview only.
+- Paywalled Devenko viral-video and animation-factory articles: preview only. The [animation-factory article](https://devenkoai.medium.com/how-to-build-an-ai-animation-factory-that-runs-24-7-ea498d5da19d) was rechecked on November 21: member-only preview, 391 author followers, no numeric clap count exposed. Search excerpts do not resolve full access or verify its income/automation claims.
 - A byDira article returned Gone.
 - Additional discovered guides by Gautam Soni and Alex P. (the separate product-photo tutorial) remain unread. The two articles above resolve the earlier No Time and 50-example-library gaps.
 - HalfJourney Lab's Seedance/Midjourney article exposed a paywall preview only; excluded.
