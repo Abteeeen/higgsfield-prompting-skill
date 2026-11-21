@@ -25,6 +25,8 @@ Higgsfield and Dreamina are platforms; Seedance is a model family. Their interfa
 
 There is no universal best word count. JSON may organize a planning document; it is not a documented private rendering-engine schema. Keep real API parameters separate from prose.
 
+Before using a multi-stage prompt pack, compare every stage against one continuity record: subject appearance, left/right accessories, location geometry, source-reference roles and camera position. A reviewed [photorealism pack](https://www.reddit.com/r/Seedance_AI/comments/1wop0ju/full_breakdown_how_i_used_claude_opus_seedance_25/) changes car and wardrobe details between stages despite repeated identity-lock instructions. Resolve contradictions before adding more adjectives. Distinguish a fixed viewpoint with slight handheld sway from an absolutely immobile frame.
+
 Treat an assistant's script-retention score and estimated narration clock as planning aids. They do not measure viewer retention or guarantee the duration of a delivered performance. After production is authorized, time shots and captions against the actual audio, then inspect the edited result. A workflow that ends with importing clips into an editor still requires editing and review, even if its promotion describes a one-command process.
 
 ## Platform adaptation
