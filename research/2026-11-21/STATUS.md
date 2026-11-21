@@ -29,11 +29,11 @@ Full-reading status and popularity qualification are separate. Low-engagement us
 
 - Blogs: 10 complete article bodies; high-rating/popularity condition unproven. Weak or sponsored sources are labeled.
 - Reddit: 21 distinct complete post bodies; some are troubleshooting rather than guides. Embedded media and collapsed replies are not automatically included. Most popularity metrics are low or unavailable.
-- YouTube: 10 complete transcripts read; two have popularity or platform-specificity limitations described in YOUTUBE.md.
+- YouTube: 12 complete transcripts read. Excluding two supplements leaves ten platform-specific tutorials with observed audience uptake (11k–450k views); not an exhaustive highest-rated ranking. See YOUTUBE.md for exact limits and promotional context.
 - Instagram: 18 complete captions/transcripts with whole-timeline visual sampling; two are showcases/trailers excluded as complete tutorials. Exact gated or tiny on-screen prompts remain unresolved in several others. This is not 20 popular, fully inspected guides.
-- Trends: one strong recent breakout verified; broader weekly ranking not established.
+- Trends: one strong recent breakout and a second recent 2.2M-view format inspected; broader weekly ranking and cross-creator replication not established.
 - Program: all six official Spotlight slides and caption read; full eligibility/submission terms still unresolved.
 - Repository: current entry points rewritten; historical material retained; strategy draft added.
 - Production: prohibited until the user explicitly authorizes it after strategy discussion. Earlier unlimited submission was rejected, with no new job created.
 
-Chrome's browser-control connection became unavailable during research. Native access to the selected Instagram window also failed because it was minimized, and the in-app browser timed out. The official activity page was found, but its readable web response contained no article text. This does not establish that its full terms were read.
+Chrome's browser-control connection initially became unavailable, then reconnected on November 21. Two additional complete YouTube transcripts and a recent Instagram candidate were inspected after reconnection. The official activity URL redirected to Dreamina's public landing page in this signed-out session; full program terms remain unread. Browser reconnection resolves the earlier access interruption, not the outstanding source-quality or eligibility gaps.

@@ -22,4 +22,4 @@ Higgsfield tests are production experiments. Do not label a Higgsfield-only expo
 
 ## Official page located, not yet readable
 
-A public search located [Dreamina's activity page](https://dreamina.capcut.com/ai-tool/activity-detail/2026-120-dreamina-weekly-challenge). The web fetch returned zero readable lines and the browser attempt timed out. This page has not been fully reviewed; the open eligibility questions above remain open. No enrollment or submission was attempted.
+A public search located [Dreamina's activity page](https://dreamina.capcut.com/ai-tool/activity-detail/2026-120-dreamina-weekly-challenge). The web fetch returned zero readable lines and the first browser attempt timed out. After Chrome reconnected, a fresh navigation redirected to `https://dreamina.capcut.com/?from_page=dreamina_workbench`, showing the signed-out public landing page rather than activity terms. The program's full terms have therefore not been reviewed; the open eligibility questions above remain open. No enrollment or submission was attempted.

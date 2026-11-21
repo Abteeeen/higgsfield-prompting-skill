@@ -17,11 +17,25 @@ The opening reinterprets a whack-a-mole arcade machine as a workplace for a livi
 
 The useful hypothesis is **a familiar activity seen from its overlooked participant's perspective**, followed by a specific need, costly effort, a relationship, and an observable payoff. These devices plausibly support retention and sharing; view counts alone cannot establish causation. The 114-second length also contradicts the idea that every successful AI reel must be a brief effect.
 
-### Original test derived from the structure
+### Unapproved concept derived from the structure
 
 Working title: **The Last Light**. A tiny exhausted firefly powers a streetlamp. It leaves its shelter to guide a lost child home. The child notices its exhaustion and gives it a treasured cloth rabbit to rest beside. The firefly lights up again.
 
-This changes the world, central action, relationship, stakes and ending. Do not duplicate the arcade, father-and-glasses plot, cat sacrifice, dialogue, music or shot sequence. Test the hook and visual readability before committing to a longer production.
+This changes the world, central action, relationship, stakes and ending. Do not duplicate the arcade, father-and-glasses plot, cat sacrifice, dialogue, music or shot sequence. Review the concept and hook on paper first. No generation is authorized.
+
+## Second recent candidate: impossible everyday companions
+
+- Source: [@kaye.creatives dinosaur reel](https://www.instagram.com/kaye.creatives/reel/Df6Ho3VSBXy/).
+- Published November 19, 2026 in public metadata; Instagram displayed two days old on November 21.
+- Profile reels grid: **2.2M views**. Detail: **155K likes**. Public download metadata separately reported 153,472 likes and 1,636 comments; these are different observations, not exact synchronized metrics.
+- Creator profile displayed 1,188,701 followers. Its audience scale differs greatly from the hidden-worker example; raw views alone are an unfair comparison of format strength.
+- Complete public caption read. Video timeline sampled every two seconds through 28 seconds, including the final scooter sequence. Speech transcription returned no speech segments; this is not proof that the audio track is silent. Continuous playback and every-frame inspection were not performed.
+- Observed scenes integrate dinosaurs into familiar life: garden seesaw, a head at an apartment window, city scale, taking photos, crossing traffic, a doorway and a helmeted scooter passenger. The recurring person, warm light and ordinary routines make the impossible companion feel familiar. This is an analytical hypothesis, not proof of why viewers shared it.
+- Potential original direction for discussion: an impossible creature helping with ordinary errands, using different actions, locations and a new payoff. This is a format option only; no prompt or production choice has been approved.
+- The caption offers prompts through the comment keyword DINO. We did not comment or message the creator and have not read that gated guide. Do not count this showcase as one of the 20 instructional Instagram posts. Its exact generation platform/model is not established by the visible caption.
+- Eligibility concern: the downloaded file measures **29.929 seconds**, slightly under 30 seconds. This reel is a creative reference, not evidence of compliance with the Spotlight duration requirement. Any eventual submission must independently meet the program's full rules.
+
+Both candidates have a current publication date, but they do not establish a cross-creator trend. Before choosing one, compare more independent recent examples and separate routine keyword comments from spontaneous audience responses.
 
 ## Other observations, with exclusions
 

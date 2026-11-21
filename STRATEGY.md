@@ -8,6 +8,8 @@ Build around timely **formats**, without committing to a subject niche. Separate
 
 Our strongest verified recent candidate is [Rezai Studio's hidden-worker story](https://www.instagram.com/reel/Df9p5sCxV2Z/), published November 20 and observed at 72.5M views on November 21. That is evidence of one breakout, not evidence that the whole category or a remake will perform similarly. Its useful mechanism is an immediately surprising situation, a sympathetic character, a concrete need, costly effort and a visible payoff. See the [full analysis](research/2026-11-21/VIRAL_CANDIDATES.md).
 
+A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.com/kaye.creatives/reel/Df6Ho3VSBXy/), published November 19 and observed at 2.2M views. It suggests a lighter format built on familiar routines with an impossible companion. It comes from a much larger account, and the prompt guide is comment-gated, so neither its production recipe nor the reason for its reach is established. Compare these directions before choosing a concept; neither is approved for production.
+
 ## 1. Select trends by evidence
 
 For each research session, collect a dated sample from Instagram across emotional animation, visual transformations, comedy, surreal everyday scenes and other emerging formats. These are search categories, not a permanent content niche.
