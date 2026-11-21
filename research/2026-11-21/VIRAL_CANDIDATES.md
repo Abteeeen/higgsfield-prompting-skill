@@ -87,3 +87,8 @@ The [Vosscore Dreamina index](https://vosscore.com/tag/dreamina) supplied useful
 The Previz Stories grid also showed several much lower-view reels beside its pinned breakout; their publication dates and content were not fully audited. This is context about uneven account performance, not a controlled format comparison. Do not calculate growth velocity from an older index count and a current Instagram count unless both observation times are known.
 
 Vosscore's separate [weekly Instagram list](https://vosscore.com/trends/instagram/weekly) mixes gaming, food, live action and other subjects. It is a discovery sample, not an exhaustive ranking of AI videos. Every candidate still needs an exact date, AI provenance and media review. A later Dreamina-index lead produced the verified container-house candidate above; the index alone did not establish its date or current reach.
+
+
+## November 22 supplement
+
+The original four-post snapshot above is preserved. A fifth candidate, [tisha_bimbo's Genjutsu character-dance showcase](https://www.instagram.com/reel/Df-SsjsMo4M/), was observed at **714K grid views and 90.4K likes**. Its November 20/21 date labels disagree but both fall inside the current trailing week. Complete caption, full-file speech check and sixteen timeline samples are documented in the [screening supplement](../2026-11-22/TREND_SCREENING.md). It is approximately 15 seconds and exposes no workflow, so it is neither a qualifying-duration Spotlight example nor an additional tutorial. Four of the five analyzed candidates remain within the trailing week on November 22; the November 14 container transformation has aged out. This remains a sampled shortlist, not Instagram's top-view ranking.

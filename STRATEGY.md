@@ -14,7 +14,7 @@ A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.
 
 ## Decision brief
 
-For the next story discussion, put **E1 — The Last Light** first on the current evidence. **T1 — The Last Ticket Booth** remains a historical format option, but its supporting November 14 post has aged out of the current week; obtain a fresh qualifying example before treating it as a current trend choice. Compare surreal companionship and physical comedy as alternatives, without fixing the account's niche. These judgments come from a four-post sample, not a proven ranking of formats or a forecast of our results.
+For the next story discussion, put **E1 — The Last Light** first on the current evidence. **T1 — The Last Ticket Booth** remains a historical format option, but its supporting November 14 post has aged out of the current week; obtain a fresh qualifying example before treating it as a current trend choice. Compare surreal companionship and physical comedy as alternatives, without fixing the account's niche. These initial concept judgments came from the four-post November 21 sample. The November 22 character-dance addition broadens the comparison without changing the proposed story priority; neither sample establishes a ranking of formats or forecasts our results.
 
 | Direction | Proposed original concept | First technical question, only after authorization | What success would establish |
 |---|---|---|---|
@@ -34,6 +34,8 @@ A third current option is [football mishap and reaction comedy](https://www.inst
 For each research session, collect a dated sample from Instagram across emotional animation, visual transformations, comedy, surreal everyday scenes and other emerging formats. These are search categories, not a permanent content niche.
 
 A fourth observed option is [a concealed-home transformation](https://www.instagram.com/reel/DfvVinmSEN-/), with 25.4M live grid views and a November 14 23:00 UTC timestamp, near this week's boundary. Its 82.5-second sequence combines neighbor conflict with successive construction reveals. Audience comments also question physical plausibility, so engagement cannot be equated with admiration or instructional accuracy. Three transformation concepts now cover this fourth direction in the concept comparison. Exact prompts/model and independent replication remain unverified.
+
+A November 22 addition is [a Genjutsu character-dance showcase](https://www.instagram.com/reel/Df-SsjsMo4M/) with 714K displayed views and 90.4K likes. Its November 20/21 date labels conflict but remain inside the week. The approximately 15-second clip supplies no recipe and does not meet Spotlight's stated duration minimum. It suggests recognizable-character movement as another hook to discuss, not a new production selection. See the [full review and screened exclusions](research/2026-11-22/TREND_SCREENING.md). Across both observations, four of five analyzed candidates are current-week references.
 
 Each candidate record should include:
 

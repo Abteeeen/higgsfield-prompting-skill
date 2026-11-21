@@ -6,6 +6,8 @@
 
 Latest targeted check: Instagram rows 5, 11 and 13 now have source-resolution instruction-text reviews, including the insect transition's rapidly scrolled five-phase prompt. Final image/video settings and the relighting workflow's Image background-source selection are documented in [INSTAGRAM_TEXT_AUDIT.md](../2026-11-22/INSTAGRAM_TEXT_AUDIT.md). Some wording is genuinely cropped or gated, rather than merely too small in a contact sheet. No counts increased. The clarification about accepting popular native creator blogs toward the Medium/premium request remains pending; Dreamina account-specific checks stay deferred. Production remains prohibited.
 
+November 22 trend supplement: a 714K-view, 90.4K-like character-dance showcase now has its full caption, whole-file ASR limitations and sixteen timeline samples recorded in [TREND_SCREENING.md](../2026-11-22/TREND_SCREENING.md). Its date-label conflict is preserved. Four of five analyzed candidates are inside the current trailing week; tutorial counts do not increase. Five other popular leads were screened out as historical, promotional or outside scope, with their caption-only review limits explicit.
+
 ## Scope
 
 - Audit `Abteeeen/higgsfield-prompting-skill`; its starting commit is `a9dcbde`, dated 2026-07-09.
