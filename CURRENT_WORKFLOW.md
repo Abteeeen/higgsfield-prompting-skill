@@ -42,6 +42,8 @@ Treat an assistant's script-retention score and estimated narration clock as pla
 
 Live Higgsfield catalog observed on 2026-11-21: Seedance 2.0 offers 4–15 seconds; 2.5 offers 4–30 seconds. The 2.5 catalog lists up to 30 image, 10 video and 10 audio references; these are ceilings, not targets. Some help pages show older resolution limits. Use the actual selected interface's validation before submission. Recheck these facts whenever models change.
 
+Keep platform workflow limits separate from model limits. A historical [Dreamina Long Video demonstration](https://www.instagram.com/reel/DbqeDeROWkh/) shows a 180-second duration control, while its example prompt asks for a 30-second commercial. It does not demonstrate a completed three-minute result or establish current account access. Do not transfer that interface's duration or reference-count claims to Higgsfield because both use the Seedance name; align the written target and selected duration before any authorized test.
+
 ## Test and review
 
 For complex spatial relationships, consider a numbered storyboard before video generation. In the [reviewed Dreamina demonstration](https://www.instagram.com/reel/De1nVnoBMsp/), simple Blender geometry establishes scale, while panels describe composition and action and separate references define appearance. This trades exact motion-reference copying for more freedom between key poses. Treat improved motion and reduced cost as hypotheses to test; the creator supplied no controlled success rate. Blender is an optional planning tool, not a requirement for every short video, and the full automation prompt was gated.
