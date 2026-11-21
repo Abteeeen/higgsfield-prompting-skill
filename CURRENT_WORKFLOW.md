@@ -49,6 +49,10 @@ For relighting a recorded performance, separate appearance from motion. The [pub
 
 ## Platform adaptation
 
+For a new camera angle on an existing performance, distinguish a re-photography request from a new performance. Name the source master, desired viewpoint and preserved action/eyeline. Build a comparison sheet at important gestures and object contacts after any authorized test. The [reviewed angle demonstration](https://www.reddit.com/r/Seedance_AI/comments/1wnveqr/seedance_25_videotovideo_workflow_reshoot_the/) shows broad alignment, but does not prove frame-exact timing or establish its full model/provider provenance. Keep the original audio separately when exact timing matters; compare the full moving result before editing angles together.
+
+For references reused across scenes, record one explicit mapping per asset: subject, permitted attributes, excluded attributes, prop owner and scene of use. Several views of one prop should be labeled as one prop. For extensions, describe the actual accepted boundary pose, prop placement and motion direction. These are planning conventions supported by [supplemental provider guidance](research/2026-11-21/SUPPLEMENTAL_GUIDES.md#atlas-cloud-editing-and-reference-assignment), not guarantees that the model will obey.
+
 | Task | Higgsfield | Dreamina |
 | --- | --- | --- |
 | Reuse identity | Select saved Elements or attach approved references; Soul ID training is not automatically applied across all models | Attach approved references and assign their roles in the selected model's workflow |
