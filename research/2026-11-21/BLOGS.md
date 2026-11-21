@@ -1,6 +1,6 @@
 # Blog and long-form reading ledger
 
-Observed 2026-11-21. Eighteen complete article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: many Medium clap counts were unavailable or modest, and some authors had very small audiences. Paywall previews are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
+Observed 2026-11-21. Nineteen complete in-scope article bodies were read. This is **not a verified top-ten or ten-popular-articles list**: many Medium clap counts were unavailable or modest, and some authors had very small audiences. Paywall previews and out-of-scope body reads are excluded. Images, embedded videos and linked documents are not implicitly included in a full-text read. These are research observations, not endorsements.
 
 | Source / publication | Access and popularity evidence | What survives scrutiny / limitation |
 |---|---|---|
@@ -59,7 +59,13 @@ Retain explicit reference roles, shot purpose and concrete audio cues. Treat the
 
 The result broadly retains the frontal subject, paper placement and retreat toward a framed-wall reveal. Source and result differ in staging/timing; the reference is visibly occluded at eight seconds while the result shows the approaching person. This supports guidance, not exact transfer or correct mirror physics. The supplied recipe separates appearance from camera motion and specifies their spatial relationship. The failed earlier take and generation records were not inspected, so the claimed improvement is not a controlled comparison. No project code was run or generation submitted.
 
-## Excluded from the completed count
+## Additional full body: Canvas workflow comparison
+
+[Jim Clyde Monge: Higgsfield Canvas versus Topview Canvas](https://medium.com/generative-ai/higgsfield-canvas-vs-topview-canvas-which-one-is-better-d5b0789f8d21), June 2, 2026: complete ten-minute body read, **96 claps / two responses / one repost**. It explains reference chaining and branching from an existing image. The written Higgsfield example adds a style conversion, so this is not an identical-input model benchmark. Comparing raw credit balances across providers does not establish relative cost; compare the same deliverable and settings instead. Pricing, feature availability and the author's productivity preference are historical observations. The complete supplied Higgsfield price image was inspected; the Topview price image was only partly visible. Other figures and the embedded result remain unreviewed after image exports timed out. Modest engagement and incomplete visual review do not close the popular-guide requirement.
+
+## Excluded sources
+
+- [Jim Clyde Monge: expression-sheet comparison](https://jimclydemonge.medium.com/ai-character-expression-sheets-one-sheet-or-one-expression-at-a-time-0e92362fd224), November 13: complete fourteen-minute body read, **169 claps / eight responses / one repost**. It covers PixAI, not Higgsfield or Dreamina, so it is excluded from the nineteen in-scope bodies. The figures were not reviewed. Its one-sheet versus individual-image cost discussion and physical-expression descriptions are supplemental ideas, not verified performance on our target platforms.
 
 - [Divad: Claude/Higgsfield real-estate video business](https://divadsanders.medium.com/claude-higgsfield-2500-month-airbnb-side-business-how-to-build-e2e691f933a7), July 29, 2026: member-only preview in both the web reader and Chrome on November 21. Hydrated article header shows **257 claps and four responses**; author profile shows 19.1K followers. No author-provided free link was found in the accessible preview or focused search. Indexed prompt excerpts are not a full read. The income headline and production-cost claims are unverified; no popularity-qualified completion is added.
 - Paywalled Devenko viral-video and animation-factory articles: preview only. The [animation-factory article](https://devenkoai.medium.com/how-to-build-an-ai-animation-factory-that-runs-24-7-ea498d5da19d) was rechecked on November 21: member-only preview, 391 author followers, no numeric clap count exposed. Search excerpts do not resolve full access or verify its income/automation claims.

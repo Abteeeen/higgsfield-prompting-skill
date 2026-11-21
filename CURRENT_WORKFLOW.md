@@ -12,6 +12,8 @@ Find fast-growing AI video formats across niches, understand why viewers share t
 
 Record platform, selected model and version, generation mode, duration, aspect ratio, resolution, audio setting, reference roles, and the displayed cost. A model catalog's support for unlimited generation does not prove that this account or interface has an unlimited allowance. Do not silently substitute credit spending for the requested unlimited workflow.
 
+Credit units differ between providers. Compare the quoted cost of the same model, duration, resolution and workflow, then record accepted output seconds and retries. A larger monthly credit balance alone does not establish better value; historical pricing screenshots do not establish current entitlements.
+
 Higgsfield and Dreamina are platforms; Seedance is a model family. Their interfaces, reference selectors, editing features, account access and pricing differ. Do not paste an API object or invented reference token into the web prompt and assume it controls settings.
 
 ## Prompt construction
