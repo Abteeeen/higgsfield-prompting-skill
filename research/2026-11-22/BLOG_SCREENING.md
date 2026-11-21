@@ -4,7 +4,7 @@ The public [Higgsfield Blogs feed sorted by Most liked](https://higgsfield.ai/co
 
 ## Prioritized sources
 
-The following is a selected instructional queue from that feed, not its uninterrupted top twelve. Higher-ranked income articles and unrelated game/code demonstrations were omitted. Joey, four Kaye articles and Adil's drama article now have complete body reads; remaining entries are discovery leads or partial reads. Detailed visual and attachment limits remain explicit.
+The following is a selected instructional queue from that feed, not its uninterrupted top twelve. Higher-ranked income articles and unrelated game/code demonstrations were omitted. Joey, five Kaye articles and Adil's drama and Blender articles now have complete body reads; remaining entries are discovery leads or partial reads. Detailed visual and attachment limits remain explicit.
 
 | Guide | Likes | Views | Review depth |
 |---|---:|---:|---|
@@ -15,8 +15,8 @@ The following is a selected instructional queue from that feed, not its uninterr
 | [Kaye: How to save your credits](https://higgsfield.ai/@kaye_creatives/blogs/how-to-save-your-credits) | 75 | 13.3K | Complete body and thirteen figures read; one embedded video sampled and speech-checked |
 | [Kaye: Claude motion tutorial](https://higgsfield.ai/@kaye_creatives/blogs/claude-motion-tutorial) | 74 | 34.1K | Complete body/four prompts, nine images and sampled/speech-checked raw footage; three optional downloads unread; editing category |
 | [Adil: Realistic AI Short Drama](https://higgsfield.ai/@adilinthewildtempo/blogs/how-to-make-ai-short-drama) | 68 | 19K | Complete body/all exposed prompts, seventeen images and nine sampled/speech-checked files; two optional downloads unread |
-| [Kaye: Redbull](https://higgsfield.ai/@kaye_creatives/blogs/redbull) | 64 | 12.8K | Listed only |
-| [Adil: Blender + Higgsfield workflow](https://higgsfield.ai/@adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video) | 53 | 39.5K | Listed only |
+| [Kaye: Redbull](https://higgsfield.ai/@kaye_creatives/blogs/redbull) | 64 | 12.8K | Complete body/all nine prompts, ten images and thirteen comments; no finished film inspected |
+| [Adil: Blender + Higgsfield workflow](https://higgsfield.ai/@adilinthewild/blogs/this-blender-higgsfield-ai-workflow-changes-how-you-make-ai-video) | 53 | 39.5K | Complete body/five use cases/four car variants and seventeen comments; media depth in linked audit |
 | [Adil: AI Love Stories](https://higgsfield.ai/@adilinthewild/blogs/youtube-guide-ai-lovestory-video) | 51 | 21.2K | Listed only |
 | [Adil: Cinematic Sports Ad with Seedance 2.5](https://higgsfield.ai/@adilinthewildtempo/blogs/how-to-create-a-cinematic-sports-ad-with-seedance-2-5-full-tutorial-youtube-guide) | 50 | 13.6K | Listed only |
 | [Adil: 3-Step Workflow to Master AI Realism](https://higgsfield.ai/@adilinthewildtempo/blogs/3-step-workflow-to-master-ai-realism-full-workflow) | 43 | 26.5K | Listed only |
@@ -24,6 +24,8 @@ The following is a selected instructional queue from that feed, not its uninterr
 These sources cluster around a few authors. They cannot be treated as twelve independent confirmations of a technique. Likes measure response to a post, not experimental reliability. No numeric popularity cutoff has been substituted for the user's requirement.
 
 See [drama and editing details](DRAMA_AND_EDITING.md) for actual versus planned durations, appearance-state conflicts and the distinction between source footage and a finished editing demonstration.
+
+See [advertising and Blender details](AD_WORKFLOW_AUDITS.md) for conflicting reference bindings, recreation defaults and the limits of exact-motion claims.
 
 ## Partial read: cinematic short film
 
