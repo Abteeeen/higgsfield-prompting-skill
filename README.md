@@ -8,6 +8,7 @@ Working knowledge base for original short-form AI videos using Higgsfield and Dr
 
 ## Start here
 
+- [Five recent viral reels and the proposed next strategy](research/2026-11-22/WEEKLY_SHORTLIST.md)
 - [Strategy proposal for discussion](STRATEGY.md)
 - [Twelve original concepts and four paper finalists](CONCEPT_OPTIONS.md)
 - [Current production and prompting workflow](CURRENT_WORKFLOW.md)

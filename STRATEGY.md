@@ -2,7 +2,7 @@
 
 Date: 2026-11-21. **Draft for discussion, not approval to generate or publish.** The user explicitly asked to agree the strategy before making videos. All production is on hold.
 
-November 22 evidence update: the four candidate metrics below retain their November 21 observation dates. The November 14 transformation has aged out of the current trailing week. [Further screening](research/2026-11-22/TREND_SCREENING.md) found that newly published template pages can describe months-old formats, and a creator's pinned breakout can greatly exceed recent uploads. Neither is sufficient evidence of a currently repeatable trend.
+November 22 evidence update: the [current five-reel shortlist](research/2026-11-22/WEEKLY_SHORTLIST.md) supersedes the earlier selection for choosing this week's direction. Two newly reviewed construction reels show 13.9M and 11M views; both come from the same creator. The older metrics below retain their observation dates. The November 14 transformation has aged out of the current trailing week. Newly published template pages and pinned historical hits do not establish a current repeatable trend.
 
 ## Recommendation
 
@@ -14,7 +14,7 @@ A second direction is [Kaye's dinosaurs in everyday life](https://www.instagram.
 
 ## Decision brief
 
-For the next story discussion, put **E1 — The Last Light** first on the current evidence. **T1 — The Last Ticket Booth** remains a historical format option, but its supporting November 14 post has aged out of the current week; obtain a fresh qualifying example before treating it as a current trend choice. Compare surreal companionship and physical comedy as alternatives, without fixing the account's niche. These initial concept judgments came from the four-post November 21 sample. The November 22 character-dance addition broadens the comparison without changing the proposed story priority; neither sample establishes a ranking of formats or forecasts our results.
+For the next story discussion, put **E1 — The Last Light** first for the strongest observed reach signal. The new tank-to-home and ditch-to-home examples restore current-week support for discussing progressive transformation, including **T1 — The Last Ticket Booth**. A water-tank-to-tea-room concept is another proposed variation. Prefer a contained transformation if the user wants a simpler first technical production; choose E1 if emotional storytelling is the priority. Compare surreal companionship and physical comedy as alternatives, without fixing the account's niche. These are judgments from a limited sample, not forecasts of our results. All concepts remain unselected.
 
 | Direction | Proposed original concept | First technical question, only after authorization | What success would establish |
 |---|---|---|---|
