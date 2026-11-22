@@ -1,3 +1,5 @@
+> Historical July 2026 research notes. Preserved for reference, not current platform specifications. Some claims are unsupported or superseded. Start with [CURRENT_WORKFLOW.md](CURRENT_WORKFLOW.md) and the [audit](research/2026-11-21/REPO_AUDIT.md).
+
 # The Elements System & Character Consistency Master Guide
 
 > Compiled July 2026 from Higgsfield official blog guides: the 3-Step Ultra-Realistic AI Ads workflow, the Seedance 4K VFX guide, the Seedance 4K film breakdown, the Soul ID guide, the "7 Tools for Consistent AI Characters" comparison, and the Zephyr K-Pop series breakdown.

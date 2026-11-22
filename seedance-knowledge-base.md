@@ -1,3 +1,5 @@
+> Historical July 2026 research notes. Preserved for reference, not current platform specifications. Some claims are unsupported or superseded. Start with [CURRENT_WORKFLOW.md](CURRENT_WORKFLOW.md) and the [audit](research/2026-11-21/REPO_AUDIT.md).
+
 # Seedance 2.0 — Complete Knowledge Base for AI Content Creation
 > **Compiled from:** Higgsfield Official Blog, Reddit (r/HiggsfieldAI, r/seedance2pro, r/seedance), GitHub (dexhunter, rediumvex, elementsix), Twitter/X, YouTube tutorials, and third-party guides
 > **Last Updated:** July 2026

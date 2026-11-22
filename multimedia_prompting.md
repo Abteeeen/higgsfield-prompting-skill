@@ -1,3 +1,5 @@
+> Historical July 2026 research notes. Preserved for reference, not current platform specifications. Some claims are unsupported or superseded. Start with [CURRENT_WORKFLOW.md](CURRENT_WORKFLOW.md) and the [audit](research/2026-11-21/REPO_AUDIT.md).
+
 # Seedance 2.0 Multimedia Prompting Guide
 
 This guide details the integration of image, video, and audio reference files with text instructions in Seedance 2.0.

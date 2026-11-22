@@ -1,3 +1,5 @@
+> Historical July 2026 research notes. Preserved for reference, not current platform specifications. Some claims are unsupported or superseded. Start with [CURRENT_WORKFLOW.md](CURRENT_WORKFLOW.md) and the [audit](research/2026-11-21/REPO_AUDIT.md).
+
 # Seedance 2.0 Format Playbooks — Official Prompt Modes & VFX Language
 
 > Compiled July 2026 from Higgsfield's official Complete Prompting Guide, the 4K VFX guide, and the Seedance 4K film breakdown. This file covers the format-specific prompt patterns that the general guides don't: Transformations, Orbs, POVs, Fights, Animation, and video-to-video VFX levels.
